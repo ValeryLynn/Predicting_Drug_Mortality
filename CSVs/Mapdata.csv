@@ -1,0 +1,3136 @@
+ LAUS Code,State FIPS Code,County FIPS Code,County Name/State Abbreviation,State,County,Overdose_mortality
+CN0100100000000,1,1,"Autauga County, AL",Alabama,Autauga,10
+CN0100300000000,1,3,"Baldwin County, AL",Alabama,Baldwin,17
+CN0100500000000,1,5,"Barbour County, AL",Alabama,Barbour,
+CN0100700000000,1,7,"Bibb County, AL",Alabama,Bibb,15
+CN0100900000000,1,9,"Blount County, AL",Alabama,Blount,21
+CN0101100000000,1,11,"Bullock County, AL",Alabama,Bullock,
+CN0101300000000,1,13,"Butler County, AL",Alabama,Butler,
+CN0101500000000,1,15,"Calhoun County, AL",Alabama,Calhoun,13
+CN0101700000000,1,17,"Chambers County, AL",Alabama,Chambers,
+CN0101900000000,1,19,"Cherokee County, AL",Alabama,Cherokee,14
+CN0102100000000,1,21,"Chilton County, AL",Alabama,Chilton,15
+CN0102300000000,1,23,"Choctaw County, AL",Alabama,Choctaw,
+CN0102500000000,1,25,"Clarke County, AL",Alabama,Clarke,
+CN0102700000000,1,27,"Clay County, AL",Alabama,Clay,
+CN0102900000000,1,29,"Cleburne County, AL",Alabama,Cleburne,24
+CN0103100000000,1,31,"Coffee County, AL",Alabama,Coffee,8
+CN0103300000000,1,33,"Colbert County, AL",Alabama,Colbert,7
+CN0103500000000,1,35,"Conecuh County, AL",Alabama,Conecuh,
+CN0103700000000,1,37,"Coosa County, AL",Alabama,Coosa,
+CN0103900000000,1,39,"Covington County, AL",Alabama,Covington,10
+CN0104100000000,1,41,"Crenshaw County, AL",Alabama,Crenshaw,
+CN0104300000000,1,43,"Cullman County, AL",Alabama,Cullman,25
+CN0104500000000,1,45,"Dale County, AL",Alabama,Dale,12
+CN0104700000000,1,47,"Dallas County, AL",Alabama,Dallas,8
+CN0104900000000,1,49,"DeKalb County, AL",Alabama,DeKalb,21
+CN0105100000000,1,51,"Elmore County, AL",Alabama,Elmore,7
+CN0105300000000,1,53,"Escambia County, AL",Alabama,Escambia,31
+CN0105500000000,1,55,"Etowah County, AL",Alabama,Etowah,20
+CN0105700000000,1,57,"Fayette County, AL",Alabama,Fayette,
+CN0105900000000,1,59,"Franklin County, AL",Alabama,Franklin,23
+CN0106100000000,1,61,"Geneva County, AL",Alabama,Geneva,
+CN0106300000000,1,63,"Greene County, AL",Alabama,Greene,
+CN0106500000000,1,65,"Hale County, AL",Alabama,Hale,
+CN0106700000000,1,67,"Henry County, AL",Alabama,Henry,
+CN0106900000000,1,69,"Houston County, AL",Alabama,Houston,15
+CN0107100000000,1,71,"Jackson County, AL",Alabama,Jackson,9
+CN0107300000000,1,73,"Jefferson County, AL",Alabama,Jefferson,22
+CN0107500000000,1,75,"Lamar County, AL",Alabama,Lamar,
+CN0107700000000,1,77,"Lauderdale County, AL",Alabama,Lauderdale,6
+CN0107900000000,1,79,"Lawrence County, AL",Alabama,Lawrence,11
+CN0108100000000,1,81,"Lee County, AL",Alabama,Lee,8
+CN0108300000000,1,83,"Limestone County, AL",Alabama,Limestone,4
+CN0108500000000,1,85,"Lowndes County, AL",Alabama,Lowndes,
+CN0108700000000,1,87,"Macon County, AL",Alabama,Macon,
+CN0108900000000,1,89,"Madison County, AL",Alabama,Madison,8
+CN0109100000000,1,91,"Marengo County, AL",Alabama,Marengo,
+CN0109300000000,1,93,"Marion County, AL",Alabama,Marion,
+CN0109500000000,1,95,"Marshall County, AL",Alabama,Marshall,21
+CN0109700000000,1,97,"Mobile County, AL",Alabama,Mobile,15
+CN0109900000000,1,99,"Monroe County, AL",Alabama,Monroe,
+CN0110100000000,1,101,"Montgomery County, AL",Alabama,Montgomery,6
+CN0110300000000,1,103,"Morgan County, AL",Alabama,Morgan,16
+CN0110500000000,1,105,"Perry County, AL",Alabama,Perry,
+CN0110700000000,1,107,"Pickens County, AL",Alabama,Pickens,
+CN0110900000000,1,109,"Pike County, AL",Alabama,Pike,
+CN0111100000000,1,111,"Randolph County, AL",Alabama,Randolph,
+CN0111300000000,1,113,"Russell County, AL",Alabama,Russell,11
+CN0111500000000,1,115,"St. Clair County, AL",Alabama,St. Clair,29
+CN0111700000000,1,117,"Shelby County, AL",Alabama,Shelby,18
+CN0111900000000,1,119,"Sumter County, AL",Alabama,Sumter,
+CN0112100000000,1,121,"Talladega County, AL",Alabama,Talladega,11
+CN0112300000000,1,123,"Tallapoosa County, AL",Alabama,Tallapoosa,
+CN0112500000000,1,125,"Tuscaloosa County, AL",Alabama,Tuscaloosa,14
+CN0112700000000,1,127,"Walker County, AL",Alabama,Walker,30
+CN0112900000000,1,129,"Washington County, AL",Alabama,Washington,
+CN0113100000000,1,131,"Wilcox County, AL",Alabama,Wilcox,
+CN0113300000000,1,133,"Winston County, AL",Alabama,Winston,
+CN0201300000000,2,13,"Aleutians East Borough, AK",Alaska,Aleutians East,
+CN0201600000000,2,16,"Aleutians West Census Area, AK",Alaska,Aleutians West,
+CN0202000000000,2,20,"Anchorage Borough/municipality, AK",Alaska,Anchorage,18
+CN0205000000000,2,50,"Bethel Census Area, AK",Alaska,Bethel,
+CN0206000000000,2,60,"Bristol Bay Borough, AK",Alaska,Bristol Bay,
+CN0206800000000,2,68,"Denali Borough, AK",Alaska,Denali,
+CN0207000000000,2,70,"Dillingham Census Area, AK",Alaska,Dillingham,
+CN0209000000000,2,90,"Fairbanks North Star Borough, AK",Alaska,Fairbanks North Star,13
+CN0210000000000,2,100,"Haines Borough, AK",Alaska,Haines,
+CN0211000000000,2,110,"Juneau Borough/city, AK",Alaska,Juneau,20
+CN0212200000000,2,122,"Kenai Peninsula Borough, AK",Alaska,Kenai Peninsula,20
+CN0213000000000,2,130,"Ketchikan Gateway Borough, AK",Alaska,Ketchikan Gateway,
+CN0215000000000,2,150,"Kodiak Island Borough, AK",Alaska,Kodiak Island,
+CN0216400000000,2,164,"Lake and Peninsula Borough, AK",Alaska,Lake and Peninsula,
+CN0217000000000,2,170,"Matanuska-Susitna Borough, AK",Alaska,Matanuska-Susitna,15
+CN0218000000000,2,180,"Nome Census Area, AK",Alaska,Nome,
+CN0218500000000,2,185,"North Slope Borough, AK",Alaska,North Slope,
+CN0218800000000,2,188,"Northwest Arctic Borough, AK",Alaska,Northwest Arctic,
+CN0222000000000,2,220,"Sitka Borough/city, AK",Alaska,Sitka,
+CN0224000000000,2,240,"Southeast Fairbanks Census Area, AK",Alaska,Southeast Fairbanks,
+CN0226100000000,2,261,"Valdez-Cordova Census Area, AK",Alaska,Valdez-Cordova,
+CN0228200000000,2,282,"Yakutat Borough/city, AK",Alaska,Yakutat,
+CN0229000000000,2,290,"Yukon-Koyukuk Census Area, AK",Alaska,Yukon-Koyukuk,
+CN0400100000000,4,1,"Apache County, AZ",Arizona,Apache,8
+CN0400300000000,4,3,"Cochise County, AZ",Arizona,Cochise,18
+CN0400500000000,4,5,"Coconino County, AZ",Arizona,Coconino,17
+CN0400700000000,4,7,"Gila County, AZ",Arizona,Gila,31
+CN0400900000000,4,9,"Graham County, AZ",Arizona,Graham,19
+CN0401100000000,4,11,"Greenlee County, AZ",Arizona,Greenlee,
+CN0401200000000,4,12,"La Paz County, AZ",Arizona,La Paz,23
+CN0401300000000,4,13,"Maricopa County, AZ",Arizona,Maricopa,17
+CN0401500000000,4,15,"Mohave County, AZ",Arizona,Mohave,30
+CN0401700000000,4,17,"Navajo County, AZ",Arizona,Navajo,22
+CN0401900000000,4,19,"Pima County, AZ",Arizona,Pima,22
+CN0402100000000,4,21,"Pinal County, AZ",Arizona,Pinal,12
+CN0402300000000,4,23,"Santa Cruz County, AZ",Arizona,Santa Cruz,9
+CN0402500000000,4,25,"Yavapai County, AZ",Arizona,Yavapai,27
+CN0402700000000,4,27,"Yuma County, AZ",Arizona,Yuma,15
+CN0500100000000,5,1,"Arkansas County, AR",Arkansas,Arkansas,
+CN0500300000000,5,3,"Ashley County, AR",Arkansas,Ashley,
+CN0500500000000,5,5,"Baxter County, AR",Arkansas,Baxter,23
+CN0500700000000,5,7,"Benton County, AR",Arkansas,Benton,13
+CN0500900000000,5,9,"Boone County, AR",Arkansas,Boone,14
+CN0501100000000,5,11,"Bradley County, AR",Arkansas,Bradley,
+CN0501300000000,5,13,"Calhoun County, AR",Arkansas,Calhoun,
+CN0501500000000,5,15,"Carroll County, AR",Arkansas,Carroll,17
+CN0501700000000,5,17,"Chicot County, AR",Arkansas,Chicot,
+CN0501900000000,5,19,"Clark County, AR",Arkansas,Clark,
+CN0502100000000,5,21,"Clay County, AR",Arkansas,Clay,26
+CN0502300000000,5,23,"Cleburne County, AR",Arkansas,Cleburne,
+CN0502500000000,5,25,"Cleveland County, AR",Arkansas,Cleveland,
+CN0502700000000,5,27,"Columbia County, AR",Arkansas,Columbia,15
+CN0502900000000,5,29,"Conway County, AR",Arkansas,Conway,
+CN0503100000000,5,31,"Craighead County, AR",Arkansas,Craighead,13
+CN0503300000000,5,33,"Crawford County, AR",Arkansas,Crawford,18
+CN0503500000000,5,35,"Crittenden County, AR",Arkansas,Crittenden,8
+CN0503700000000,5,37,"Cross County, AR",Arkansas,Cross,
+CN0503900000000,5,39,"Dallas County, AR",Arkansas,Dallas,
+CN0504100000000,5,41,"Desha County, AR",Arkansas,Desha,
+CN0504300000000,5,43,"Drew County, AR",Arkansas,Drew,
+CN0504500000000,5,45,"Faulkner County, AR",Arkansas,Faulkner,10
+CN0504700000000,5,47,"Franklin County, AR",Arkansas,Franklin,
+CN0504900000000,5,49,"Fulton County, AR",Arkansas,Fulton,
+CN0505100000000,5,51,"Garland County, AR",Arkansas,Garland,25
+CN0505300000000,5,53,"Grant County, AR",Arkansas,Grant,
+CN0505500000000,5,55,"Greene County, AR",Arkansas,Greene,13
+CN0505700000000,5,57,"Hempstead County, AR",Arkansas,Hempstead,
+CN0505900000000,5,59,"Hot Spring County, AR",Arkansas,Hot Spring,11
+CN0506100000000,5,61,"Howard County, AR",Arkansas,Howard,
+CN0506300000000,5,63,"Independence County, AR",Arkansas,Independence,10
+CN0506500000000,5,65,"Izard County, AR",Arkansas,Izard,
+CN0506700000000,5,67,"Jackson County, AR",Arkansas,Jackson,
+CN0506900000000,5,69,"Jefferson County, AR",Arkansas,Jefferson,7
+CN0507100000000,5,71,"Johnson County, AR",Arkansas,Johnson,13
+CN0507300000000,5,73,"Lafayette County, AR",Arkansas,Lafayette,
+CN0507500000000,5,75,"Lawrence County, AR",Arkansas,Lawrence,
+CN0507700000000,5,77,"Lee County, AR",Arkansas,Lee,
+CN0507900000000,5,79,"Lincoln County, AR",Arkansas,Lincoln,
+CN0508100000000,5,81,"Little River County, AR",Arkansas,Little River,
+CN0508300000000,5,83,"Logan County, AR",Arkansas,Logan,15
+CN0508500000000,5,85,"Lonoke County, AR",Arkansas,Lonoke,16
+CN0508700000000,5,87,"Madison County, AR",Arkansas,Madison,
+CN0508900000000,5,89,"Marion County, AR",Arkansas,Marion,
+CN0509100000000,5,91,"Miller County, AR",Arkansas,Miller,8
+CN0509300000000,5,93,"Mississippi County, AR",Arkansas,Mississippi,8
+CN0509500000000,5,95,"Monroe County, AR",Arkansas,Monroe,
+CN0509700000000,5,97,"Montgomery County, AR",Arkansas,Montgomery,
+CN0509900000000,5,99,"Nevada County, AR",Arkansas,Nevada,
+CN0510100000000,5,101,"Newton County, AR",Arkansas,Newton,
+CN0510300000000,5,103,"Ouachita County, AR",Arkansas,Ouachita,
+CN0510500000000,5,105,"Perry County, AR",Arkansas,Perry,
+CN0510700000000,5,107,"Phillips County, AR",Arkansas,Phillips,
+CN0510900000000,5,109,"Pike County, AR",Arkansas,Pike,
+CN0511100000000,5,111,"Poinsett County, AR",Arkansas,Poinsett,
+CN0511300000000,5,113,"Polk County, AR",Arkansas,Polk,
+CN0511500000000,5,115,"Pope County, AR",Arkansas,Pope,7
+CN0511700000000,5,117,"Prairie County, AR",Arkansas,Prairie,
+CN0511900000000,5,119,"Pulaski County, AR",Arkansas,Pulaski,13
+CN0512100000000,5,121,"Randolph County, AR",Arkansas,Randolph,
+CN0512300000000,5,123,"St. Francis County, AR",Arkansas,St. Francis,
+CN0512500000000,5,125,"Saline County, AR",Arkansas,Saline,12
+CN0512700000000,5,127,"Scott County, AR",Arkansas,Scott,
+CN0512900000000,5,129,"Searcy County, AR",Arkansas,Searcy,
+CN0513100000000,5,131,"Sebastian County, AR",Arkansas,Sebastian,12
+CN0513300000000,5,133,"Sevier County, AR",Arkansas,Sevier,
+CN0513500000000,5,135,"Sharp County, AR",Arkansas,Sharp,24
+CN0513700000000,5,137,"Stone County, AR",Arkansas,Stone,
+CN0513900000000,5,139,"Union County, AR",Arkansas,Union,
+CN0514100000000,5,141,"Van Buren County, AR",Arkansas,Van Buren,
+CN0514300000000,5,143,"Washington County, AR",Arkansas,Washington,8
+CN0514500000000,5,145,"White County, AR",Arkansas,White,14
+CN0514700000000,5,147,"Woodruff County, AR",Arkansas,Woodruff,
+CN0514900000000,5,149,"Yell County, AR",Arkansas,Yell,
+CN0600100000000,6,1,"Alameda County, CA",California,Alameda,11
+CN0600300000000,6,3,"Alpine County, CA",California,Alpine,
+CN0600500000000,6,5,"Amador County, CA",California,Amador,24
+CN0600700000000,6,7,"Butte County, CA",California,Butte,29
+CN0600900000000,6,9,"Calaveras County, CA",California,Calaveras,22
+CN0601100000000,6,11,"Colusa County, CA",California,Colusa,
+CN0601300000000,6,13,"Contra Costa County, CA",California,Contra Costa,11
+CN0601500000000,6,15,"Del Norte County, CA",California,Del Norte,22
+CN0601700000000,6,17,"El Dorado County, CA",California,El Dorado,22
+CN0601900000000,6,19,"Fresno County, CA",California,Fresno,12
+CN0602100000000,6,21,"Glenn County, CA",California,Glenn,21
+CN0602300000000,6,23,"Humboldt County, CA",California,Humboldt,31
+CN0602500000000,6,25,"Imperial County, CA",California,Imperial,18
+CN0602700000000,6,27,"Inyo County, CA",California,Inyo,25
+CN0602900000000,6,29,"Kern County, CA",California,Kern,23
+CN0603100000000,6,31,"Kings County, CA",California,Kings,13
+CN0603300000000,6,33,"Lake County, CA",California,Lake,50
+CN0603500000000,6,35,"Lassen County, CA",California,Lassen,34
+CN0603700000000,6,37,"Los Angeles County, CA",California,Los Angeles,8
+CN0603900000000,6,39,"Madera County, CA",California,Madera,15
+CN0604100000000,6,41,"Marin County, CA",California,Marin,10
+CN0604300000000,6,43,"Mariposa County, CA",California,Mariposa,21
+CN0604500000000,6,45,"Mendocino County, CA",California,Mendocino,24
+CN0604700000000,6,47,"Merced County, CA",California,Merced,13
+CN0604900000000,6,49,"Modoc County, CA",California,Modoc,
+CN0605100000000,6,51,"Mono County, CA",California,Mono,
+CN0605300000000,6,53,"Monterey County, CA",California,Monterey,12
+CN0605500000000,6,55,"Napa County, CA",California,Napa,12
+CN0605700000000,6,57,"Nevada County, CA",California,Nevada,21
+CN0605900000000,6,59,"Orange County, CA",California,Orange,12
+CN0606100000000,6,61,"Placer County, CA",California,Placer,11
+CN0606300000000,6,63,"Plumas County, CA",California,Plumas,47
+CN0606500000000,6,65,"Riverside County, CA",California,Riverside,14
+CN0606700000000,6,67,"Sacramento County, CA",California,Sacramento,17
+CN0606900000000,6,69,"San Benito County, CA",California,San Benito,10
+CN0607100000000,6,71,"San Bernardino County, CA",California,San Bernardino,6
+CN0607300000000,6,73,"San Diego County, CA",California,San Diego,13
+CN0607500000000,6,75,"San Francisco County/city, CA",California,San Francisco,19
+CN0607700000000,6,77,"San Joaquin County, CA",California,San Joaquin,16
+CN0607900000000,6,79,"San Luis Obispo County, CA",California,San Luis Obispo,15
+CN0608100000000,6,81,"San Mateo County, CA",California,San Mateo,8
+CN0608300000000,6,83,"Santa Barbara County, CA",California,Santa Barbara,14
+CN0608500000000,6,85,"Santa Clara County, CA",California,Santa Clara,8
+CN0608700000000,6,87,"Santa Cruz County, CA",California,Santa Cruz,19
+CN0608900000000,6,89,"Shasta County, CA",California,Shasta,22
+CN0609100000000,6,91,"Sierra County, CA",California,Sierra,
+CN0609300000000,6,93,"Siskiyou County, CA",California,Siskiyou,18
+CN0609500000000,6,95,"Solano County, CA",California,Solano,14
+CN0609700000000,6,97,"Sonoma County, CA",California,Sonoma,13
+CN0609900000000,6,99,"Stanislaus County, CA",California,Stanislaus,15
+CN0610100000000,6,101,"Sutter County, CA",California,Sutter,11
+CN0610300000000,6,103,"Tehama County, CA",California,Tehama,12
+CN0610500000000,6,105,"Trinity County, CA",California,Trinity,
+CN0610700000000,6,107,"Tulare County, CA",California,Tulare,9
+CN0610900000000,6,109,"Tuolumne County, CA",California,Tuolumne,33
+CN0611100000000,6,111,"Ventura County, CA",California,Ventura,14
+CN0611300000000,6,113,"Yolo County, CA",California,Yolo,13
+CN0611500000000,6,115,"Yuba County, CA",California,Yuba,12
+CN0800100000000,8,1,"Adams County, CO",Colorado,Adams,18
+CN0800300000000,8,3,"Alamosa County, CO",Colorado,Alamosa,29
+CN0800500000000,8,5,"Arapahoe County, CO",Colorado,Arapahoe,17
+CN0800700000000,8,7,"Archuleta County, CO",Colorado,Archuleta,
+CN0800900000000,8,9,"Baca County, CO",Colorado,Baca,
+CN0801100000000,8,11,"Bent County, CO",Colorado,Bent,
+CN0801300000000,8,13,"Boulder County, CO",Colorado,Boulder,15
+CN0801400000000,8,14,"Broomfield County/city, CO",Colorado,Broomfield,12
+CN0801500000000,8,15,"Chaffee County, CO",Colorado,Chaffee,
+CN0801700000000,8,17,"Cheyenne County, CO",Colorado,Cheyenne,
+CN0801900000000,8,19,"Clear Creek County, CO",Colorado,Clear Creek,
+CN0802100000000,8,21,"Conejos County, CO",Colorado,Conejos,
+CN0802300000000,8,23,"Costilla County, CO",Colorado,Costilla,
+CN0802500000000,8,25,"Crowley County, CO",Colorado,Crowley,
+CN0802700000000,8,27,"Custer County, CO",Colorado,Custer,
+CN0802900000000,8,29,"Delta County, CO",Colorado,Delta,
+CN0803100000000,8,31,"Denver County/city, CO",Colorado,Denver,19
+CN0803300000000,8,33,"Dolores County, CO",Colorado,Dolores,
+CN0803500000000,8,35,"Douglas County, CO",Colorado,Douglas,8
+CN0803700000000,8,37,"Eagle County, CO",Colorado,Eagle,9
+CN0803900000000,8,39,"Elbert County, CO",Colorado,Elbert,
+CN0804100000000,8,41,"El Paso County, CO",Colorado,El Paso,20
+CN0804300000000,8,43,"Fremont County, CO",Colorado,Fremont,14
+CN0804500000000,8,45,"Garfield County, CO",Colorado,Garfield,9
+CN0804700000000,8,47,"Gilpin County, CO",Colorado,Gilpin,
+CN0804900000000,8,49,"Grand County, CO",Colorado,Grand,
+CN0805100000000,8,51,"Gunnison County, CO",Colorado,Gunnison,
+CN0805300000000,8,53,"Hinsdale County, CO",Colorado,Hinsdale,
+CN0805500000000,8,55,"Huerfano County, CO",Colorado,Huerfano,51
+CN0805700000000,8,57,"Jackson County, CO",Colorado,Jackson,
+CN0805900000000,8,59,"Jefferson County, CO",Colorado,Jefferson,15
+CN0806100000000,8,61,"Kiowa County, CO",Colorado,Kiowa,
+CN0806300000000,8,63,"Kit Carson County, CO",Colorado,Kit Carson,
+CN0806500000000,8,65,"Lake County, CO",Colorado,Lake,
+CN0806700000000,8,67,"La Plata County, CO",Colorado,La Plata,12
+CN0806900000000,8,69,"Larimer County, CO",Colorado,Larimer,17
+CN0807100000000,8,71,"Las Animas County, CO",Colorado,Las Animas,52
+CN0807300000000,8,73,"Lincoln County, CO",Colorado,Lincoln,
+CN0807500000000,8,75,"Logan County, CO",Colorado,Logan,
+CN0807700000000,8,77,"Mesa County, CO",Colorado,Mesa,16
+CN0807900000000,8,79,"Mineral County, CO",Colorado,Mineral,
+CN0808100000000,8,81,"Moffat County, CO",Colorado,Moffat,
+CN0808300000000,8,83,"Montezuma County, CO",Colorado,Montezuma,14
+CN0808500000000,8,85,"Montrose County, CO",Colorado,Montrose,
+CN0808700000000,8,87,"Morgan County, CO",Colorado,Morgan,15
+CN0808900000000,8,89,"Otero County, CO",Colorado,Otero,18
+CN0809100000000,8,91,"Ouray County, CO",Colorado,Ouray,
+CN0809300000000,8,93,"Park County, CO",Colorado,Park,
+CN0809500000000,8,95,"Phillips County, CO",Colorado,Phillips,
+CN0809700000000,8,97,"Pitkin County, CO",Colorado,Pitkin,
+CN0809900000000,8,99,"Prowers County, CO",Colorado,Prowers,
+CN0810100000000,8,101,"Pueblo County, CO",Colorado,Pueblo,28
+CN0810300000000,8,103,"Rio Blanco County, CO",Colorado,Rio Blanco,
+CN0810500000000,8,105,"Rio Grande County, CO",Colorado,Rio Grande,
+CN0810700000000,8,107,"Routt County, CO",Colorado,Routt,
+CN0810900000000,8,109,"Saguache County, CO",Colorado,Saguache,
+CN0811100000000,8,111,"San Juan County, CO",Colorado,San Juan,
+CN0811300000000,8,113,"San Miguel County, CO",Colorado,San Miguel,
+CN0811500000000,8,115,"Sedgwick County, CO",Colorado,Sedgwick,
+CN0811700000000,8,117,"Summit County, CO",Colorado,Summit,14
+CN0811900000000,8,119,"Teller County, CO",Colorado,Teller,17
+CN0812100000000,8,121,"Washington County, CO",Colorado,Washington,
+CN0812300000000,8,123,"Weld County, CO",Colorado,Weld,13
+CN0812500000000,8,125,"Yuma County, CO",Colorado,Yuma,
+CN0900100000000,9,1,"Fairfield County, CT",Connecticut,Fairfield,13
+CN0900300000000,9,3,"Hartford County, CT",Connecticut,Hartford,19
+CN0900500000000,9,5,"Litchfield County, CT",Connecticut,Litchfield,27
+CN0900700000000,9,7,"Middlesex County, CT",Connecticut,Middlesex,20
+CN0900900000000,9,9,"New Haven County, CT",Connecticut,New Haven,20
+CN0901100000000,9,11,"New London County, CT",Connecticut,New London,24
+CN0901300000000,9,13,"Tolland County, CT",Connecticut,Tolland,15
+CN0901500000000,9,15,"Windham County, CT",Connecticut,Windham,25
+CN1000100000000,10,1,"Kent County, DE",Delaware,Kent,22
+CN1000300000000,10,3,"New Castle County, DE",Delaware,New Castle,19
+CN1000500000000,10,5,"Sussex County, DE",Delaware,Sussex,19
+CN1100100000000,11,1,District of Columbia,District of Columbia,District of Columbia,16
+CN1200100000000,12,1,"Alachua County, FL",Florida,Alachua,9
+CN1200300000000,12,3,"Baker County, FL",Florida,Baker,20
+CN1200500000000,12,5,"Bay County, FL",Florida,Bay,15
+CN1200700000000,12,7,"Bradford County, FL",Florida,Bradford,20
+CN1200900000000,12,9,"Brevard County, FL",Florida,Brevard,22
+CN1201100000000,12,11,"Broward County, FL",Florida,Broward,12
+CN1201300000000,12,13,"Calhoun County, FL",Florida,Calhoun,
+CN1201500000000,12,15,"Charlotte County, FL",Florida,Charlotte,7
+CN1201700000000,12,17,"Citrus County, FL",Florida,Citrus,19
+CN1201900000000,12,19,"Clay County, FL",Florida,Clay,19
+CN1202100000000,12,21,"Collier County, FL",Florida,Collier,13
+CN1202300000000,12,23,"Columbia County, FL",Florida,Columbia,18
+CN1202700000000,12,27,"DeSoto County, FL",Florida,DeSoto,12
+CN1202900000000,12,29,"Dixie County, FL",Florida,Dixie,31
+CN1203100000000,12,31,"Duval County, FL",Florida,Duval,17
+CN1203300000000,12,33,"Escambia County, FL",Florida,Escambia,13
+CN1203500000000,12,35,"Flagler County, FL",Florida,Flagler,13
+CN1203700000000,12,37,"Franklin County, FL",Florida,Franklin,
+CN1203900000000,12,39,"Gadsden County, FL",Florida,Gadsden,
+CN1204100000000,12,41,"Gilchrist County, FL",Florida,Gilchrist,
+CN1204300000000,12,43,"Glades County, FL",Florida,Glades,
+CN1204500000000,12,45,"Gulf County, FL",Florida,Gulf,
+CN1204700000000,12,47,"Hamilton County, FL",Florida,Hamilton,
+CN1204900000000,12,49,"Hardee County, FL",Florida,Hardee,
+CN1205100000000,12,51,"Hendry County, FL",Florida,Hendry,
+CN1205300000000,12,53,"Hernando County, FL",Florida,Hernando,20
+CN1205500000000,12,55,"Highlands County, FL",Florida,Highlands,16
+CN1205700000000,12,57,"Hillsborough County, FL",Florida,Hillsborough,13
+CN1205900000000,12,59,"Holmes County, FL",Florida,Holmes,
+CN1206100000000,12,61,"Indian River County, FL",Florida,Indian River,14
+CN1206300000000,12,63,"Jackson County, FL",Florida,Jackson,7
+CN1206500000000,12,65,"Jefferson County, FL",Florida,Jefferson,
+CN1206700000000,12,67,"Lafayette County, FL",Florida,Lafayette,
+CN1206900000000,12,69,"Lake County, FL",Florida,Lake,13
+CN1207100000000,12,71,"Lee County, FL",Florida,Lee,12
+CN1207300000000,12,73,"Leon County, FL",Florida,Leon,6
+CN1207500000000,12,75,"Levy County, FL",Florida,Levy,17
+CN1207700000000,12,77,"Liberty County, FL",Florida,Liberty,
+CN1207900000000,12,79,"Madison County, FL",Florida,Madison,
+CN1208100000000,12,81,"Manatee County, FL",Florida,Manatee,29
+CN1208300000000,12,83,"Marion County, FL",Florida,Marion,16
+CN1208500000000,12,85,"Martin County, FL",Florida,Martin,16
+CN1208600000000,12,86,"Miami-Dade County, FL",Florida,Miami-Dade,6
+CN1208700000000,12,87,"Monroe County, FL",Florida,Monroe,19
+CN1208900000000,12,89,"Nassau County, FL",Florida,Nassau,14
+CN1209100000000,12,91,"Okaloosa County, FL",Florida,Okaloosa,13
+CN1209300000000,12,93,"Okeechobee County, FL",Florida,Okeechobee,24
+CN1209500000000,12,95,"Orange County, FL",Florida,Orange,13
+CN1209700000000,12,97,"Osceola County, FL",Florida,Osceola,12
+CN1209900000000,12,99,"Palm Beach County, FL",Florida,Palm Beach,19
+CN1210100000000,12,101,"Pasco County, FL",Florida,Pasco,22
+CN1210300000000,12,103,"Pinellas County, FL",Florida,Pinellas,20
+CN1210500000000,12,105,"Polk County, FL",Florida,Polk,15
+CN1210700000000,12,107,"Putnam County, FL",Florida,Putnam,10
+CN1210900000000,12,109,"St. Johns County, FL",Florida,St. Johns,10
+CN1211100000000,12,111,"St. Lucie County, FL",Florida,St. Lucie,15
+CN1211300000000,12,113,"Santa Rosa County, FL",Florida,Santa Rosa,12
+CN1211500000000,12,115,"Sarasota County, FL",Florida,Sarasota,18
+CN1211700000000,12,117,"Seminole County, FL",Florida,Seminole,13
+CN1211900000000,12,119,"Sumter County, FL",Florida,Sumter,11
+CN1212100000000,12,121,"Suwannee County, FL",Florida,Suwannee,11
+CN1212300000000,12,123,"Taylor County, FL",Florida,Taylor,
+CN1212500000000,12,125,"Union County, FL",Florida,Union,
+CN1212700000000,12,127,"Volusia County, FL",Florida,Volusia,18
+CN1212900000000,12,129,"Wakulla County, FL",Florida,Wakulla,
+CN1213100000000,12,131,"Walton County, FL",Florida,Walton,7
+CN1213300000000,12,133,"Washington County, FL",Florida,Washington,
+CN1300100000000,13,1,"Appling County, GA",Georgia,Appling,
+CN1300300000000,13,3,"Atkinson County, GA",Georgia,Atkinson,
+CN1300500000000,13,5,"Bacon County, GA",Georgia,Bacon,
+CN1300700000000,13,7,"Baker County, GA",Georgia,Baker,
+CN1300900000000,13,9,"Baldwin County, GA",Georgia,Baldwin,8
+CN1301100000000,13,11,"Banks County, GA",Georgia,Banks,
+CN1301300000000,13,13,"Barrow County, GA",Georgia,Barrow,14
+CN1301500000000,13,15,"Bartow County, GA",Georgia,Bartow,17
+CN1301700000000,13,17,"Ben Hill County, GA",Georgia,Ben Hill,
+CN1301900000000,13,19,"Berrien County, GA",Georgia,Berrien,
+CN1302100000000,13,21,"Bibb County, GA",Georgia,Bibb,10
+CN1302300000000,13,23,"Bleckley County, GA",Georgia,Bleckley,
+CN1302500000000,13,25,"Brantley County, GA",Georgia,Brantley,
+CN1302700000000,13,27,"Brooks County, GA",Georgia,Brooks,
+CN1302900000000,13,29,"Bryan County, GA",Georgia,Bryan,
+CN1303100000000,13,31,"Bulloch County, GA",Georgia,Bulloch,6
+CN1303300000000,13,33,"Burke County, GA",Georgia,Burke,
+CN1303500000000,13,35,"Butts County, GA",Georgia,Butts,18
+CN1303700000000,13,37,"Calhoun County, GA",Georgia,Calhoun,
+CN1303900000000,13,39,"Camden County, GA",Georgia,Camden,10
+CN1304300000000,13,43,"Candler County, GA",Georgia,Candler,
+CN1304500000000,13,45,"Carroll County, GA",Georgia,Carroll,17
+CN1304700000000,13,47,"Catoosa County, GA",Georgia,Catoosa,17
+CN1304900000000,13,49,"Charlton County, GA",Georgia,Charlton,
+CN1305100000000,13,51,"Chatham County, GA",Georgia,Chatham,10
+CN1305300000000,13,53,"Chattahoochee County, GA",Georgia,Chattahoochee,
+CN1305500000000,13,55,"Chattooga County, GA",Georgia,Chattooga,
+CN1305700000000,13,57,"Cherokee County, GA",Georgia,Cherokee,18
+CN1305900000000,13,59,"Clarke County, GA",Georgia,Clarke,9
+CN1306100000000,13,61,"Clay County, GA",Georgia,Clay,
+CN1306300000000,13,63,"Clayton County, GA",Georgia,Clayton,8
+CN1306500000000,13,65,"Clinch County, GA",Georgia,Clinch,
+CN1306700000000,13,67,"Cobb County, GA",Georgia,Cobb,15
+CN1306900000000,13,69,"Coffee County, GA",Georgia,Coffee,14
+CN1307100000000,13,71,"Colquitt County, GA",Georgia,Colquitt,12
+CN1307300000000,13,73,"Columbia County, GA",Georgia,Columbia,11
+CN1307500000000,13,75,"Cook County, GA",Georgia,Cook,
+CN1307700000000,13,77,"Coweta County, GA",Georgia,Coweta,10
+CN1307900000000,13,79,"Crawford County, GA",Georgia,Crawford,
+CN1308100000000,13,81,"Crisp County, GA",Georgia,Crisp,
+CN1308300000000,13,83,"Dade County, GA",Georgia,Dade,
+CN1308500000000,13,85,"Dawson County, GA",Georgia,Dawson,20
+CN1308700000000,13,87,"Decatur County, GA",Georgia,Decatur,
+CN1308900000000,13,89,"DeKalb County, GA",Georgia,DeKalb,8
+CN1309100000000,13,91,"Dodge County, GA",Georgia,Dodge,
+CN1309300000000,13,93,"Dooly County, GA",Georgia,Dooly,
+CN1309500000000,13,95,"Dougherty County, GA",Georgia,Dougherty,4
+CN1309700000000,13,97,"Douglas County, GA",Georgia,Douglas,13
+CN1309900000000,13,99,"Early County, GA",Georgia,Early,
+CN1310100000000,13,101,"Echols County, GA",Georgia,Echols,
+CN1310300000000,13,103,"Effingham County, GA",Georgia,Effingham,8
+CN1310500000000,13,105,"Elbert County, GA",Georgia,Elbert,24
+CN1310700000000,13,107,"Emanuel County, GA",Georgia,Emanuel,
+CN1310900000000,13,109,"Evans County, GA",Georgia,Evans,
+CN1311100000000,13,111,"Fannin County, GA",Georgia,Fannin,29
+CN1311300000000,13,113,"Fayette County, GA",Georgia,Fayette,11
+CN1311500000000,13,115,"Floyd County, GA",Georgia,Floyd,14
+CN1311700000000,13,117,"Forsyth County, GA",Georgia,Forsyth,14
+CN1311900000000,13,119,"Franklin County, GA",Georgia,Franklin,29
+CN1312100000000,13,121,"Fulton County, GA",Georgia,Fulton,14
+CN1312300000000,13,123,"Gilmer County, GA",Georgia,Gilmer,15
+CN1312500000000,13,125,"Glascock County, GA",Georgia,Glascock,
+CN1312700000000,13,127,"Glynn County, GA",Georgia,Glynn,13
+CN1312900000000,13,129,"Gordon County, GA",Georgia,Gordon,10
+CN1313100000000,13,131,"Grady County, GA",Georgia,Grady,
+CN1313300000000,13,133,"Greene County, GA",Georgia,Greene,
+CN1313500000000,13,135,"Gwinnett County, GA",Georgia,Gwinnett,8
+CN1313700000000,13,137,"Habersham County, GA",Georgia,Habersham,
+CN1313900000000,13,139,"Hall County, GA",Georgia,Hall,13
+CN1314100000000,13,141,"Hancock County, GA",Georgia,Hancock,
+CN1314300000000,13,143,"Haralson County, GA",Georgia,Haralson,26
+CN1314500000000,13,145,"Harris County, GA",Georgia,Harris,
+CN1314700000000,13,147,"Hart County, GA",Georgia,Hart,
+CN1314900000000,13,149,"Heard County, GA",Georgia,Heard,
+CN1315100000000,13,151,"Henry County, GA",Georgia,Henry,13
+CN1315300000000,13,153,"Houston County, GA",Georgia,Houston,9
+CN1315500000000,13,155,"Irwin County, GA",Georgia,Irwin,
+CN1315700000000,13,157,"Jackson County, GA",Georgia,Jackson,21
+CN1315900000000,13,159,"Jasper County, GA",Georgia,Jasper,
+CN1316100000000,13,161,"Jeff Davis County, GA",Georgia,Jeff Davis,22
+CN1316300000000,13,163,"Jefferson County, GA",Georgia,Jefferson,
+CN1316500000000,13,165,"Jenkins County, GA",Georgia,Jenkins,
+CN1316700000000,13,167,"Johnson County, GA",Georgia,Johnson,
+CN1316900000000,13,169,"Jones County, GA",Georgia,Jones,16
+CN1317100000000,13,171,"Lamar County, GA",Georgia,Lamar,
+CN1317300000000,13,173,"Lanier County, GA",Georgia,Lanier,
+CN1317500000000,13,175,"Laurens County, GA",Georgia,Laurens,8
+CN1317700000000,13,177,"Lee County, GA",Georgia,Lee,
+CN1317900000000,13,179,"Liberty County, GA",Georgia,Liberty,9
+CN1318100000000,13,181,"Lincoln County, GA",Georgia,Lincoln,
+CN1318300000000,13,183,"Long County, GA",Georgia,Long,
+CN1318500000000,13,185,"Lowndes County, GA",Georgia,Lowndes,6
+CN1318700000000,13,187,"Lumpkin County, GA",Georgia,Lumpkin,16
+CN1318900000000,13,189,"McDuffie County, GA",Georgia,McDuffie,
+CN1319100000000,13,191,"McIntosh County, GA",Georgia,McIntosh,
+CN1319300000000,13,193,"Macon County, GA",Georgia,Macon,
+CN1319500000000,13,195,"Madison County, GA",Georgia,Madison,25
+CN1319700000000,13,197,"Marion County, GA",Georgia,Marion,
+CN1319900000000,13,199,"Meriwether County, GA",Georgia,Meriwether,17
+CN1320100000000,13,201,"Miller County, GA",Georgia,Miller,
+CN1320500000000,13,205,"Mitchell County, GA",Georgia,Mitchell,
+CN1320700000000,13,207,"Monroe County, GA",Georgia,Monroe,14
+CN1320900000000,13,209,"Montgomery County, GA",Georgia,Montgomery,
+CN1321100000000,13,211,"Morgan County, GA",Georgia,Morgan,
+CN1321300000000,13,213,"Murray County, GA",Georgia,Murray,26
+CN1321500000000,13,215,"Muscogee County, GA",Georgia,Muscogee,9
+CN1321700000000,13,217,"Newton County, GA",Georgia,Newton,11
+CN1321900000000,13,219,"Oconee County, GA",Georgia,Oconee,11
+CN1322100000000,13,221,"Oglethorpe County, GA",Georgia,Oglethorpe,
+CN1322300000000,13,223,"Paulding County, GA",Georgia,Paulding,16
+CN1322500000000,13,225,"Peach County, GA",Georgia,Peach,
+CN1322700000000,13,227,"Pickens County, GA",Georgia,Pickens,14
+CN1322900000000,13,229,"Pierce County, GA",Georgia,Pierce,18
+CN1323100000000,13,231,"Pike County, GA",Georgia,Pike,
+CN1323300000000,13,233,"Polk County, GA",Georgia,Polk,18
+CN1323500000000,13,235,"Pulaski County, GA",Georgia,Pulaski,
+CN1323700000000,13,237,"Putnam County, GA",Georgia,Putnam,16
+CN1323900000000,13,239,"Quitman County, GA",Georgia,Quitman,
+CN1324100000000,13,241,"Rabun County, GA",Georgia,Rabun,25
+CN1324300000000,13,243,"Randolph County, GA",Georgia,Randolph,
+CN1324500000000,13,245,"Richmond County, GA",Georgia,Richmond,15
+CN1324700000000,13,247,"Rockdale County, GA",Georgia,Rockdale,13
+CN1324900000000,13,249,"Schley County, GA",Georgia,Schley,
+CN1325100000000,13,251,"Screven County, GA",Georgia,Screven,
+CN1325300000000,13,253,"Seminole County, GA",Georgia,Seminole,
+CN1325500000000,13,255,"Spalding County, GA",Georgia,Spalding,16
+CN1325700000000,13,257,"Stephens County, GA",Georgia,Stephens,18
+CN1325900000000,13,259,"Stewart County, GA",Georgia,Stewart,
+CN1326100000000,13,261,"Sumter County, GA",Georgia,Sumter,
+CN1326300000000,13,263,"Talbot County, GA",Georgia,Talbot,
+CN1326500000000,13,265,"Taliaferro County, GA",Georgia,Taliaferro,
+CN1326700000000,13,267,"Tattnall County, GA",Georgia,Tattnall,
+CN1326900000000,13,269,"Taylor County, GA",Georgia,Taylor,
+CN1327100000000,13,271,"Telfair County, GA",Georgia,Telfair,
+CN1327300000000,13,273,"Terrell County, GA",Georgia,Terrell,
+CN1327500000000,13,275,"Thomas County, GA",Georgia,Thomas,
+CN1327700000000,13,277,"Tift County, GA",Georgia,Tift,
+CN1327900000000,13,279,"Toombs County, GA",Georgia,Toombs,15
+CN1328100000000,13,281,"Towns County, GA",Georgia,Towns,
+CN1328300000000,13,283,"Treutlen County, GA",Georgia,Treutlen,
+CN1328500000000,13,285,"Troup County, GA",Georgia,Troup,16
+CN1328700000000,13,287,"Turner County, GA",Georgia,Turner,
+CN1328900000000,13,289,"Twiggs County, GA",Georgia,Twiggs,
+CN1329100000000,13,291,"Union County, GA",Georgia,Union,
+CN1329300000000,13,293,"Upson County, GA",Georgia,Upson,19
+CN1329500000000,13,295,"Walker County, GA",Georgia,Walker,13
+CN1329700000000,13,297,"Walton County, GA",Georgia,Walton,20
+CN1329900000000,13,299,"Ware County, GA",Georgia,Ware,20
+CN1330100000000,13,301,"Warren County, GA",Georgia,Warren,
+CN1330300000000,13,303,"Washington County, GA",Georgia,Washington,
+CN1330500000000,13,305,"Wayne County, GA",Georgia,Wayne,20
+CN1330700000000,13,307,"Webster County, GA",Georgia,Webster,
+CN1330900000000,13,309,"Wheeler County, GA",Georgia,Wheeler,
+CN1331100000000,13,311,"White County, GA",Georgia,White,19
+CN1331300000000,13,313,"Whitfield County, GA",Georgia,Whitfield,12
+CN1331500000000,13,315,"Wilcox County, GA",Georgia,Wilcox,
+CN1331700000000,13,317,"Wilkes County, GA",Georgia,Wilkes,
+CN1331900000000,13,319,"Wilkinson County, GA",Georgia,Wilkinson,
+CN1332100000000,13,321,"Worth County, GA",Georgia,Worth,
+CN1500100000000,15,1,"Hawaii County, HI",Hawaii,Hawaii,11
+CN1500300000000,15,3,"Honolulu County/city, HI",Hawaii,Honolulu,11
+CN1500700000000,15,7,"Kauai County, HI",Hawaii,Kauai,9
+CN1500900000000,15,9,"Maui County, HI",Hawaii,Maui,13
+CN1600100000000,16,1,"Ada County, ID",Idaho,Ada,13
+CN1600300000000,16,3,"Adams County, ID",Idaho,Adams,
+CN1600500000000,16,5,"Bannock County, ID",Idaho,Bannock,23
+CN1600700000000,16,7,"Bear Lake County, ID",Idaho,Bear Lake,
+CN1600900000000,16,9,"Benewah County, ID",Idaho,Benewah,
+CN1601100000000,16,11,"Bingham County, ID",Idaho,Bingham,13
+CN1601300000000,16,13,"Blaine County, ID",Idaho,Blaine,
+CN1601500000000,16,15,"Boise County, ID",Idaho,Boise,
+CN1601700000000,16,17,"Bonner County, ID",Idaho,Bonner,10
+CN1601900000000,16,19,"Bonneville County, ID",Idaho,Bonneville,26
+CN1602100000000,16,21,"Boundary County, ID",Idaho,Boundary,
+CN1602300000000,16,23,"Butte County, ID",Idaho,Butte,
+CN1602500000000,16,25,"Camas County, ID",Idaho,Camas,
+CN1602700000000,16,27,"Canyon County, ID",Idaho,Canyon,12
+CN1602900000000,16,29,"Caribou County, ID",Idaho,Caribou,
+CN1603100000000,16,31,"Cassia County, ID",Idaho,Cassia,
+CN1603300000000,16,33,"Clark County, ID",Idaho,Clark,
+CN1603500000000,16,35,"Clearwater County, ID",Idaho,Clearwater,
+CN1603700000000,16,37,"Custer County, ID",Idaho,Custer,
+CN1603900000000,16,39,"Elmore County, ID",Idaho,Elmore,
+CN1604100000000,16,41,"Franklin County, ID",Idaho,Franklin,
+CN1604300000000,16,43,"Fremont County, ID",Idaho,Fremont,
+CN1604500000000,16,45,"Gem County, ID",Idaho,Gem,
+CN1604700000000,16,47,"Gooding County, ID",Idaho,Gooding,
+CN1604900000000,16,49,"Idaho County, ID",Idaho,Idaho,
+CN1605100000000,16,51,"Jefferson County, ID",Idaho,Jefferson,
+CN1605300000000,16,53,"Jerome County, ID",Idaho,Jerome,
+CN1605500000000,16,55,"Kootenai County, ID",Idaho,Kootenai,10
+CN1605700000000,16,57,"Latah County, ID",Idaho,Latah,
+CN1605900000000,16,59,"Lemhi County, ID",Idaho,Lemhi,
+CN1606100000000,16,61,"Lewis County, ID",Idaho,Lewis,
+CN1606300000000,16,63,"Lincoln County, ID",Idaho,Lincoln,
+CN1606500000000,16,65,"Madison County, ID",Idaho,Madison,
+CN1606700000000,16,67,"Minidoka County, ID",Idaho,Minidoka,
+CN1606900000000,16,69,"Nez Perce County, ID",Idaho,Nez Perce,10
+CN1607100000000,16,71,"Oneida County, ID",Idaho,Oneida,
+CN1607300000000,16,73,"Owyhee County, ID",Idaho,Owyhee,
+CN1607500000000,16,75,"Payette County, ID",Idaho,Payette,22
+CN1607700000000,16,77,"Power County, ID",Idaho,Power,
+CN1607900000000,16,79,"Shoshone County, ID",Idaho,Shoshone,
+CN1608100000000,16,81,"Teton County, ID",Idaho,Teton,
+CN1608300000000,16,83,"Twin Falls County, ID",Idaho,Twin Falls,13
+CN1608500000000,16,85,"Valley County, ID",Idaho,Valley,
+CN1608700000000,16,87,"Washington County, ID",Idaho,Washington,
+CN1700100000000,17,1,"Adams County, IL",Illinois,Adams,16
+CN1700300000000,17,3,"Alexander County, IL",Illinois,Alexander,
+CN1700500000000,17,5,"Bond County, IL",Illinois,Bond,19
+CN1700700000000,17,7,"Boone County, IL",Illinois,Boone,14
+CN1700900000000,17,9,"Brown County, IL",Illinois,Brown,
+CN1701100000000,17,11,"Bureau County, IL",Illinois,Bureau,19
+CN1701300000000,17,13,"Calhoun County, IL",Illinois,Calhoun,
+CN1701500000000,17,15,"Carroll County, IL",Illinois,Carroll,
+CN1701700000000,17,17,"Cass County, IL",Illinois,Cass,
+CN1701900000000,17,19,"Champaign County, IL",Illinois,Champaign,14
+CN1702100000000,17,21,"Christian County, IL",Illinois,Christian,20
+CN1702300000000,17,23,"Clark County, IL",Illinois,Clark,23
+CN1702500000000,17,25,"Clay County, IL",Illinois,Clay,
+CN1702700000000,17,27,"Clinton County, IL",Illinois,Clinton,
+CN1702900000000,17,29,"Coles County, IL",Illinois,Coles,11
+CN1703100000000,17,31,"Cook County, IL",Illinois,Cook,12
+CN1703300000000,17,33,"Crawford County, IL",Illinois,Crawford,
+CN1703500000000,17,35,"Cumberland County, IL",Illinois,Cumberland,
+CN1703700000000,17,37,"DeKalb County, IL",Illinois,DeKalb,7
+CN1703900000000,17,39,"De Witt County, IL",Illinois,De Witt,20
+CN1704100000000,17,41,"Douglas County, IL",Illinois,Douglas,
+CN1704300000000,17,43,"DuPage County, IL",Illinois,DuPage,11
+CN1704500000000,17,45,"Edgar County, IL",Illinois,Edgar,19
+CN1704700000000,17,47,"Edwards County, IL",Illinois,Edwards,
+CN1704900000000,17,49,"Effingham County, IL",Illinois,Effingham,
+CN1705100000000,17,51,"Fayette County, IL",Illinois,Fayette,15
+CN1705300000000,17,53,"Ford County, IL",Illinois,Ford,
+CN1705500000000,17,55,"Franklin County, IL",Illinois,Franklin,25
+CN1705700000000,17,57,"Fulton County, IL",Illinois,Fulton,11
+CN1705900000000,17,59,"Gallatin County, IL",Illinois,Gallatin,
+CN1706100000000,17,61,"Greene County, IL",Illinois,Greene,
+CN1706300000000,17,63,"Grundy County, IL",Illinois,Grundy,13
+CN1706500000000,17,65,"Hamilton County, IL",Illinois,Hamilton,
+CN1706700000000,17,67,"Hancock County, IL",Illinois,Hancock,
+CN1706900000000,17,69,"Hardin County, IL",Illinois,Hardin,
+CN1707100000000,17,71,"Henderson County, IL",Illinois,Henderson,
+CN1707300000000,17,73,"Henry County, IL",Illinois,Henry,8
+CN1707500000000,17,75,"Iroquois County, IL",Illinois,Iroquois,18
+CN1707700000000,17,77,"Jackson County, IL",Illinois,Jackson,16
+CN1707900000000,17,79,"Jasper County, IL",Illinois,Jasper,
+CN1708100000000,17,81,"Jefferson County, IL",Illinois,Jefferson,14
+CN1708300000000,17,83,"Jersey County, IL",Illinois,Jersey,21
+CN1708500000000,17,85,"Jo Daviess County, IL",Illinois,Jo Daviess,
+CN1708700000000,17,87,"Johnson County, IL",Illinois,Johnson,
+CN1708900000000,17,89,"Kane County, IL",Illinois,Kane,8
+CN1709100000000,17,91,"Kankakee County, IL",Illinois,Kankakee,18
+CN1709300000000,17,93,"Kendall County, IL",Illinois,Kendall,9
+CN1709500000000,17,95,"Knox County, IL",Illinois,Knox,15
+CN1709700000000,17,97,"Lake County, IL",Illinois,Lake,11
+CN1709900000000,17,99,"LaSalle County, IL",Illinois,LaSalle,22
+CN1710100000000,17,101,"Lawrence County, IL",Illinois,Lawrence,
+CN1710300000000,17,103,"Lee County, IL",Illinois,Lee,15
+CN1710500000000,17,105,"Livingston County, IL",Illinois,Livingston,12
+CN1710700000000,17,107,"Logan County, IL",Illinois,Logan,16
+CN1710900000000,17,109,"McDonough County, IL",Illinois,McDonough,
+CN1711100000000,17,111,"McHenry County, IL",Illinois,McHenry,13
+CN1711300000000,17,113,"McLean County, IL",Illinois,McLean,12
+CN1711500000000,17,115,"Macon County, IL",Illinois,Macon,12
+CN1711700000000,17,117,"Macoupin County, IL",Illinois,Macoupin,17
+CN1711900000000,17,119,"Madison County, IL",Illinois,Madison,26
+CN1712100000000,17,121,"Marion County, IL",Illinois,Marion,23
+CN1712300000000,17,123,"Marshall County, IL",Illinois,Marshall,
+CN1712500000000,17,125,"Mason County, IL",Illinois,Mason,
+CN1712700000000,17,127,"Massac County, IL",Illinois,Massac,
+CN1712900000000,17,129,"Menard County, IL",Illinois,Menard,
+CN1713100000000,17,131,"Mercer County, IL",Illinois,Mercer,
+CN1713300000000,17,133,"Monroe County, IL",Illinois,Monroe,
+CN1713500000000,17,135,"Montgomery County, IL",Illinois,Montgomery,13
+CN1713700000000,17,137,"Morgan County, IL",Illinois,Morgan,18
+CN1713900000000,17,139,"Moultrie County, IL",Illinois,Moultrie,
+CN1714100000000,17,141,"Ogle County, IL",Illinois,Ogle,9
+CN1714300000000,17,143,"Peoria County, IL",Illinois,Peoria,18
+CN1714500000000,17,145,"Perry County, IL",Illinois,Perry,15
+CN1714700000000,17,147,"Piatt County, IL",Illinois,Piatt,
+CN1714900000000,17,149,"Pike County, IL",Illinois,Pike,
+CN1715100000000,17,151,"Pope County, IL",Illinois,Pope,
+CN1715300000000,17,153,"Pulaski County, IL",Illinois,Pulaski,
+CN1715500000000,17,155,"Putnam County, IL",Illinois,Putnam,
+CN1715700000000,17,157,"Randolph County, IL",Illinois,Randolph,20
+CN1715900000000,17,159,"Richland County, IL",Illinois,Richland,
+CN1716100000000,17,161,"Rock Island County, IL",Illinois,Rock Island,10
+CN1716300000000,17,163,"St. Clair County, IL",Illinois,St. Clair,15
+CN1716500000000,17,165,"Saline County, IL",Illinois,Saline,26
+CN1716700000000,17,167,"Sangamon County, IL",Illinois,Sangamon,17
+CN1716900000000,17,169,"Schuyler County, IL",Illinois,Schuyler,
+CN1717100000000,17,171,"Scott County, IL",Illinois,Scott,
+CN1717300000000,17,173,"Shelby County, IL",Illinois,Shelby,
+CN1717500000000,17,175,"Stark County, IL",Illinois,Stark,
+CN1717700000000,17,177,"Stephenson County, IL",Illinois,Stephenson,17
+CN1717900000000,17,179,"Tazewell County, IL",Illinois,Tazewell,14
+CN1718100000000,17,181,"Union County, IL",Illinois,Union,
+CN1718300000000,17,183,"Vermilion County, IL",Illinois,Vermilion,17
+CN1718500000000,17,185,"Wabash County, IL",Illinois,Wabash,
+CN1718700000000,17,187,"Warren County, IL",Illinois,Warren,
+CN1718900000000,17,189,"Washington County, IL",Illinois,Washington,
+CN1719100000000,17,191,"Wayne County, IL",Illinois,Wayne,
+CN1719300000000,17,193,"White County, IL",Illinois,White,
+CN1719500000000,17,195,"Whiteside County, IL",Illinois,Whiteside,19
+CN1719700000000,17,197,"Will County, IL",Illinois,Will,13
+CN1719900000000,17,199,"Williamson County, IL",Illinois,Williamson,17
+CN1720100000000,17,201,"Winnebago County, IL",Illinois,Winnebago,31
+CN1720300000000,17,203,"Woodford County, IL",Illinois,Woodford,14
+CN1800100000000,18,1,"Adams County, IN",Indiana,Adams,
+CN1800300000000,18,3,"Allen County, IN",Indiana,Allen,15
+CN1800500000000,18,5,"Bartholomew County, IN",Indiana,Bartholomew,11
+CN1800700000000,18,7,"Benton County, IN",Indiana,Benton,
+CN1800900000000,18,9,"Blackford County, IN",Indiana,Blackford,27
+CN1801100000000,18,11,"Boone County, IN",Indiana,Boone,16
+CN1801300000000,18,13,"Brown County, IN",Indiana,Brown,
+CN1801500000000,18,15,"Carroll County, IN",Indiana,Carroll,
+CN1801700000000,18,17,"Cass County, IN",Indiana,Cass,
+CN1801900000000,18,19,"Clark County, IN",Indiana,Clark,22
+CN1802100000000,18,21,"Clay County, IN",Indiana,Clay,13
+CN1802300000000,18,23,"Clinton County, IN",Indiana,Clinton,15
+CN1802500000000,18,25,"Crawford County, IN",Indiana,Crawford,
+CN1802700000000,18,27,"Daviess County, IN",Indiana,Daviess,
+CN1802900000000,18,29,"Dearborn County, IN",Indiana,Dearborn,27
+CN1803100000000,18,31,"Decatur County, IN",Indiana,Decatur,18
+CN1803300000000,18,33,"DeKalb County, IN",Indiana,DeKalb,13
+CN1803500000000,18,35,"Delaware County, IN",Indiana,Delaware,26
+CN1803700000000,18,37,"Dubois County, IN",Indiana,Dubois,
+CN1803900000000,18,39,"Elkhart County, IN",Indiana,Elkhart,11
+CN1804100000000,18,41,"Fayette County, IN",Indiana,Fayette,47
+CN1804300000000,18,43,"Floyd County, IN",Indiana,Floyd,20
+CN1804500000000,18,45,"Fountain County, IN",Indiana,Fountain,
+CN1804700000000,18,47,"Franklin County, IN",Indiana,Franklin,19
+CN1804900000000,18,49,"Fulton County, IN",Indiana,Fulton,16
+CN1805100000000,18,51,"Gibson County, IN",Indiana,Gibson,
+CN1805300000000,18,53,"Grant County, IN",Indiana,Grant,30
+CN1805500000000,18,55,"Greene County, IN",Indiana,Greene,19
+CN1805700000000,18,57,"Hamilton County, IN",Indiana,Hamilton,9
+CN1805900000000,18,59,"Hancock County, IN",Indiana,Hancock,26
+CN1806100000000,18,61,"Harrison County, IN",Indiana,Harrison,16
+CN1806300000000,18,63,"Hendricks County, IN",Indiana,Hendricks,12
+CN1806500000000,18,65,"Henry County, IN",Indiana,Henry,23
+CN1806700000000,18,67,"Howard County, IN",Indiana,Howard,29
+CN1806900000000,18,69,"Huntington County, IN",Indiana,Huntington,17
+CN1807100000000,18,71,"Jackson County, IN",Indiana,Jackson,27
+CN1807300000000,18,73,"Jasper County, IN",Indiana,Jasper,11
+CN1807500000000,18,75,"Jay County, IN",Indiana,Jay,17
+CN1807700000000,18,77,"Jefferson County, IN",Indiana,Jefferson,17
+CN1807900000000,18,79,"Jennings County, IN",Indiana,Jennings,24
+CN1808100000000,18,81,"Johnson County, IN",Indiana,Johnson,16
+CN1808300000000,18,83,"Knox County, IN",Indiana,Knox,10
+CN1808500000000,18,85,"Kosciusko County, IN",Indiana,Kosciusko,7
+CN1808700000000,18,87,"LaGrange County, IN",Indiana,LaGrange,
+CN1808900000000,18,89,"Lake County, IN",Indiana,Lake,12
+CN1809100000000,18,91,"LaPorte County, IN",Indiana,LaPorte,16
+CN1809300000000,18,93,"Lawrence County, IN",Indiana,Lawrence,13
+CN1809500000000,18,95,"Madison County, IN",Indiana,Madison,23
+CN1809700000000,18,97,"Marion County, IN",Indiana,Marion,25
+CN1809900000000,18,99,"Marshall County, IN",Indiana,Marshall,9
+CN1810100000000,18,101,"Martin County, IN",Indiana,Martin,
+CN1810300000000,18,103,"Miami County, IN",Indiana,Miami,14
+CN1810500000000,18,105,"Monroe County, IN",Indiana,Monroe,16
+CN1810700000000,18,107,"Montgomery County, IN",Indiana,Montgomery,15
+CN1810900000000,18,109,"Morgan County, IN",Indiana,Morgan,25
+CN1811100000000,18,111,"Newton County, IN",Indiana,Newton,
+CN1811300000000,18,113,"Noble County, IN",Indiana,Noble,
+CN1811500000000,18,115,"Ohio County, IN",Indiana,Ohio,
+CN1811700000000,18,117,"Orange County, IN",Indiana,Orange,
+CN1811900000000,18,119,"Owen County, IN",Indiana,Owen,
+CN1812100000000,18,121,"Parke County, IN",Indiana,Parke,
+CN1812300000000,18,123,"Perry County, IN",Indiana,Perry,
+CN1812500000000,18,125,"Pike County, IN",Indiana,Pike,
+CN1812700000000,18,127,"Porter County, IN",Indiana,Porter,23
+CN1812900000000,18,129,"Posey County, IN",Indiana,Posey,
+CN1813100000000,18,131,"Pulaski County, IN",Indiana,Pulaski,28
+CN1813300000000,18,133,"Putnam County, IN",Indiana,Putnam,17
+CN1813500000000,18,135,"Randolph County, IN",Indiana,Randolph,24
+CN1813700000000,18,137,"Ripley County, IN",Indiana,Ripley,22
+CN1813900000000,18,139,"Rush County, IN",Indiana,Rush,
+CN1814100000000,18,141,"St. Joseph County, IN",Indiana,St. Joseph,16
+CN1814300000000,18,143,"Scott County, IN",Indiana,Scott,31
+CN1814500000000,18,145,"Shelby County, IN",Indiana,Shelby,15
+CN1814700000000,18,147,"Spencer County, IN",Indiana,Spencer,
+CN1814900000000,18,149,"Starke County, IN",Indiana,Starke,32
+CN1815100000000,18,151,"Steuben County, IN",Indiana,Steuben,
+CN1815300000000,18,153,"Sullivan County, IN",Indiana,Sullivan,25
+CN1815500000000,18,155,"Switzerland County, IN",Indiana,Switzerland,
+CN1815700000000,18,157,"Tippecanoe County, IN",Indiana,Tippecanoe,16
+CN1815900000000,18,159,"Tipton County, IN",Indiana,Tipton,
+CN1816100000000,18,161,"Union County, IN",Indiana,Union,
+CN1816300000000,18,163,"Vanderburgh County, IN",Indiana,Vanderburgh,22
+CN1816500000000,18,165,"Vermillion County, IN",Indiana,Vermillion,
+CN1816700000000,18,167,"Vigo County, IN",Indiana,Vigo,18
+CN1816900000000,18,169,"Wabash County, IN",Indiana,Wabash,18
+CN1817100000000,18,171,"Warren County, IN",Indiana,Warren,
+CN1817300000000,18,173,"Warrick County, IN",Indiana,Warrick,5
+CN1817500000000,18,175,"Washington County, IN",Indiana,Washington,26
+CN1817700000000,18,177,"Wayne County, IN",Indiana,Wayne,35
+CN1817900000000,18,179,"Wells County, IN",Indiana,Wells,20
+CN1818100000000,18,181,"White County, IN",Indiana,White,19
+CN1818300000000,18,183,"Whitley County, IN",Indiana,Whitley,
+CN1900100000000,19,1,"Adair County, IA",Iowa,Adair,
+CN1900300000000,19,3,"Adams County, IA",Iowa,Adams,
+CN1900500000000,19,5,"Allamakee County, IA",Iowa,Allamakee,
+CN1900700000000,19,7,"Appanoose County, IA",Iowa,Appanoose,
+CN1900900000000,19,9,"Audubon County, IA",Iowa,Audubon,
+CN1901100000000,19,11,"Benton County, IA",Iowa,Benton,
+CN1901300000000,19,13,"Black Hawk County, IA",Iowa,Black Hawk,6
+CN1901500000000,19,15,"Boone County, IA",Iowa,Boone,
+CN1901700000000,19,17,"Bremer County, IA",Iowa,Bremer,
+CN1901900000000,19,19,"Buchanan County, IA",Iowa,Buchanan,
+CN1902100000000,19,21,"Buena Vista County, IA",Iowa,Buena Vista,
+CN1902300000000,19,23,"Butler County, IA",Iowa,Butler,
+CN1902500000000,19,25,"Calhoun County, IA",Iowa,Calhoun,
+CN1902700000000,19,27,"Carroll County, IA",Iowa,Carroll,
+CN1902900000000,19,29,"Cass County, IA",Iowa,Cass,
+CN1903100000000,19,31,"Cedar County, IA",Iowa,Cedar,
+CN1903300000000,19,33,"Cerro Gordo County, IA",Iowa,Cerro Gordo,17
+CN1903500000000,19,35,"Cherokee County, IA",Iowa,Cherokee,
+CN1903700000000,19,37,"Chickasaw County, IA",Iowa,Chickasaw,
+CN1903900000000,19,39,"Clarke County, IA",Iowa,Clarke,
+CN1904100000000,19,41,"Clay County, IA",Iowa,Clay,
+CN1904300000000,19,43,"Clayton County, IA",Iowa,Clayton,
+CN1904500000000,19,45,"Clinton County, IA",Iowa,Clinton,11
+CN1904700000000,19,47,"Crawford County, IA",Iowa,Crawford,
+CN1904900000000,19,49,"Dallas County, IA",Iowa,Dallas,4
+CN1905100000000,19,51,"Davis County, IA",Iowa,Davis,
+CN1905300000000,19,53,"Decatur County, IA",Iowa,Decatur,
+CN1905500000000,19,55,"Delaware County, IA",Iowa,Delaware,
+CN1905700000000,19,57,"Des Moines County, IA",Iowa,Des Moines,11
+CN1905900000000,19,59,"Dickinson County, IA",Iowa,Dickinson,
+CN1906100000000,19,61,"Dubuque County, IA",Iowa,Dubuque,8
+CN1906300000000,19,63,"Emmet County, IA",Iowa,Emmet,
+CN1906500000000,19,65,"Fayette County, IA",Iowa,Fayette,
+CN1906700000000,19,67,"Floyd County, IA",Iowa,Floyd,
+CN1906900000000,19,69,"Franklin County, IA",Iowa,Franklin,
+CN1907100000000,19,71,"Fremont County, IA",Iowa,Fremont,
+CN1907300000000,19,73,"Greene County, IA",Iowa,Greene,
+CN1907500000000,19,75,"Grundy County, IA",Iowa,Grundy,
+CN1907700000000,19,77,"Guthrie County, IA",Iowa,Guthrie,
+CN1907900000000,19,79,"Hamilton County, IA",Iowa,Hamilton,
+CN1908100000000,19,81,"Hancock County, IA",Iowa,Hancock,
+CN1908300000000,19,83,"Hardin County, IA",Iowa,Hardin,
+CN1908500000000,19,85,"Harrison County, IA",Iowa,Harrison,
+CN1908700000000,19,87,"Henry County, IA",Iowa,Henry,
+CN1908900000000,19,89,"Howard County, IA",Iowa,Howard,
+CN1909100000000,19,91,"Humboldt County, IA",Iowa,Humboldt,
+CN1909300000000,19,93,"Ida County, IA",Iowa,Ida,
+CN1909500000000,19,95,"Iowa County, IA",Iowa,Iowa,
+CN1909700000000,19,97,"Jackson County, IA",Iowa,Jackson,
+CN1909900000000,19,99,"Jasper County, IA",Iowa,Jasper,13
+CN1910100000000,19,101,"Jefferson County, IA",Iowa,Jefferson,
+CN1910300000000,19,103,"Johnson County, IA",Iowa,Johnson,8
+CN1910500000000,19,105,"Jones County, IA",Iowa,Jones,
+CN1910700000000,19,107,"Keokuk County, IA",Iowa,Keokuk,
+CN1910900000000,19,109,"Kossuth County, IA",Iowa,Kossuth,
+CN1911100000000,19,111,"Lee County, IA",Iowa,Lee,12
+CN1911300000000,19,113,"Linn County, IA",Iowa,Linn,13
+CN1911500000000,19,115,"Louisa County, IA",Iowa,Louisa,
+CN1911700000000,19,117,"Lucas County, IA",Iowa,Lucas,
+CN1911900000000,19,119,"Lyon County, IA",Iowa,Lyon,
+CN1912100000000,19,121,"Madison County, IA",Iowa,Madison,
+CN1912300000000,19,123,"Mahaska County, IA",Iowa,Mahaska,
+CN1912500000000,19,125,"Marion County, IA",Iowa,Marion,
+CN1912700000000,19,127,"Marshall County, IA",Iowa,Marshall,
+CN1912900000000,19,129,"Mills County, IA",Iowa,Mills,
+CN1913100000000,19,131,"Mitchell County, IA",Iowa,Mitchell,
+CN1913300000000,19,133,"Monona County, IA",Iowa,Monona,
+CN1913500000000,19,135,"Monroe County, IA",Iowa,Monroe,
+CN1913700000000,19,137,"Montgomery County, IA",Iowa,Montgomery,
+CN1913900000000,19,139,"Muscatine County, IA",Iowa,Muscatine,
+CN1914100000000,19,141,"O'Brien County, IA",Iowa,O'Brien,
+CN1914300000000,19,143,"Osceola County, IA",Iowa,Osceola,
+CN1914500000000,19,145,"Page County, IA",Iowa,Page,
+CN1914700000000,19,147,"Palo Alto County, IA",Iowa,Palo Alto,
+CN1914900000000,19,149,"Plymouth County, IA",Iowa,Plymouth,
+CN1915100000000,19,151,"Pocahontas County, IA",Iowa,Pocahontas,
+CN1915300000000,19,153,"Polk County, IA",Iowa,Polk,13
+CN1915500000000,19,155,"Pottawattamie County, IA",Iowa,Pottawattamie,12
+CN1915700000000,19,157,"Poweshiek County, IA",Iowa,Poweshiek,
+CN1915900000000,19,159,"Ringgold County, IA",Iowa,Ringgold,
+CN1916100000000,19,161,"Sac County, IA",Iowa,Sac,
+CN1916300000000,19,163,"Scott County, IA",Iowa,Scott,18
+CN1916500000000,19,165,"Shelby County, IA",Iowa,Shelby,
+CN1916700000000,19,167,"Sioux County, IA",Iowa,Sioux,
+CN1916900000000,19,169,"Story County, IA",Iowa,Story,8
+CN1917100000000,19,171,"Tama County, IA",Iowa,Tama,
+CN1917300000000,19,173,"Taylor County, IA",Iowa,Taylor,
+CN1917500000000,19,175,"Union County, IA",Iowa,Union,
+CN1917700000000,19,177,"Van Buren County, IA",Iowa,Van Buren,
+CN1917900000000,19,179,"Wapello County, IA",Iowa,Wapello,
+CN1918100000000,19,181,"Warren County, IA",Iowa,Warren,
+CN1918300000000,19,183,"Washington County, IA",Iowa,Washington,
+CN1918500000000,19,185,"Wayne County, IA",Iowa,Wayne,
+CN1918700000000,19,187,"Webster County, IA",Iowa,Webster,
+CN1918900000000,19,189,"Winnebago County, IA",Iowa,Winnebago,
+CN1919100000000,19,191,"Winneshiek County, IA",Iowa,Winneshiek,
+CN1919300000000,19,193,"Woodbury County, IA",Iowa,Woodbury,11
+CN1919500000000,19,195,"Worth County, IA",Iowa,Worth,
+CN1919700000000,19,197,"Wright County, IA",Iowa,Wright,
+CN2000100000000,20,1,"Allen County, KS",Kansas,Allen,
+CN2000300000000,20,3,"Anderson County, KS",Kansas,Anderson,
+CN2000500000000,20,5,"Atchison County, KS",Kansas,Atchison,
+CN2000700000000,20,7,"Barber County, KS",Kansas,Barber,
+CN2000900000000,20,9,"Barton County, KS",Kansas,Barton,
+CN2001100000000,20,11,"Bourbon County, KS",Kansas,Bourbon,
+CN2001300000000,20,13,"Brown County, KS",Kansas,Brown,
+CN2001500000000,20,15,"Butler County, KS",Kansas,Butler,17
+CN2001700000000,20,17,"Chase County, KS",Kansas,Chase,
+CN2001900000000,20,19,"Chautauqua County, KS",Kansas,Chautauqua,
+CN2002100000000,20,21,"Cherokee County, KS",Kansas,Cherokee,21
+CN2002300000000,20,23,"Cheyenne County, KS",Kansas,Cheyenne,
+CN2002500000000,20,25,"Clark County, KS",Kansas,Clark,
+CN2002700000000,20,27,"Clay County, KS",Kansas,Clay,
+CN2002900000000,20,29,"Cloud County, KS",Kansas,Cloud,
+CN2003100000000,20,31,"Coffey County, KS",Kansas,Coffey,
+CN2003300000000,20,33,"Comanche County, KS",Kansas,Comanche,
+CN2003500000000,20,35,"Cowley County, KS",Kansas,Cowley,14
+CN2003700000000,20,37,"Crawford County, KS",Kansas,Crawford,8
+CN2003900000000,20,39,"Decatur County, KS",Kansas,Decatur,
+CN2004100000000,20,41,"Dickinson County, KS",Kansas,Dickinson,
+CN2004300000000,20,43,"Doniphan County, KS",Kansas,Doniphan,
+CN2004500000000,20,45,"Douglas County, KS",Kansas,Douglas,11
+CN2004700000000,20,47,"Edwards County, KS",Kansas,Edwards,
+CN2004900000000,20,49,"Elk County, KS",Kansas,Elk,
+CN2005100000000,20,51,"Ellis County, KS",Kansas,Ellis,
+CN2005300000000,20,53,"Ellsworth County, KS",Kansas,Ellsworth,
+CN2005500000000,20,55,"Finney County, KS",Kansas,Finney,10
+CN2005700000000,20,57,"Ford County, KS",Kansas,Ford,
+CN2005900000000,20,59,"Franklin County, KS",Kansas,Franklin,
+CN2006100000000,20,61,"Geary County, KS",Kansas,Geary,
+CN2006300000000,20,63,"Gove County, KS",Kansas,Gove,
+CN2006500000000,20,65,"Graham County, KS",Kansas,Graham,
+CN2006700000000,20,67,"Grant County, KS",Kansas,Grant,
+CN2006900000000,20,69,"Gray County, KS",Kansas,Gray,
+CN2007100000000,20,71,"Greeley County, KS",Kansas,Greeley,
+CN2007300000000,20,73,"Greenwood County, KS",Kansas,Greenwood,
+CN2007500000000,20,75,"Hamilton County, KS",Kansas,Hamilton,
+CN2007700000000,20,77,"Harper County, KS",Kansas,Harper,
+CN2007900000000,20,79,"Harvey County, KS",Kansas,Harvey,13
+CN2008100000000,20,81,"Haskell County, KS",Kansas,Haskell,
+CN2008300000000,20,83,"Hodgeman County, KS",Kansas,Hodgeman,
+CN2008500000000,20,85,"Jackson County, KS",Kansas,Jackson,
+CN2008700000000,20,87,"Jefferson County, KS",Kansas,Jefferson,
+CN2008900000000,20,89,"Jewell County, KS",Kansas,Jewell,
+CN2009100000000,20,91,"Johnson County, KS",Kansas,Johnson,9
+CN2009300000000,20,93,"Kearny County, KS",Kansas,Kearny,
+CN2009500000000,20,95,"Kingman County, KS",Kansas,Kingman,
+CN2009700000000,20,97,"Kiowa County, KS",Kansas,Kiowa,
+CN2009900000000,20,99,"Labette County, KS",Kansas,Labette,
+CN2010100000000,20,101,"Lane County, KS",Kansas,Lane,
+CN2010300000000,20,103,"Leavenworth County, KS",Kansas,Leavenworth,15
+CN2010500000000,20,105,"Lincoln County, KS",Kansas,Lincoln,
+CN2010700000000,20,107,"Linn County, KS",Kansas,Linn,
+CN2010900000000,20,109,"Logan County, KS",Kansas,Logan,
+CN2011100000000,20,111,"Lyon County, KS",Kansas,Lyon,
+CN2011300000000,20,113,"McPherson County, KS",Kansas,McPherson,14
+CN2011500000000,20,115,"Marion County, KS",Kansas,Marion,
+CN2011700000000,20,117,"Marshall County, KS",Kansas,Marshall,
+CN2011900000000,20,119,"Meade County, KS",Kansas,Meade,
+CN2012100000000,20,121,"Miami County, KS",Kansas,Miami,14
+CN2012300000000,20,123,"Mitchell County, KS",Kansas,Mitchell,
+CN2012500000000,20,125,"Montgomery County, KS",Kansas,Montgomery,19
+CN2012700000000,20,127,"Morris County, KS",Kansas,Morris,
+CN2012900000000,20,129,"Morton County, KS",Kansas,Morton,
+CN2013100000000,20,131,"Nemaha County, KS",Kansas,Nemaha,
+CN2013300000000,20,133,"Neosho County, KS",Kansas,Neosho,22
+CN2013500000000,20,135,"Ness County, KS",Kansas,Ness,
+CN2013700000000,20,137,"Norton County, KS",Kansas,Norton,
+CN2013900000000,20,139,"Osage County, KS",Kansas,Osage,
+CN2014100000000,20,141,"Osborne County, KS",Kansas,Osborne,
+CN2014300000000,20,143,"Ottawa County, KS",Kansas,Ottawa,
+CN2014500000000,20,145,"Pawnee County, KS",Kansas,Pawnee,
+CN2014700000000,20,147,"Phillips County, KS",Kansas,Phillips,
+CN2014900000000,20,149,"Pottawatomie County, KS",Kansas,Pottawatomie,
+CN2015100000000,20,151,"Pratt County, KS",Kansas,Pratt,
+CN2015300000000,20,153,"Rawlins County, KS",Kansas,Rawlins,
+CN2015500000000,20,155,"Reno County, KS",Kansas,Reno,19
+CN2015700000000,20,157,"Republic County, KS",Kansas,Republic,
+CN2015900000000,20,159,"Rice County, KS",Kansas,Rice,
+CN2016100000000,20,161,"Riley County, KS",Kansas,Riley,6
+CN2016300000000,20,163,"Rooks County, KS",Kansas,Rooks,
+CN2016500000000,20,165,"Rush County, KS",Kansas,Rush,
+CN2016700000000,20,167,"Russell County, KS",Kansas,Russell,
+CN2016900000000,20,169,"Saline County, KS",Kansas,Saline,16
+CN2017100000000,20,171,"Scott County, KS",Kansas,Scott,
+CN2017300000000,20,173,"Sedgwick County, KS",Kansas,Sedgwick,15
+CN2017500000000,20,175,"Seward County, KS",Kansas,Seward,
+CN2017700000000,20,177,"Shawnee County, KS",Kansas,Shawnee,12
+CN2017900000000,20,179,"Sheridan County, KS",Kansas,Sheridan,
+CN2018100000000,20,181,"Sherman County, KS",Kansas,Sherman,
+CN2018300000000,20,183,"Smith County, KS",Kansas,Smith,
+CN2018500000000,20,185,"Stafford County, KS",Kansas,Stafford,
+CN2018700000000,20,187,"Stanton County, KS",Kansas,Stanton,
+CN2018900000000,20,189,"Stevens County, KS",Kansas,Stevens,
+CN2019100000000,20,191,"Sumner County, KS",Kansas,Sumner,17
+CN2019300000000,20,193,"Thomas County, KS",Kansas,Thomas,
+CN2019500000000,20,195,"Trego County, KS",Kansas,Trego,
+CN2019700000000,20,197,"Wabaunsee County, KS",Kansas,Wabaunsee,
+CN2019900000000,20,199,"Wallace County, KS",Kansas,Wallace,
+CN2020100000000,20,201,"Washington County, KS",Kansas,Washington,
+CN2020300000000,20,203,"Wichita County, KS",Kansas,Wichita,
+CN2020500000000,20,205,"Wilson County, KS",Kansas,Wilson,
+CN2020700000000,20,207,"Woodson County, KS",Kansas,Woodson,
+CN2020900000000,20,209,"Wyandotte County, KS",Kansas,Wyandotte,8
+CN2100100000000,21,1,"Adair County, KY",Kentucky,Adair,23
+CN2100300000000,21,3,"Allen County, KY",Kentucky,Allen,18
+CN2100500000000,21,5,"Anderson County, KY",Kentucky,Anderson,21
+CN2100700000000,21,7,"Ballard County, KY",Kentucky,Ballard,
+CN2100900000000,21,9,"Barren County, KY",Kentucky,Barren,15
+CN2101100000000,21,11,"Bath County, KY",Kentucky,Bath,30
+CN2101300000000,21,13,"Bell County, KY",Kentucky,Bell,72
+CN2101500000000,21,15,"Boone County, KY",Kentucky,Boone,34
+CN2101700000000,21,17,"Bourbon County, KY",Kentucky,Bourbon,27
+CN2101900000000,21,19,"Boyd County, KY",Kentucky,Boyd,29
+CN2102100000000,21,21,"Boyle County, KY",Kentucky,Boyle,19
+CN2102300000000,21,23,"Bracken County, KY",Kentucky,Bracken,
+CN2102500000000,21,25,"Breathitt County, KY",Kentucky,Breathitt,35
+CN2102700000000,21,27,"Breckinridge County, KY",Kentucky,Breckinridge,
+CN2102900000000,21,29,"Bullitt County, KY",Kentucky,Bullitt,22
+CN2103100000000,21,31,"Butler County, KY",Kentucky,Butler,31
+CN2103300000000,21,33,"Caldwell County, KY",Kentucky,Caldwell,
+CN2103500000000,21,35,"Calloway County, KY",Kentucky,Calloway,10
+CN2103700000000,21,37,"Campbell County, KY",Kentucky,Campbell,44
+CN2103900000000,21,39,"Carlisle County, KY",Kentucky,Carlisle,
+CN2104100000000,21,41,"Carroll County, KY",Kentucky,Carroll,43
+CN2104300000000,21,43,"Carter County, KY",Kentucky,Carter,25
+CN2104500000000,21,45,"Casey County, KY",Kentucky,Casey,23
+CN2104700000000,21,47,"Christian County, KY",Kentucky,Christian,6
+CN2104900000000,21,49,"Clark County, KY",Kentucky,Clark,30
+CN2105100000000,21,51,"Clay County, KY",Kentucky,Clay,24
+CN2105300000000,21,53,"Clinton County, KY",Kentucky,Clinton,59
+CN2105500000000,21,55,"Crittenden County, KY",Kentucky,Crittenden,
+CN2105700000000,21,57,"Cumberland County, KY",Kentucky,Cumberland,
+CN2105900000000,21,59,"Daviess County, KY",Kentucky,Daviess,16
+CN2106100000000,21,61,"Edmonson County, KY",Kentucky,Edmonson,28
+CN2106300000000,21,63,"Elliott County, KY",Kentucky,Elliott,
+CN2106500000000,21,65,"Estill County, KY",Kentucky,Estill,39
+CN2106700000000,21,67,"Fayette County, KY",Kentucky,Fayette,27
+CN2106900000000,21,69,"Fleming County, KY",Kentucky,Fleming,32
+CN2107100000000,21,71,"Floyd County, KY",Kentucky,Floyd,50
+CN2107300000000,21,73,"Franklin County, KY",Kentucky,Franklin,25
+CN2107500000000,21,75,"Fulton County, KY",Kentucky,Fulton,
+CN2107700000000,21,77,"Gallatin County, KY",Kentucky,Gallatin,51
+CN2107900000000,21,79,"Garrard County, KY",Kentucky,Garrard,20
+CN2108100000000,21,81,"Grant County, KY",Kentucky,Grant,39
+CN2108300000000,21,83,"Graves County, KY",Kentucky,Graves,12
+CN2108500000000,21,85,"Grayson County, KY",Kentucky,Grayson,27
+CN2108700000000,21,87,"Green County, KY",Kentucky,Green,
+CN2108900000000,21,89,"Greenup County, KY",Kentucky,Greenup,31
+CN2109100000000,21,91,"Hancock County, KY",Kentucky,Hancock,
+CN2109300000000,21,93,"Hardin County, KY",Kentucky,Hardin,12
+CN2109500000000,21,95,"Harlan County, KY",Kentucky,Harlan,36
+CN2109700000000,21,97,"Harrison County, KY",Kentucky,Harrison,38
+CN2109900000000,21,99,"Hart County, KY",Kentucky,Hart,
+CN2110100000000,21,101,"Henderson County, KY",Kentucky,Henderson,11
+CN2110300000000,21,103,"Henry County, KY",Kentucky,Henry,24
+CN2110500000000,21,105,"Hickman County, KY",Kentucky,Hickman,
+CN2110700000000,21,107,"Hopkins County, KY",Kentucky,Hopkins,22
+CN2110900000000,21,109,"Jackson County, KY",Kentucky,Jackson,
+CN2111100000000,21,111,"Jefferson County, KY",Kentucky,Jefferson,26
+CN2111300000000,21,113,"Jessamine County, KY",Kentucky,Jessamine,18
+CN2111500000000,21,115,"Johnson County, KY",Kentucky,Johnson,30
+CN2111700000000,21,117,"Kenton County, KY",Kentucky,Kenton,52
+CN2111900000000,21,119,"Knott County, KY",Kentucky,Knott,44
+CN2112100000000,21,121,"Knox County, KY",Kentucky,Knox,34
+CN2112300000000,21,123,"Larue County, KY",Kentucky,Larue,
+CN2112500000000,21,125,"Laurel County, KY",Kentucky,Laurel,21
+CN2112700000000,21,127,"Lawrence County, KY",Kentucky,Lawrence,21
+CN2112900000000,21,129,"Lee County, KY",Kentucky,Lee,51
+CN2113100000000,21,131,"Leslie County, KY",Kentucky,Leslie,58
+CN2113300000000,21,133,"Letcher County, KY",Kentucky,Letcher,31
+CN2113500000000,21,135,"Lewis County, KY",Kentucky,Lewis,
+CN2113700000000,21,137,"Lincoln County, KY",Kentucky,Lincoln,14
+CN2113900000000,21,139,"Livingston County, KY",Kentucky,Livingston,
+CN2114100000000,21,141,"Logan County, KY",Kentucky,Logan,15
+CN2114300000000,21,143,"Lyon County, KY",Kentucky,Lyon,
+CN2114500000000,21,145,"McCracken County, KY",Kentucky,McCracken,23
+CN2114700000000,21,147,"McCreary County, KY",Kentucky,McCreary,
+CN2114900000000,21,149,"McLean County, KY",Kentucky,McLean,
+CN2115100000000,21,151,"Madison County, KY",Kentucky,Madison,25
+CN2115300000000,21,153,"Magoffin County, KY",Kentucky,Magoffin,
+CN2115500000000,21,155,"Marion County, KY",Kentucky,Marion,17
+CN2115700000000,21,157,"Marshall County, KY",Kentucky,Marshall,30
+CN2115900000000,21,159,"Martin County, KY",Kentucky,Martin,45
+CN2116100000000,21,161,"Mason County, KY",Kentucky,Mason,23
+CN2116300000000,21,163,"Meade County, KY",Kentucky,Meade,15
+CN2116500000000,21,165,"Menifee County, KY",Kentucky,Menifee,
+CN2116700000000,21,167,"Mercer County, KY",Kentucky,Mercer,17
+CN2116900000000,21,169,"Metcalfe County, KY",Kentucky,Metcalfe,
+CN2117100000000,21,171,"Monroe County, KY",Kentucky,Monroe,
+CN2117300000000,21,173,"Montgomery County, KY",Kentucky,Montgomery,29
+CN2117500000000,21,175,"Morgan County, KY",Kentucky,Morgan,
+CN2117700000000,21,177,"Muhlenberg County, KY",Kentucky,Muhlenberg,20
+CN2117900000000,21,179,"Nelson County, KY",Kentucky,Nelson,13
+CN2118100000000,21,181,"Nicholas County, KY",Kentucky,Nicholas,
+CN2118300000000,21,183,"Ohio County, KY",Kentucky,Ohio,26
+CN2118500000000,21,185,"Oldham County, KY",Kentucky,Oldham,13
+CN2118700000000,21,187,"Owen County, KY",Kentucky,Owen,34
+CN2118900000000,21,189,"Owsley County, KY",Kentucky,Owsley,
+CN2119100000000,21,191,"Pendleton County, KY",Kentucky,Pendleton,37
+CN2119300000000,21,193,"Perry County, KY",Kentucky,Perry,40
+CN2119500000000,21,195,"Pike County, KY",Kentucky,Pike,38
+CN2119700000000,21,197,"Powell County, KY",Kentucky,Powell,59
+CN2119900000000,21,199,"Pulaski County, KY",Kentucky,Pulaski,16
+CN2120100000000,21,201,"Robertson County, KY",Kentucky,Robertson,
+CN2120300000000,21,203,"Rockcastle County, KY",Kentucky,Rockcastle,22
+CN2120500000000,21,205,"Rowan County, KY",Kentucky,Rowan,18
+CN2120700000000,21,207,"Russell County, KY",Kentucky,Russell,53
+CN2120900000000,21,209,"Scott County, KY",Kentucky,Scott,18
+CN2121100000000,21,211,"Shelby County, KY",Kentucky,Shelby,19
+CN2121300000000,21,213,"Simpson County, KY",Kentucky,Simpson,19
+CN2121500000000,21,215,"Spencer County, KY",Kentucky,Spencer,
+CN2121700000000,21,217,"Taylor County, KY",Kentucky,Taylor,19
+CN2121900000000,21,219,"Todd County, KY",Kentucky,Todd,
+CN2122100000000,21,221,"Trigg County, KY",Kentucky,Trigg,
+CN2122300000000,21,223,"Trimble County, KY",Kentucky,Trimble,
+CN2122500000000,21,225,"Union County, KY",Kentucky,Union,38
+CN2122700000000,21,227,"Warren County, KY",Kentucky,Warren,13
+CN2122900000000,21,229,"Washington County, KY",Kentucky,Washington,
+CN2123100000000,21,231,"Wayne County, KY",Kentucky,Wayne,21
+CN2123300000000,21,233,"Webster County, KY",Kentucky,Webster,
+CN2123500000000,21,235,"Whitley County, KY",Kentucky,Whitley,44
+CN2123700000000,21,237,"Wolfe County, KY",Kentucky,Wolfe,51
+CN2123900000000,21,239,"Woodford County, KY",Kentucky,Woodford,25
+CN2200100000000,22,1,"Acadia Parish, LA",Louisiana,Acadia,13
+CN2200300000000,22,3,"Allen Parish, LA",Louisiana,Allen,
+CN2200500000000,22,5,"Ascension Parish, LA",Louisiana,Ascension,16
+CN2200700000000,22,7,"Assumption Parish, LA",Louisiana,Assumption,14
+CN2200900000000,22,9,"Avoyelles Parish, LA",Louisiana,Avoyelles,19
+CN2201100000000,22,11,"Beauregard Parish, LA",Louisiana,Beauregard,
+CN2201300000000,22,13,"Bienville Parish, LA",Louisiana,Bienville,
+CN2201500000000,22,15,"Bossier Parish, LA",Louisiana,Bossier,9
+CN2201700000000,22,17,"Caddo Parish, LA",Louisiana,Caddo,10
+CN2201900000000,22,19,"Calcasieu Parish, LA",Louisiana,Calcasieu,14
+CN2202100000000,22,21,"Caldwell Parish, LA",Louisiana,Caldwell,
+CN2202300000000,22,23,"Cameron Parish, LA",Louisiana,Cameron,
+CN2202500000000,22,25,"Catahoula Parish, LA",Louisiana,Catahoula,
+CN2202700000000,22,27,"Claiborne Parish, LA",Louisiana,Claiborne,
+CN2202900000000,22,29,"Concordia Parish, LA",Louisiana,Concordia,
+CN2203100000000,22,31,"De Soto Parish, LA",Louisiana,De Soto,
+CN2203300000000,22,33,"East Baton Rouge Parish, LA",Louisiana,East Baton Rouge,14
+CN2203500000000,22,35,"East Carroll Parish, LA",Louisiana,East Carroll,
+CN2203700000000,22,37,"East Feliciana Parish, LA",Louisiana,East Feliciana,
+CN2203900000000,22,39,"Evangeline Parish, LA",Louisiana,Evangeline,14
+CN2204100000000,22,41,"Franklin Parish, LA",Louisiana,Franklin,
+CN2204300000000,22,43,"Grant Parish, LA",Louisiana,Grant,
+CN2204500000000,22,45,"Iberia Parish, LA",Louisiana,Iberia,19
+CN2204700000000,22,47,"Iberville Parish, LA",Louisiana,Iberville,12
+CN2204900000000,22,49,"Jackson Parish, LA",Louisiana,Jackson,23
+CN2205100000000,22,51,"Jefferson Parish, LA",Louisiana,Jefferson,28
+CN2205300000000,22,53,"Jefferson Davis Parish, LA",Louisiana,Jefferson Davis,13
+CN2205500000000,22,55,"Lafayette Parish, LA",Louisiana,Lafayette,13
+CN2205700000000,22,57,"Lafourche Parish, LA",Louisiana,Lafourche,19
+CN2205900000000,22,59,"LaSalle Parish, LA",Louisiana,La Salle,29
+CN2206100000000,22,61,"Lincoln Parish, LA",Louisiana,Lincoln,
+CN2206300000000,22,63,"Livingston Parish, LA",Louisiana,Livingston,30
+CN2206500000000,22,65,"Madison Parish, LA",Louisiana,Madison,
+CN2206700000000,22,67,"Morehouse Parish, LA",Louisiana,Morehouse,15
+CN2206900000000,22,69,"Natchitoches Parish, LA",Louisiana,Natchitoches,
+CN2207100000000,22,71,"Orleans Parish, LA",Louisiana,Orleans,28
+CN2207300000000,22,73,"Ouachita Parish, LA",Louisiana,Ouachita,12
+CN2207500000000,22,75,"Plaquemines Parish, LA",Louisiana,Plaquemines,28
+CN2207700000000,22,77,"Pointe Coupee Parish, LA",Louisiana,Pointe Coupee,
+CN2207900000000,22,79,"Rapides Parish, LA",Louisiana,Rapides,13
+CN2208100000000,22,81,"Red River Parish, LA",Louisiana,Red River,
+CN2208300000000,22,83,"Richland Parish, LA",Louisiana,Richland,
+CN2208500000000,22,85,"Sabine Parish, LA",Louisiana,Sabine,
+CN2208700000000,22,87,"St. Bernard Parish, LA",Louisiana,St. Bernard,31
+CN2208900000000,22,89,"St. Charles Parish, LA",Louisiana,St. Charles,21
+CN2209100000000,22,91,"St. Helena Parish, LA",Louisiana,St. Helena,
+CN2209300000000,22,93,"St. James Parish, LA",Louisiana,St. James,
+CN2209500000000,22,95,"St. John the Baptist Parish, LA",Louisiana,St. John the Baptist,13
+CN2209700000000,22,97,"St. Landry Parish, LA",Louisiana,St. Landry,12
+CN2209900000000,22,99,"St. Martin Parish, LA",Louisiana,St. Martin,9
+CN2210100000000,22,101,"St. Mary Parish, LA",Louisiana,St. Mary,14
+CN2210300000000,22,103,"St. Tammany Parish, LA",Louisiana,St. Tammany,28
+CN2210500000000,22,105,"Tangipahoa Parish, LA",Louisiana,Tangipahoa,19
+CN2210700000000,22,107,"Tensas Parish, LA",Louisiana,Tensas,
+CN2210900000000,22,109,"Terrebonne Parish, LA",Louisiana,Terrebonne,24
+CN2211100000000,22,111,"Union Parish, LA",Louisiana,Union,
+CN2211300000000,22,113,"Vermilion Parish, LA",Louisiana,Vermilion,11
+CN2211500000000,22,115,"Vernon Parish, LA",Louisiana,Vernon,8
+CN2211700000000,22,117,"Washington Parish, LA",Louisiana,Washington,32
+CN2211900000000,22,119,"Webster Parish, LA",Louisiana,Webster,17
+CN2212100000000,22,121,"West Baton Rouge Parish, LA",Louisiana,West Baton Rouge,17
+CN2212300000000,22,123,"West Carroll Parish, LA",Louisiana,West Carroll,
+CN2212500000000,22,125,"West Feliciana Parish, LA",Louisiana,West Feliciana,
+CN2212700000000,22,127,"Winn Parish, LA",Louisiana,Winn,
+CN2300100000000,23,1,"Androscoggin County, ME",Maine,Androscoggin,19
+CN2300300000000,23,3,"Aroostook County, ME",Maine,Aroostook,9
+CN2300500000000,23,5,"Cumberland County, ME",Maine,Cumberland,19
+CN2300700000000,23,7,"Franklin County, ME",Maine,Franklin,
+CN2300900000000,23,9,"Hancock County, ME",Maine,Hancock,16
+CN2301100000000,23,11,"Kennebec County, ME",Maine,Kennebec,20
+CN2301300000000,23,13,"Knox County, ME",Maine,Knox,17
+CN2301500000000,23,15,"Lincoln County, ME",Maine,Lincoln,16
+CN2301700000000,23,17,"Oxford County, ME",Maine,Oxford,10
+CN2301900000000,23,19,"Penobscot County, ME",Maine,Penobscot,15
+CN2302100000000,23,21,"Piscataquis County, ME",Maine,Piscataquis,
+CN2302300000000,23,23,"Sagadahoc County, ME",Maine,Sagadahoc,10
+CN2302500000000,23,25,"Somerset County, ME",Maine,Somerset,15
+CN2302700000000,23,27,"Waldo County, ME",Maine,Waldo,15
+CN2302900000000,23,29,"Washington County, ME",Maine,Washington,21
+CN2303100000000,23,31,"York County, ME",Maine,York,19
+CN2400100000000,24,1,"Allegany County, MD",Maryland,Allegany,20
+CN2400300000000,24,3,"Anne Arundel County, MD",Maryland,Anne Arundel,21
+CN2400500000000,24,5,"Baltimore County, MD",Maryland,Baltimore,23
+CN2400900000000,24,9,"Calvert County, MD",Maryland,Calvert,23
+CN2401100000000,24,11,"Caroline County, MD",Maryland,Caroline,26
+CN2401300000000,24,13,"Carroll County, MD",Maryland,Carroll,23
+CN2401500000000,24,15,"Cecil County, MD",Maryland,Cecil,31
+CN2401700000000,24,17,"Charles County, MD",Maryland,Charles,13
+CN2401900000000,24,19,"Dorchester County, MD",Maryland,Dorchester,10
+CN2402100000000,24,21,"Frederick County, MD",Maryland,Frederick,16
+CN2402300000000,24,23,"Garrett County, MD",Maryland,Garrett,12
+CN2402500000000,24,25,"Harford County, MD",Maryland,Harford,20
+CN2402700000000,24,27,"Howard County, MD",Maryland,Howard,10
+CN2402900000000,24,29,"Kent County, MD",Maryland,Kent,25
+CN2403100000000,24,31,"Montgomery County, MD",Maryland,Montgomery,7
+CN2403300000000,24,33,"Prince George's County, MD",Maryland,Prince George's,7
+CN2403500000000,24,35,"Queen Anne's County, MD",Maryland,Queen Anne's,21
+CN2403700000000,24,37,"St. Mary's County, MD",Maryland,St. Mary's,14
+CN2403900000000,24,39,"Somerset County, MD",Maryland,Somerset,18
+CN2404100000000,24,41,"Talbot County, MD",Maryland,Talbot,13
+CN2404300000000,24,43,"Washington County, MD",Maryland,Washington,31
+CN2404500000000,24,45,"Wicomico County, MD",Maryland,Wicomico,12
+CN2404700000000,24,47,"Worcester County, MD",Maryland,Worcester,23
+CN2451000000000,24,510,"Baltimore city, MD",Maryland,Baltimore City,42
+CN2500100000000,25,1,"Barnstable County, MA",Massachusetts,Barnstable,27
+CN2500300000000,25,3,"Berkshire County, MA",Massachusetts,Berkshire,23
+CN2500500000000,25,5,"Bristol County, MA",Massachusetts,Bristol,28
+CN2500700000000,25,7,"Dukes County, MA",Massachusetts,Dukes,25
+CN2500900000000,25,9,"Essex County, MA",Massachusetts,Essex,24
+CN2501100000000,25,11,"Franklin County, MA",Massachusetts,Franklin,21
+CN2501300000000,25,13,"Hampden County, MA",Massachusetts,Hampden,18
+CN2501500000000,25,15,"Hampshire County, MA",Massachusetts,Hampshire,16
+CN2501700000000,25,17,"Middlesex County, MA",Massachusetts,Middlesex,16
+CN2501900000000,25,19,"Nantucket County/town, MA",Massachusetts,Nantucket,
+CN2502100000000,25,21,"Norfolk County, MA",Massachusetts,Norfolk,18
+CN2502300000000,25,23,"Plymouth County, MA",Massachusetts,Plymouth,23
+CN2502500000000,25,25,"Suffolk County, MA",Massachusetts,Suffolk,19
+CN2502700000000,25,27,"Worcester County, MA",Massachusetts,Worcester,21
+CN2600100000000,26,1,"Alcona County, MI",Michigan,Alcona,
+CN2600300000000,26,3,"Alger County, MI",Michigan,Alger,
+CN2600500000000,26,5,"Allegan County, MI",Michigan,Allegan,13
+CN2600700000000,26,7,"Alpena County, MI",Michigan,Alpena,12
+CN2600900000000,26,9,"Antrim County, MI",Michigan,Antrim,16
+CN2601100000000,26,11,"Arenac County, MI",Michigan,Arenac,
+CN2601300000000,26,13,"Baraga County, MI",Michigan,Baraga,
+CN2601500000000,26,15,"Barry County, MI",Michigan,Barry,11
+CN2601700000000,26,17,"Bay County, MI",Michigan,Bay,19
+CN2601900000000,26,19,"Benzie County, MI",Michigan,Benzie,23
+CN2602100000000,26,21,"Berrien County, MI",Michigan,Berrien,18
+CN2602300000000,26,23,"Branch County, MI",Michigan,Branch,14
+CN2602500000000,26,25,"Calhoun County, MI",Michigan,Calhoun,26
+CN2602700000000,26,27,"Cass County, MI",Michigan,Cass,14
+CN2602900000000,26,29,"Charlevoix County, MI",Michigan,Charlevoix,
+CN2603100000000,26,31,"Cheboygan County, MI",Michigan,Cheboygan,13
+CN2603300000000,26,33,"Chippewa County, MI",Michigan,Chippewa,12
+CN2603500000000,26,35,"Clare County, MI",Michigan,Clare,21
+CN2603700000000,26,37,"Clinton County, MI",Michigan,Clinton,11
+CN2603900000000,26,39,"Crawford County, MI",Michigan,Crawford,
+CN2604100000000,26,41,"Delta County, MI",Michigan,Delta,
+CN2604300000000,26,43,"Dickinson County, MI",Michigan,Dickinson,15
+CN2604500000000,26,45,"Eaton County, MI",Michigan,Eaton,17
+CN2604700000000,26,47,"Emmet County, MI",Michigan,Emmet,
+CN2604900000000,26,49,"Genesee County, MI",Michigan,Genesee,14
+CN2605100000000,26,51,"Gladwin County, MI",Michigan,Gladwin,22
+CN2605300000000,26,53,"Gogebic County, MI",Michigan,Gogebic,
+CN2605500000000,26,55,"Grand Traverse County, MI",Michigan,Grand Traverse,12
+CN2605700000000,26,57,"Gratiot County, MI",Michigan,Gratiot,
+CN2605900000000,26,59,"Hillsdale County, MI",Michigan,Hillsdale,7
+CN2606100000000,26,61,"Houghton County, MI",Michigan,Houghton,
+CN2606300000000,26,63,"Huron County, MI",Michigan,Huron,
+CN2606500000000,26,65,"Ingham County, MI",Michigan,Ingham,20
+CN2606700000000,26,67,"Ionia County, MI",Michigan,Ionia,16
+CN2606900000000,26,69,"Iosco County, MI",Michigan,Iosco,20
+CN2607100000000,26,71,"Iron County, MI",Michigan,Iron,
+CN2607300000000,26,73,"Isabella County, MI",Michigan,Isabella,10
+CN2607500000000,26,75,"Jackson County, MI",Michigan,Jackson,8
+CN2607700000000,26,77,"Kalamazoo County, MI",Michigan,Kalamazoo,14
+CN2607900000000,26,79,"Kalkaska County, MI",Michigan,Kalkaska,
+CN2608100000000,26,81,"Kent County, MI",Michigan,Kent,12
+CN2608300000000,26,83,"Keweenaw County, MI",Michigan,Keweenaw,
+CN2608500000000,26,85,"Lake County, MI",Michigan,Lake,
+CN2608700000000,26,87,"Lapeer County, MI",Michigan,Lapeer,11
+CN2608900000000,26,89,"Leelanau County, MI",Michigan,Leelanau,
+CN2609100000000,26,91,"Lenawee County, MI",Michigan,Lenawee,19
+CN2609300000000,26,93,"Livingston County, MI",Michigan,Livingston,19
+CN2609500000000,26,95,"Luce County, MI",Michigan,Luce,
+CN2609700000000,26,97,"Mackinac County, MI",Michigan,Mackinac,
+CN2609900000000,26,99,"Macomb County, MI",Michigan,Macomb,29
+CN2610100000000,26,101,"Manistee County, MI",Michigan,Manistee,18
+CN2610300000000,26,103,"Marquette County, MI",Michigan,Marquette,18
+CN2610500000000,26,105,"Mason County, MI",Michigan,Mason,14
+CN2610700000000,26,107,"Mecosta County, MI",Michigan,Mecosta,12
+CN2610900000000,26,109,"Menominee County, MI",Michigan,Menominee,17
+CN2611100000000,26,111,"Midland County, MI",Michigan,Midland,9
+CN2611300000000,26,113,"Missaukee County, MI",Michigan,Missaukee,
+CN2611500000000,26,115,"Monroe County, MI",Michigan,Monroe,28
+CN2611700000000,26,117,"Montcalm County, MI",Michigan,Montcalm,15
+CN2611900000000,26,119,"Montmorency County, MI",Michigan,Montmorency,
+CN2612100000000,26,121,"Muskegon County, MI",Michigan,Muskegon,25
+CN2612300000000,26,123,"Newaygo County, MI",Michigan,Newaygo,10
+CN2612500000000,26,125,"Oakland County, MI",Michigan,Oakland,10
+CN2612700000000,26,127,"Oceana County, MI",Michigan,Oceana,22
+CN2612900000000,26,129,"Ogemaw County, MI",Michigan,Ogemaw,32
+CN2613100000000,26,131,"Ontonagon County, MI",Michigan,Ontonagon,
+CN2613300000000,26,133,"Osceola County, MI",Michigan,Osceola,16
+CN2613500000000,26,135,"Oscoda County, MI",Michigan,Oscoda,
+CN2613700000000,26,137,"Otsego County, MI",Michigan,Otsego,
+CN2613900000000,26,139,"Ottawa County, MI",Michigan,Ottawa,10
+CN2614100000000,26,141,"Presque Isle County, MI",Michigan,Presque Isle,
+CN2614300000000,26,143,"Roscommon County, MI",Michigan,Roscommon,15
+CN2614500000000,26,145,"Saginaw County, MI",Michigan,Saginaw,18
+CN2614700000000,26,147,"St. Clair County, MI",Michigan,St. Clair,26
+CN2614900000000,26,149,"St. Joseph County, MI",Michigan,St. Joseph,13
+CN2615100000000,26,151,"Sanilac County, MI",Michigan,Sanilac,12
+CN2615300000000,26,153,"Schoolcraft County, MI",Michigan,Schoolcraft,
+CN2615500000000,26,155,"Shiawassee County, MI",Michigan,Shiawassee,11
+CN2615700000000,26,157,"Tuscola County, MI",Michigan,Tuscola,12
+CN2615900000000,26,159,"Van Buren County, MI",Michigan,Van Buren,17
+CN2616100000000,26,161,"Washtenaw County, MI",Michigan,Washtenaw,17
+CN2616300000000,26,163,"Wayne County, MI",Michigan,Wayne,27
+CN2616500000000,26,165,"Wexford County, MI",Michigan,Wexford,17
+CN2700100000000,27,1,"Aitkin County, MN",Minnesota,Aitkin,21
+CN2700300000000,27,3,"Anoka County, MN",Minnesota,Anoka,10
+CN2700500000000,27,5,"Becker County, MN",Minnesota,Becker,
+CN2700700000000,27,7,"Beltrami County, MN",Minnesota,Beltrami,8
+CN2700900000000,27,9,"Benton County, MN",Minnesota,Benton,9
+CN2701100000000,27,11,"Big Stone County, MN",Minnesota,Big Stone,
+CN2701300000000,27,13,"Blue Earth County, MN",Minnesota,Blue Earth,
+CN2701500000000,27,15,"Brown County, MN",Minnesota,Brown,
+CN2701700000000,27,17,"Carlton County, MN",Minnesota,Carlton,16
+CN2701900000000,27,19,"Carver County, MN",Minnesota,Carver,6
+CN2702100000000,27,21,"Cass County, MN",Minnesota,Cass,21
+CN2702300000000,27,23,"Chippewa County, MN",Minnesota,Chippewa,
+CN2702500000000,27,25,"Chisago County, MN",Minnesota,Chisago,11
+CN2702700000000,27,27,"Clay County, MN",Minnesota,Clay,18
+CN2702900000000,27,29,"Clearwater County, MN",Minnesota,Clearwater,
+CN2703100000000,27,31,"Cook County, MN",Minnesota,Cook,
+CN2703300000000,27,33,"Cottonwood County, MN",Minnesota,Cottonwood,
+CN2703500000000,27,35,"Crow Wing County, MN",Minnesota,Crow Wing,13
+CN2703700000000,27,37,"Dakota County, MN",Minnesota,Dakota,9
+CN2703900000000,27,39,"Dodge County, MN",Minnesota,Dodge,
+CN2704100000000,27,41,"Douglas County, MN",Minnesota,Douglas,
+CN2704300000000,27,43,"Faribault County, MN",Minnesota,Faribault,
+CN2704500000000,27,45,"Fillmore County, MN",Minnesota,Fillmore,
+CN2704700000000,27,47,"Freeborn County, MN",Minnesota,Freeborn,
+CN2704900000000,27,49,"Goodhue County, MN",Minnesota,Goodhue,7
+CN2705100000000,27,51,"Grant County, MN",Minnesota,Grant,
+CN2705300000000,27,53,"Hennepin County, MN",Minnesota,Hennepin,12
+CN2705500000000,27,55,"Houston County, MN",Minnesota,Houston,
+CN2705700000000,27,57,"Hubbard County, MN",Minnesota,Hubbard,
+CN2705900000000,27,59,"Isanti County, MN",Minnesota,Isanti,
+CN2706100000000,27,61,"Itasca County, MN",Minnesota,Itasca,12
+CN2706300000000,27,63,"Jackson County, MN",Minnesota,Jackson,
+CN2706500000000,27,65,"Kanabec County, MN",Minnesota,Kanabec,
+CN2706700000000,27,67,"Kandiyohi County, MN",Minnesota,Kandiyohi,8
+CN2706900000000,27,69,"Kittson County, MN",Minnesota,Kittson,
+CN2707100000000,27,71,"Koochiching County, MN",Minnesota,Koochiching,
+CN2707300000000,27,73,"Lac qui Parle County, MN",Minnesota,Lac qui Parle,
+CN2707500000000,27,75,"Lake County, MN",Minnesota,Lake,
+CN2707700000000,27,77,"Lake of the Woods County, MN",Minnesota,Lake of the Woods,
+CN2707900000000,27,79,"Le Sueur County, MN",Minnesota,Le Sueur,
+CN2708100000000,27,81,"Lincoln County, MN",Minnesota,Lincoln,
+CN2708300000000,27,83,"Lyon County, MN",Minnesota,Lyon,
+CN2708500000000,27,85,"McLeod County, MN",Minnesota,McLeod,
+CN2708700000000,27,87,"Mahnomen County, MN",Minnesota,Mahnomen,
+CN2708900000000,27,89,"Marshall County, MN",Minnesota,Marshall,
+CN2709100000000,27,91,"Martin County, MN",Minnesota,Martin,
+CN2709300000000,27,93,"Meeker County, MN",Minnesota,Meeker,
+CN2709500000000,27,95,"Mille Lacs County, MN",Minnesota,Mille Lacs,15
+CN2709700000000,27,97,"Morrison County, MN",Minnesota,Morrison,
+CN2709900000000,27,99,"Mower County, MN",Minnesota,Mower,14
+CN2710100000000,27,101,"Murray County, MN",Minnesota,Murray,
+CN2710300000000,27,103,"Nicollet County, MN",Minnesota,Nicollet,
+CN2710500000000,27,105,"Nobles County, MN",Minnesota,Nobles,
+CN2710700000000,27,107,"Norman County, MN",Minnesota,Norman,
+CN2710900000000,27,109,"Olmsted County, MN",Minnesota,Olmsted,10
+CN2711100000000,27,111,"Otter Tail County, MN",Minnesota,Otter Tail,6
+CN2711300000000,27,113,"Pennington County, MN",Minnesota,Pennington,
+CN2711500000000,27,115,"Pine County, MN",Minnesota,Pine,13
+CN2711700000000,27,117,"Pipestone County, MN",Minnesota,Pipestone,
+CN2711900000000,27,119,"Polk County, MN",Minnesota,Polk,17
+CN2712100000000,27,121,"Pope County, MN",Minnesota,Pope,
+CN2712300000000,27,123,"Ramsey County, MN",Minnesota,Ramsey,13
+CN2712500000000,27,125,"Red Lake County, MN",Minnesota,Red Lake,
+CN2712700000000,27,127,"Redwood County, MN",Minnesota,Redwood,
+CN2712900000000,27,129,"Renville County, MN",Minnesota,Renville,
+CN2713100000000,27,131,"Rice County, MN",Minnesota,Rice,5
+CN2713300000000,27,133,"Rock County, MN",Minnesota,Rock,
+CN2713500000000,27,135,"Roseau County, MN",Minnesota,Roseau,
+CN2713700000000,27,137,"St. Louis County, MN",Minnesota,St. Louis,15
+CN2713900000000,27,139,"Scott County, MN",Minnesota,Scott,3
+CN2714100000000,27,141,"Sherburne County, MN",Minnesota,Sherburne,10
+CN2714300000000,27,143,"Sibley County, MN",Minnesota,Sibley,
+CN2714500000000,27,145,"Stearns County, MN",Minnesota,Stearns,10
+CN2714700000000,27,147,"Steele County, MN",Minnesota,Steele,
+CN2714900000000,27,149,"Stevens County, MN",Minnesota,Stevens,
+CN2715100000000,27,151,"Swift County, MN",Minnesota,Swift,
+CN2715300000000,27,153,"Todd County, MN",Minnesota,Todd,
+CN2715500000000,27,155,"Traverse County, MN",Minnesota,Traverse,
+CN2715700000000,27,157,"Wabasha County, MN",Minnesota,Wabasha,
+CN2715900000000,27,159,"Wadena County, MN",Minnesota,Wadena,
+CN2716100000000,27,161,"Waseca County, MN",Minnesota,Waseca,
+CN2716300000000,27,163,"Washington County, MN",Minnesota,Washington,8
+CN2716500000000,27,165,"Watonwan County, MN",Minnesota,Watonwan,
+CN2716700000000,27,167,"Wilkin County, MN",Minnesota,Wilkin,
+CN2716900000000,27,169,"Winona County, MN",Minnesota,Winona,12
+CN2717100000000,27,171,"Wright County, MN",Minnesota,Wright,5
+CN2717300000000,27,173,"Yellow Medicine County, MN",Minnesota,Yellow Medicine,
+CN2800100000000,28,1,"Adams County, MS",Mississippi,Adams,
+CN2800300000000,28,3,"Alcorn County, MS",Mississippi,Alcorn,16
+CN2800500000000,28,5,"Amite County, MS",Mississippi,Amite,
+CN2800700000000,28,7,"Attala County, MS",Mississippi,Attala,
+CN2800900000000,28,9,"Benton County, MS",Mississippi,Benton,
+CN2801100000000,28,11,"Bolivar County, MS",Mississippi,Bolivar,
+CN2801300000000,28,13,"Calhoun County, MS",Mississippi,Calhoun,
+CN2801500000000,28,15,"Carroll County, MS",Mississippi,Carroll,
+CN2801700000000,28,17,"Chickasaw County, MS",Mississippi,Chickasaw,
+CN2801900000000,28,19,"Choctaw County, MS",Mississippi,Choctaw,
+CN2802100000000,28,21,"Claiborne County, MS",Mississippi,Claiborne,
+CN2802300000000,28,23,"Clarke County, MS",Mississippi,Clarke,
+CN2802500000000,28,25,"Clay County, MS",Mississippi,Clay,
+CN2802700000000,28,27,"Coahoma County, MS",Mississippi,Coahoma,19
+CN2802900000000,28,29,"Copiah County, MS",Mississippi,Copiah,
+CN2803100000000,28,31,"Covington County, MS",Mississippi,Covington,
+CN2803300000000,28,33,"DeSoto County, MS",Mississippi,DeSoto,13
+CN2803500000000,28,35,"Forrest County, MS",Mississippi,Forrest,10
+CN2803700000000,28,37,"Franklin County, MS",Mississippi,Franklin,
+CN2803900000000,28,39,"George County, MS",Mississippi,George,26
+CN2804100000000,28,41,"Greene County, MS",Mississippi,Greene,
+CN2804300000000,28,43,"Grenada County, MS",Mississippi,Grenada,
+CN2804500000000,28,45,"Hancock County, MS",Mississippi,Hancock,25
+CN2804700000000,28,47,"Harrison County, MS",Mississippi,Harrison,20
+CN2804900000000,28,49,"Hinds County, MS",Mississippi,Hinds,5
+CN2805100000000,28,51,"Holmes County, MS",Mississippi,Holmes,
+CN2805300000000,28,53,"Humphreys County, MS",Mississippi,Humphreys,
+CN2805500000000,28,55,"Issaquena County, MS",Mississippi,Issaquena,
+CN2805700000000,28,57,"Itawamba County, MS",Mississippi,Itawamba,
+CN2805900000000,28,59,"Jackson County, MS",Mississippi,Jackson,19
+CN2806100000000,28,61,"Jasper County, MS",Mississippi,Jasper,
+CN2806300000000,28,63,"Jefferson County, MS",Mississippi,Jefferson,
+CN2806500000000,28,65,"Jefferson Davis County, MS",Mississippi,Jefferson Davis,
+CN2806700000000,28,67,"Jones County, MS",Mississippi,Jones,6
+CN2806900000000,28,69,"Kemper County, MS",Mississippi,Kemper,
+CN2807100000000,28,71,"Lafayette County, MS",Mississippi,Lafayette,
+CN2807300000000,28,73,"Lamar County, MS",Mississippi,Lamar,16
+CN2807500000000,28,75,"Lauderdale County, MS",Mississippi,Lauderdale,7
+CN2807700000000,28,77,"Lawrence County, MS",Mississippi,Lawrence,
+CN2807900000000,28,79,"Leake County, MS",Mississippi,Leake,16
+CN2808100000000,28,81,"Lee County, MS",Mississippi,Lee,6
+CN2808300000000,28,83,"Leflore County, MS",Mississippi,Leflore,
+CN2808500000000,28,85,"Lincoln County, MS",Mississippi,Lincoln,12
+CN2808700000000,28,87,"Lowndes County, MS",Mississippi,Lowndes,8
+CN2808900000000,28,89,"Madison County, MS",Mississippi,Madison,9
+CN2809100000000,28,91,"Marion County, MS",Mississippi,Marion,22
+CN2809300000000,28,93,"Marshall County, MS",Mississippi,Marshall,
+CN2809500000000,28,95,"Monroe County, MS",Mississippi,Monroe,
+CN2809700000000,28,97,"Montgomery County, MS",Mississippi,Montgomery,
+CN2809900000000,28,99,"Neshoba County, MS",Mississippi,Neshoba,17
+CN2810100000000,28,101,"Newton County, MS",Mississippi,Newton,
+CN2810300000000,28,103,"Noxubee County, MS",Mississippi,Noxubee,
+CN2810500000000,28,105,"Oktibbeha County, MS",Mississippi,Oktibbeha,
+CN2810700000000,28,107,"Panola County, MS",Mississippi,Panola,12
+CN2810900000000,28,109,"Pearl River County, MS",Mississippi,Pearl River,27
+CN2811100000000,28,111,"Perry County, MS",Mississippi,Perry,
+CN2811300000000,28,113,"Pike County, MS",Mississippi,Pike,8
+CN2811500000000,28,115,"Pontotoc County, MS",Mississippi,Pontotoc,13
+CN2811700000000,28,117,"Prentiss County, MS",Mississippi,Prentiss,
+CN2811900000000,28,119,"Quitman County, MS",Mississippi,Quitman,
+CN2812100000000,28,121,"Rankin County, MS",Mississippi,Rankin,10
+CN2812300000000,28,123,"Scott County, MS",Mississippi,Scott,
+CN2812500000000,28,125,"Sharkey County, MS",Mississippi,Sharkey,
+CN2812700000000,28,127,"Simpson County, MS",Mississippi,Simpson,
+CN2812900000000,28,129,"Smith County, MS",Mississippi,Smith,
+CN2813100000000,28,131,"Stone County, MS",Mississippi,Stone,
+CN2813300000000,28,133,"Sunflower County, MS",Mississippi,Sunflower,
+CN2813500000000,28,135,"Tallahatchie County, MS",Mississippi,Tallahatchie,
+CN2813700000000,28,137,"Tate County, MS",Mississippi,Tate,16
+CN2813900000000,28,139,"Tippah County, MS",Mississippi,Tippah,
+CN2814100000000,28,141,"Tishomingo County, MS",Mississippi,Tishomingo,32
+CN2814300000000,28,143,"Tunica County, MS",Mississippi,Tunica,
+CN2814500000000,28,145,"Union County, MS",Mississippi,Union,
+CN2814700000000,28,147,"Walthall County, MS",Mississippi,Walthall,
+CN2814900000000,28,149,"Warren County, MS",Mississippi,Warren,
+CN2815100000000,28,151,"Washington County, MS",Mississippi,Washington,7
+CN2815300000000,28,153,"Wayne County, MS",Mississippi,Wayne,21
+CN2815500000000,28,155,"Webster County, MS",Mississippi,Webster,
+CN2815700000000,28,157,"Wilkinson County, MS",Mississippi,Wilkinson,
+CN2815900000000,28,159,"Winston County, MS",Mississippi,Winston,
+CN2816100000000,28,161,"Yalobusha County, MS",Mississippi,Yalobusha,
+CN2816300000000,28,163,"Yazoo County, MS",Mississippi,Yazoo,
+CN2900100000000,29,1,"Adair County, MO",Missouri,Adair,18
+CN2900300000000,29,3,"Andrew County, MO",Missouri,Andrew,
+CN2900500000000,29,5,"Atchison County, MO",Missouri,Atchison,
+CN2900700000000,29,7,"Audrain County, MO",Missouri,Audrain,
+CN2900900000000,29,9,"Barry County, MO",Missouri,Barry,13
+CN2901100000000,29,11,"Barton County, MO",Missouri,Barton,
+CN2901300000000,29,13,"Bates County, MO",Missouri,Bates,20
+CN2901500000000,29,15,"Benton County, MO",Missouri,Benton,18
+CN2901700000000,29,17,"Bollinger County, MO",Missouri,Bollinger,
+CN2901900000000,29,19,"Boone County, MO",Missouri,Boone,11
+CN2902100000000,29,21,"Buchanan County, MO",Missouri,Buchanan,13
+CN2902300000000,29,23,"Butler County, MO",Missouri,Butler,23
+CN2902500000000,29,25,"Caldwell County, MO",Missouri,Caldwell,
+CN2902700000000,29,27,"Callaway County, MO",Missouri,Callaway,16
+CN2902900000000,29,29,"Camden County, MO",Missouri,Camden,17
+CN2903100000000,29,31,"Cape Girardeau County, MO",Missouri,Cape Girardeau,12
+CN2903300000000,29,33,"Carroll County, MO",Missouri,Carroll,
+CN2903500000000,29,35,"Carter County, MO",Missouri,Carter,
+CN2903700000000,29,37,"Cass County, MO",Missouri,Cass,13
+CN2903900000000,29,39,"Cedar County, MO",Missouri,Cedar,
+CN2904100000000,29,41,"Chariton County, MO",Missouri,Chariton,
+CN2904300000000,29,43,"Christian County, MO",Missouri,Christian,11
+CN2904500000000,29,45,"Clark County, MO",Missouri,Clark,
+CN2904700000000,29,47,"Clay County, MO",Missouri,Clay,13
+CN2904900000000,29,49,"Clinton County, MO",Missouri,Clinton,24
+CN2905100000000,29,51,"Cole County, MO",Missouri,Cole,10
+CN2905300000000,29,53,"Cooper County, MO",Missouri,Cooper,
+CN2905500000000,29,55,"Crawford County, MO",Missouri,Crawford,28
+CN2905700000000,29,57,"Dade County, MO",Missouri,Dade,
+CN2905900000000,29,59,"Dallas County, MO",Missouri,Dallas,
+CN2906100000000,29,61,"Daviess County, MO",Missouri,Daviess,
+CN2906300000000,29,63,"DeKalb County, MO",Missouri,DeKalb,
+CN2906500000000,29,65,"Dent County, MO",Missouri,Dent,23
+CN2906700000000,29,67,"Douglas County, MO",Missouri,Douglas,
+CN2906900000000,29,69,"Dunklin County, MO",Missouri,Dunklin,24
+CN2907100000000,29,71,"Franklin County, MO",Missouri,Franklin,23
+CN2907300000000,29,73,"Gasconade County, MO",Missouri,Gasconade,
+CN2907500000000,29,75,"Gentry County, MO",Missouri,Gentry,
+CN2907700000000,29,77,"Greene County, MO",Missouri,Greene,25
+CN2907900000000,29,79,"Grundy County, MO",Missouri,Grundy,
+CN2908100000000,29,81,"Harrison County, MO",Missouri,Harrison,
+CN2908300000000,29,83,"Henry County, MO",Missouri,Henry,
+CN2908500000000,29,85,"Hickory County, MO",Missouri,Hickory,
+CN2908700000000,29,87,"Holt County, MO",Missouri,Holt,
+CN2908900000000,29,89,"Howard County, MO",Missouri,Howard,
+CN2909100000000,29,91,"Howell County, MO",Missouri,Howell,13
+CN2909300000000,29,93,"Iron County, MO",Missouri,Iron,
+CN2909500000000,29,95,"Jackson County, MO",Missouri,Jackson,17
+CN2909700000000,29,97,"Jasper County, MO",Missouri,Jasper,11
+CN2909900000000,29,99,"Jefferson County, MO",Missouri,Jefferson,30
+CN2910100000000,29,101,"Johnson County, MO",Missouri,Johnson,
+CN2910300000000,29,103,"Knox County, MO",Missouri,Knox,
+CN2910500000000,29,105,"Laclede County, MO",Missouri,Laclede,
+CN2910700000000,29,107,"Lafayette County, MO",Missouri,Lafayette,
+CN2910900000000,29,109,"Lawrence County, MO",Missouri,Lawrence,17
+CN2911100000000,29,111,"Lewis County, MO",Missouri,Lewis,
+CN2911300000000,29,113,"Lincoln County, MO",Missouri,Lincoln,21
+CN2911500000000,29,115,"Linn County, MO",Missouri,Linn,
+CN2911700000000,29,117,"Livingston County, MO",Missouri,Livingston,29
+CN2911900000000,29,119,"McDonald County, MO",Missouri,McDonald,
+CN2912100000000,29,121,"Macon County, MO",Missouri,Macon,
+CN2912300000000,29,123,"Madison County, MO",Missouri,Madison,
+CN2912500000000,29,125,"Maries County, MO",Missouri,Maries,
+CN2912700000000,29,127,"Marion County, MO",Missouri,Marion,17
+CN2912900000000,29,129,"Mercer County, MO",Missouri,Mercer,
+CN2913100000000,29,131,"Miller County, MO",Missouri,Miller,
+CN2913300000000,29,133,"Mississippi County, MO",Missouri,Mississippi,
+CN2913500000000,29,135,"Moniteau County, MO",Missouri,Moniteau,
+CN2913700000000,29,137,"Monroe County, MO",Missouri,Monroe,
+CN2913900000000,29,139,"Montgomery County, MO",Missouri,Montgomery,28
+CN2914100000000,29,141,"Morgan County, MO",Missouri,Morgan,
+CN2914300000000,29,143,"New Madrid County, MO",Missouri,New Madrid,18
+CN2914500000000,29,145,"Newton County, MO",Missouri,Newton,12
+CN2914700000000,29,147,"Nodaway County, MO",Missouri,Nodaway,
+CN2914900000000,29,149,"Oregon County, MO",Missouri,Oregon,
+CN2915100000000,29,151,"Osage County, MO",Missouri,Osage,
+CN2915300000000,29,153,"Ozark County, MO",Missouri,Ozark,
+CN2915500000000,29,155,"Pemiscot County, MO",Missouri,Pemiscot,
+CN2915700000000,29,157,"Perry County, MO",Missouri,Perry,
+CN2915900000000,29,159,"Pettis County, MO",Missouri,Pettis,
+CN2916100000000,29,161,"Phelps County, MO",Missouri,Phelps,12
+CN2916300000000,29,163,"Pike County, MO",Missouri,Pike,
+CN2916500000000,29,165,"Platte County, MO",Missouri,Platte,11
+CN2916700000000,29,167,"Polk County, MO",Missouri,Polk,13
+CN2916900000000,29,169,"Pulaski County, MO",Missouri,Pulaski,19
+CN2917100000000,29,171,"Putnam County, MO",Missouri,Putnam,
+CN2917300000000,29,173,"Ralls County, MO",Missouri,Ralls,
+CN2917500000000,29,175,"Randolph County, MO",Missouri,Randolph,15
+CN2917700000000,29,177,"Ray County, MO",Missouri,Ray,
+CN2917900000000,29,179,"Reynolds County, MO",Missouri,Reynolds,
+CN2918100000000,29,181,"Ripley County, MO",Missouri,Ripley,
+CN2918300000000,29,183,"St. Charles County, MO",Missouri,St. Charles,17
+CN2918500000000,29,185,"St. Clair County, MO",Missouri,St. Clair,
+CN2918600000000,29,186,"Ste. Genevieve County, MO",Missouri,Ste. Genevieve,
+CN2918700000000,29,187,"St. Francois County, MO",Missouri,St. Francois,36
+CN2918900000000,29,189,"St. Louis County, MO",Missouri,St. Louis,18
+CN2919500000000,29,195,"Saline County, MO",Missouri,Saline,
+CN2919700000000,29,197,"Schuyler County, MO",Missouri,Schuyler,
+CN2919900000000,29,199,"Scotland County, MO",Missouri,Scotland,
+CN2920100000000,29,201,"Scott County, MO",Missouri,Scott,21
+CN2920300000000,29,203,"Shannon County, MO",Missouri,Shannon,
+CN2920500000000,29,205,"Shelby County, MO",Missouri,Shelby,
+CN2920700000000,29,207,"Stoddard County, MO",Missouri,Stoddard,13
+CN2920900000000,29,209,"Stone County, MO",Missouri,Stone,13
+CN2921100000000,29,211,"Sullivan County, MO",Missouri,Sullivan,
+CN2921300000000,29,213,"Taney County, MO",Missouri,Taney,10
+CN2921500000000,29,215,"Texas County, MO",Missouri,Texas,
+CN2921700000000,29,217,"Vernon County, MO",Missouri,Vernon,
+CN2921900000000,29,219,"Warren County, MO",Missouri,Warren,31
+CN2922100000000,29,221,"Washington County, MO",Missouri,Washington,33
+CN2922300000000,29,223,"Wayne County, MO",Missouri,Wayne,37
+CN2922500000000,29,225,"Webster County, MO",Missouri,Webster,23
+CN2922700000000,29,227,"Worth County, MO",Missouri,Worth,
+CN2922900000000,29,229,"Wright County, MO",Missouri,Wright,
+CN2951000000000,29,510,"St. Louis city, MO",Missouri,St. Louis City,34
+CN3000100000000,30,1,"Beaverhead County, MT",Montana,Beaverhead,
+CN3000300000000,30,3,"Big Horn County, MT",Montana,Big Horn,
+CN3000500000000,30,5,"Blaine County, MT",Montana,Blaine,
+CN3000700000000,30,7,"Broadwater County, MT",Montana,Broadwater,
+CN3000900000000,30,9,"Carbon County, MT",Montana,Carbon,
+CN3001100000000,30,11,"Carter County, MT",Montana,Carter,
+CN3001300000000,30,13,"Cascade County, MT",Montana,Cascade,13
+CN3001500000000,30,15,"Chouteau County, MT",Montana,Chouteau,
+CN3001700000000,30,17,"Custer County, MT",Montana,Custer,
+CN3001900000000,30,19,"Daniels County, MT",Montana,Daniels,
+CN3002100000000,30,21,"Dawson County, MT",Montana,Dawson,
+CN3002300000000,30,23,"Deer Lodge County, MT",Montana,Deer Lodge,
+CN3002500000000,30,25,"Fallon County, MT",Montana,Fallon,
+CN3002700000000,30,27,"Fergus County, MT",Montana,Fergus,
+CN3002900000000,30,29,"Flathead County, MT",Montana,Flathead,14
+CN3003100000000,30,31,"Gallatin County, MT",Montana,Gallatin,7
+CN3003300000000,30,33,"Garfield County, MT",Montana,Garfield,
+CN3003500000000,30,35,"Glacier County, MT",Montana,Glacier,
+CN3003700000000,30,37,"Golden Valley County, MT",Montana,Golden Valley,
+CN3003900000000,30,39,"Granite County, MT",Montana,Granite,
+CN3004100000000,30,41,"Hill County, MT",Montana,Hill,
+CN3004300000000,30,43,"Jefferson County, MT",Montana,Jefferson,
+CN3004500000000,30,45,"Judith Basin County, MT",Montana,Judith Basin,
+CN3004700000000,30,47,"Lake County, MT",Montana,Lake,25
+CN3004900000000,30,49,"Lewis and Clark County, MT",Montana,Lewis and Clark,11
+CN3005100000000,30,51,"Liberty County, MT",Montana,Liberty,
+CN3005300000000,30,53,"Lincoln County, MT",Montana,Lincoln,
+CN3005500000000,30,55,"McCone County, MT",Montana,McCone,
+CN3005700000000,30,57,"Madison County, MT",Montana,Madison,
+CN3005900000000,30,59,"Meagher County, MT",Montana,Meagher,
+CN3006100000000,30,61,"Mineral County, MT",Montana,Mineral,
+CN3006300000000,30,63,"Missoula County, MT",Montana,Missoula,14
+CN3006500000000,30,65,"Musselshell County, MT",Montana,Musselshell,
+CN3006700000000,30,67,"Park County, MT",Montana,Park,21
+CN3006900000000,30,69,"Petroleum County, MT",Montana,Petroleum,
+CN3007100000000,30,71,"Phillips County, MT",Montana,Phillips,
+CN3007300000000,30,73,"Pondera County, MT",Montana,Pondera,
+CN3007500000000,30,75,"Powder River County, MT",Montana,Powder River,
+CN3007700000000,30,77,"Powell County, MT",Montana,Powell,
+CN3007900000000,30,79,"Prairie County, MT",Montana,Prairie,
+CN3008100000000,30,81,"Ravalli County, MT",Montana,Ravalli,10
+CN3008300000000,30,83,"Richland County, MT",Montana,Richland,
+CN3008500000000,30,85,"Roosevelt County, MT",Montana,Roosevelt,32
+CN3008700000000,30,87,"Rosebud County, MT",Montana,Rosebud,
+CN3008900000000,30,89,"Sanders County, MT",Montana,Sanders,
+CN3009100000000,30,91,"Sheridan County, MT",Montana,Sheridan,
+CN3009300000000,30,93,"Silver Bow County, MT",Montana,Silver Bow,20
+CN3009500000000,30,95,"Stillwater County, MT",Montana,Stillwater,
+CN3009700000000,30,97,"Sweet Grass County, MT",Montana,Sweet Grass,
+CN3009900000000,30,99,"Teton County, MT",Montana,Teton,
+CN3010100000000,30,101,"Toole County, MT",Montana,Toole,
+CN3010300000000,30,103,"Treasure County, MT",Montana,Treasure,
+CN3010500000000,30,105,"Valley County, MT",Montana,Valley,
+CN3010700000000,30,107,"Wheatland County, MT",Montana,Wheatland,
+CN3010900000000,30,109,"Wibaux County, MT",Montana,Wibaux,
+CN3011100000000,30,111,"Yellowstone County, MT",Montana,Yellowstone,16
+CN3100100000000,31,1,"Adams County, NE",Nebraska,Adams,
+CN3100300000000,31,3,"Antelope County, NE",Nebraska,Antelope,
+CN3100500000000,31,5,"Arthur County, NE",Nebraska,Arthur,
+CN3100700000000,31,7,"Banner County, NE",Nebraska,Banner,
+CN3100900000000,31,9,"Blaine County, NE",Nebraska,Blaine,
+CN3101100000000,31,11,"Boone County, NE",Nebraska,Boone,
+CN3101300000000,31,13,"Box Butte County, NE",Nebraska,Box Butte,
+CN3101500000000,31,15,"Boyd County, NE",Nebraska,Boyd,
+CN3101700000000,31,17,"Brown County, NE",Nebraska,Brown,
+CN3101900000000,31,19,"Buffalo County, NE",Nebraska,Buffalo,8
+CN3102100000000,31,21,"Burt County, NE",Nebraska,Burt,
+CN3102300000000,31,23,"Butler County, NE",Nebraska,Butler,
+CN3102500000000,31,25,"Cass County, NE",Nebraska,Cass,
+CN3102700000000,31,27,"Cedar County, NE",Nebraska,Cedar,
+CN3102900000000,31,29,"Chase County, NE",Nebraska,Chase,
+CN3103100000000,31,31,"Cherry County, NE",Nebraska,Cherry,
+CN3103300000000,31,33,"Cheyenne County, NE",Nebraska,Cheyenne,
+CN3103500000000,31,35,"Clay County, NE",Nebraska,Clay,
+CN3103700000000,31,37,"Colfax County, NE",Nebraska,Colfax,
+CN3103900000000,31,39,"Cuming County, NE",Nebraska,Cuming,
+CN3104100000000,31,41,"Custer County, NE",Nebraska,Custer,
+CN3104300000000,31,43,"Dakota County, NE",Nebraska,Dakota,
+CN3104500000000,31,45,"Dawes County, NE",Nebraska,Dawes,
+CN3104700000000,31,47,"Dawson County, NE",Nebraska,Dawson,
+CN3104900000000,31,49,"Deuel County, NE",Nebraska,Deuel,
+CN3105100000000,31,51,"Dixon County, NE",Nebraska,Dixon,
+CN3105300000000,31,53,"Dodge County, NE",Nebraska,Dodge,
+CN3105500000000,31,55,"Douglas County, NE",Nebraska,Douglas,8
+CN3105700000000,31,57,"Dundy County, NE",Nebraska,Dundy,
+CN3105900000000,31,59,"Fillmore County, NE",Nebraska,Fillmore,
+CN3106100000000,31,61,"Franklin County, NE",Nebraska,Franklin,
+CN3106300000000,31,63,"Frontier County, NE",Nebraska,Frontier,
+CN3106500000000,31,65,"Furnas County, NE",Nebraska,Furnas,
+CN3106700000000,31,67,"Gage County, NE",Nebraska,Gage,
+CN3106900000000,31,69,"Garden County, NE",Nebraska,Garden,
+CN3107100000000,31,71,"Garfield County, NE",Nebraska,Garfield,
+CN3107300000000,31,73,"Gosper County, NE",Nebraska,Gosper,
+CN3107500000000,31,75,"Grant County, NE",Nebraska,Grant,
+CN3107700000000,31,77,"Greeley County, NE",Nebraska,Greeley,
+CN3107900000000,31,79,"Hall County, NE",Nebraska,Hall,
+CN3108100000000,31,81,"Hamilton County, NE",Nebraska,Hamilton,
+CN3108300000000,31,83,"Harlan County, NE",Nebraska,Harlan,
+CN3108500000000,31,85,"Hayes County, NE",Nebraska,Hayes,
+CN3108700000000,31,87,"Hitchcock County, NE",Nebraska,Hitchcock,
+CN3108900000000,31,89,"Holt County, NE",Nebraska,Holt,
+CN3109100000000,31,91,"Hooker County, NE",Nebraska,Hooker,
+CN3109300000000,31,93,"Howard County, NE",Nebraska,Howard,
+CN3109500000000,31,95,"Jefferson County, NE",Nebraska,Jefferson,
+CN3109700000000,31,97,"Johnson County, NE",Nebraska,Johnson,
+CN3109900000000,31,99,"Kearney County, NE",Nebraska,Kearney,
+CN3110100000000,31,101,"Keith County, NE",Nebraska,Keith,
+CN3110300000000,31,103,"Keya Paha County, NE",Nebraska,Keya Paha,
+CN3110500000000,31,105,"Kimball County, NE",Nebraska,Kimball,
+CN3110700000000,31,107,"Knox County, NE",Nebraska,Knox,
+CN3110900000000,31,109,"Lancaster County, NE",Nebraska,Lancaster,8
+CN3111100000000,31,111,"Lincoln County, NE",Nebraska,Lincoln,10
+CN3111300000000,31,113,"Logan County, NE",Nebraska,Logan,
+CN3111500000000,31,115,"Loup County, NE",Nebraska,Loup,
+CN3111700000000,31,117,"McPherson County, NE",Nebraska,McPherson,
+CN3111900000000,31,119,"Madison County, NE",Nebraska,Madison,
+CN3112100000000,31,121,"Merrick County, NE",Nebraska,Merrick,
+CN3112300000000,31,123,"Morrill County, NE",Nebraska,Morrill,
+CN3112500000000,31,125,"Nance County, NE",Nebraska,Nance,
+CN3112700000000,31,127,"Nemaha County, NE",Nebraska,Nemaha,
+CN3112900000000,31,129,"Nuckolls County, NE",Nebraska,Nuckolls,
+CN3113100000000,31,131,"Otoe County, NE",Nebraska,Otoe,
+CN3113300000000,31,133,"Pawnee County, NE",Nebraska,Pawnee,
+CN3113500000000,31,135,"Perkins County, NE",Nebraska,Perkins,
+CN3113700000000,31,137,"Phelps County, NE",Nebraska,Phelps,
+CN3113900000000,31,139,"Pierce County, NE",Nebraska,Pierce,
+CN3114100000000,31,141,"Platte County, NE",Nebraska,Platte,
+CN3114300000000,31,143,"Polk County, NE",Nebraska,Polk,
+CN3114500000000,31,145,"Red Willow County, NE",Nebraska,Red Willow,
+CN3114700000000,31,147,"Richardson County, NE",Nebraska,Richardson,
+CN3114900000000,31,149,"Rock County, NE",Nebraska,Rock,
+CN3115100000000,31,151,"Saline County, NE",Nebraska,Saline,
+CN3115300000000,31,153,"Sarpy County, NE",Nebraska,Sarpy,5
+CN3115500000000,31,155,"Saunders County, NE",Nebraska,Saunders,
+CN3115700000000,31,157,"Scotts Bluff County, NE",Nebraska,Scotts Bluff,
+CN3115900000000,31,159,"Seward County, NE",Nebraska,Seward,
+CN3116100000000,31,161,"Sheridan County, NE",Nebraska,Sheridan,
+CN3116300000000,31,163,"Sherman County, NE",Nebraska,Sherman,
+CN3116500000000,31,165,"Sioux County, NE",Nebraska,Sioux,
+CN3116700000000,31,167,"Stanton County, NE",Nebraska,Stanton,
+CN3116900000000,31,169,"Thayer County, NE",Nebraska,Thayer,
+CN3117100000000,31,171,"Thomas County, NE",Nebraska,Thomas,
+CN3117300000000,31,173,"Thurston County, NE",Nebraska,Thurston,
+CN3117500000000,31,175,"Valley County, NE",Nebraska,Valley,
+CN3117700000000,31,177,"Washington County, NE",Nebraska,Washington,
+CN3117900000000,31,179,"Wayne County, NE",Nebraska,Wayne,
+CN3118100000000,31,181,"Webster County, NE",Nebraska,Webster,
+CN3118300000000,31,183,"Wheeler County, NE",Nebraska,Wheeler,
+CN3118500000000,31,185,"York County, NE",Nebraska,York,
+CN3200100000000,32,1,"Churchill County, NV",Nevada,Churchill,26
+CN3200300000000,32,3,"Clark County, NV",Nevada,Clark,21
+CN3200500000000,32,5,"Douglas County, NV",Nevada,Douglas,18
+CN3200700000000,32,7,"Elko County, NV",Nevada,Elko,12
+CN3200900000000,32,9,"Esmeralda County, NV",Nevada,Esmeralda,
+CN3201100000000,32,11,"Eureka County, NV",Nevada,Eureka,
+CN3201300000000,32,13,"Humboldt County, NV",Nevada,Humboldt,
+CN3201500000000,32,15,"Lander County, NV",Nevada,Lander,
+CN3201700000000,32,17,"Lincoln County, NV",Nevada,Lincoln,
+CN3201900000000,32,19,"Lyon County, NV",Nevada,Lyon,17
+CN3202100000000,32,21,"Mineral County, NV",Nevada,Mineral,
+CN3202300000000,32,23,"Nye County, NV",Nevada,Nye,28
+CN3202700000000,32,27,"Pershing County, NV",Nevada,Pershing,
+CN3202900000000,32,29,"Storey County, NV",Nevada,Storey,
+CN3203100000000,32,31,"Washoe County, NV",Nevada,Washoe,22
+CN3203300000000,32,33,"White Pine County, NV",Nevada,White Pine,33
+CN3251000000000,32,510,"Carson City, NV",Nevada,Carson City,32
+CN3300100000000,33,1,"Belknap County, NH",New Hampshire,Belknap,23
+CN3300300000000,33,3,"Carroll County, NH",New Hampshire,Carroll,22
+CN3300500000000,33,5,"Cheshire County, NH",New Hampshire,Cheshire,17
+CN3300700000000,33,7,"Coos County, NH",New Hampshire,Coos,32
+CN3300900000000,33,9,"Grafton County, NH",New Hampshire,Grafton,15
+CN3301100000000,33,11,"Hillsborough County, NH",New Hampshire,Hillsborough,28
+CN3301300000000,33,13,"Merrimack County, NH",New Hampshire,Merrimack,22
+CN3301500000000,33,15,"Rockingham County, NH",New Hampshire,Rockingham,23
+CN3301700000000,33,17,"Strafford County, NH",New Hampshire,Strafford,29
+CN3301900000000,33,19,"Sullivan County, NH",New Hampshire,Sullivan,15
+CN3400100000000,34,1,"Atlantic County, NJ",New Jersey,Atlantic,24
+CN3400300000000,34,3,"Bergen County, NJ",New Jersey,Bergen,10
+CN3400500000000,34,5,"Burlington County, NJ",New Jersey,Burlington,19
+CN3400700000000,34,7,"Camden County, NJ",New Jersey,Camden,28
+CN3400900000000,34,9,"Cape May County, NJ",New Jersey,Cape May,26
+CN3401100000000,34,11,"Cumberland County, NJ",New Jersey,Cumberland,17
+CN3401300000000,34,13,"Essex County, NJ",New Jersey,Essex,13
+CN3401500000000,34,15,"Gloucester County, NJ",New Jersey,Gloucester,26
+CN3401700000000,34,17,"Hudson County, NJ",New Jersey,Hudson,10
+CN3401900000000,34,19,"Hunterdon County, NJ",New Jersey,Hunterdon,10
+CN3402100000000,34,21,"Mercer County, NJ",New Jersey,Mercer,14
+CN3402300000000,34,23,"Middlesex County, NJ",New Jersey,Middlesex,12
+CN3402500000000,34,25,"Monmouth County, NJ",New Jersey,Monmouth,16
+CN3402700000000,34,27,"Morris County, NJ",New Jersey,Morris,10
+CN3402900000000,34,29,"Ocean County, NJ",New Jersey,Ocean,24
+CN3403100000000,34,31,"Passaic County, NJ",New Jersey,Passaic,12
+CN3403300000000,34,33,"Salem County, NJ",New Jersey,Salem,20
+CN3403500000000,34,35,"Somerset County, NJ",New Jersey,Somerset,11
+CN3403700000000,34,37,"Sussex County, NJ",New Jersey,Sussex,14
+CN3403900000000,34,39,"Union County, NJ",New Jersey,Union,10
+CN3404100000000,34,41,"Warren County, NJ",New Jersey,Warren,17
+CN3500100000000,35,1,"Bernalillo County, NM",New Mexico,Bernalillo,27
+CN3500300000000,35,3,"Catron County, NM",New Mexico,Catron,
+CN3500500000000,35,5,"Chaves County, NM",New Mexico,Chaves,18
+CN3500600000000,35,6,"Cibola County, NM",New Mexico,Cibola,16
+CN3500700000000,35,7,"Colfax County, NM",New Mexico,Colfax,29
+CN3500900000000,35,9,"Curry County, NM",New Mexico,Curry,13
+CN3501100000000,35,11,"De Baca County, NM",New Mexico,De Baca,
+CN3501300000000,35,13,"Dona Ana County, NM",New Mexico,Dona Ana,17
+CN3501500000000,35,15,"Eddy County, NM",New Mexico,Eddy,24
+CN3501700000000,35,17,"Grant County, NM",New Mexico,Grant,33
+CN3501900000000,35,19,"Guadalupe County, NM",New Mexico,Guadalupe,
+CN3502100000000,35,21,"Harding County, NM",New Mexico,Harding,
+CN3502300000000,35,23,"Hidalgo County, NM",New Mexico,Hidalgo,
+CN3502500000000,35,25,"Lea County, NM",New Mexico,Lea,17
+CN3502700000000,35,27,"Lincoln County, NM",New Mexico,Lincoln,30
+CN3502800000000,35,28,"Los Alamos County, NM",New Mexico,Los Alamos,
+CN3502900000000,35,29,"Luna County, NM",New Mexico,Luna,14
+CN3503100000000,35,31,"McKinley County, NM",New Mexico,McKinley,12
+CN3503300000000,35,33,"Mora County, NM",New Mexico,Mora,
+CN3503500000000,35,35,"Otero County, NM",New Mexico,Otero,21
+CN3503700000000,35,37,"Quay County, NM",New Mexico,Quay,
+CN3503900000000,35,39,"Rio Arriba County, NM",New Mexico,Rio Arriba,82
+CN3504100000000,35,41,"Roosevelt County, NM",New Mexico,Roosevelt,
+CN3504300000000,35,43,"Sandoval County, NM",New Mexico,Sandoval,20
+CN3504500000000,35,45,"San Juan County, NM",New Mexico,San Juan,16
+CN3504700000000,35,47,"San Miguel County, NM",New Mexico,San Miguel,32
+CN3504900000000,35,49,"Santa Fe County, NM",New Mexico,Santa Fe,32
+CN3505100000000,35,51,"Sierra County, NM",New Mexico,Sierra,41
+CN3505300000000,35,53,"Socorro County, NM",New Mexico,Socorro,23
+CN3505500000000,35,55,"Taos County, NM",New Mexico,Taos,28
+CN3505700000000,35,57,"Torrance County, NM",New Mexico,Torrance,30
+CN3505900000000,35,59,"Union County, NM",New Mexico,Union,
+CN3506100000000,35,61,"Valencia County, NM",New Mexico,Valencia,23
+CN3600100000000,36,1,"Albany County, NY",New York,Albany,12
+CN3600300000000,36,3,"Allegany County, NY",New York,Allegany,
+CN3600500000000,36,5,"Bronx County, NY",New York,Bronx,12
+CN3600700000000,36,7,"Broome County, NY",New York,Broome,19
+CN3600900000000,36,9,"Cattaraugus County, NY",New York,Cattaraugus,11
+CN3601100000000,36,11,"Cayuga County, NY",New York,Cayuga,17
+CN3601300000000,36,13,"Chautauqua County, NY",New York,Chautauqua,15
+CN3601500000000,36,15,"Chemung County, NY",New York,Chemung,14
+CN3601700000000,36,17,"Chenango County, NY",New York,Chenango,14
+CN3601900000000,36,19,"Clinton County, NY",New York,Clinton,11
+CN3602100000000,36,21,"Columbia County, NY",New York,Columbia,15
+CN3602300000000,36,23,"Cortland County, NY",New York,Cortland,10
+CN3602500000000,36,25,"Delaware County, NY",New York,Delaware,9
+CN3602700000000,36,27,"Dutchess County, NY",New York,Dutchess,21
+CN3602900000000,36,29,"Erie County, NY",New York,Erie,20
+CN3603100000000,36,31,"Essex County, NY",New York,Essex,17
+CN3603300000000,36,33,"Franklin County, NY",New York,Franklin,10
+CN3603500000000,36,35,"Fulton County, NY",New York,Fulton,9
+CN3603700000000,36,37,"Genesee County, NY",New York,Genesee,10
+CN3603900000000,36,39,"Greene County, NY",New York,Greene,19
+CN3604100000000,36,41,"Hamilton County, NY",New York,Hamilton,
+CN3604300000000,36,43,"Herkimer County, NY",New York,Herkimer,9
+CN3604500000000,36,45,"Jefferson County, NY",New York,Jefferson,13
+CN3604700000000,36,47,"Kings County, NY",New York,Kings,8
+CN3604900000000,36,49,"Lewis County, NY",New York,Lewis,
+CN3605100000000,36,51,"Livingston County, NY",New York,Livingston,5
+CN3605300000000,36,53,"Madison County, NY",New York,Madison,13
+CN3605500000000,36,55,"Monroe County, NY",New York,Monroe,14
+CN3605700000000,36,57,"Montgomery County, NY",New York,Montgomery,14
+CN3605900000000,36,59,"Nassau County, NY",New York,Nassau,13
+CN3606100000000,36,61,"New York County, NY",New York,New York,10
+CN3606300000000,36,63,"Niagara County, NY",New York,Niagara,20
+CN3606500000000,36,65,"Oneida County, NY",New York,Oneida,16
+CN3606700000000,36,67,"Onondaga County, NY",New York,Onondaga,17
+CN3606900000000,36,69,"Ontario County, NY",New York,Ontario,12
+CN3607100000000,36,71,"Orange County, NY",New York,Orange,18
+CN3607300000000,36,73,"Orleans County, NY",New York,Orleans,10
+CN3607500000000,36,75,"Oswego County, NY",New York,Oswego,17
+CN3607700000000,36,77,"Otsego County, NY",New York,Otsego,12
+CN3607900000000,36,79,"Putnam County, NY",New York,Putnam,18
+CN3608100000000,36,81,"Queens County, NY",New York,Queens,7
+CN3608300000000,36,83,"Rensselaer County, NY",New York,Rensselaer,10
+CN3608500000000,36,85,"Richmond County, NY",New York,Richmond,17
+CN3608700000000,36,87,"Rockland County, NY",New York,Rockland,10
+CN3608900000000,36,89,"St. Lawrence County, NY",New York,St. Lawrence,11
+CN3609100000000,36,91,"Saratoga County, NY",New York,Saratoga,10
+CN3609300000000,36,93,"Schenectady County, NY",New York,Schenectady,10
+CN3609500000000,36,95,"Schoharie County, NY",New York,Schoharie,
+CN3609700000000,36,97,"Schuyler County, NY",New York,Schuyler,
+CN3609900000000,36,99,"Seneca County, NY",New York,Seneca,12
+CN3610100000000,36,101,"Steuben County, NY",New York,Steuben,10
+CN3610300000000,36,103,"Suffolk County, NY",New York,Suffolk,18
+CN3610500000000,36,105,"Sullivan County, NY",New York,Sullivan,26
+CN3610700000000,36,107,"Tioga County, NY",New York,Tioga,17
+CN3610900000000,36,109,"Tompkins County, NY",New York,Tompkins,12
+CN3611100000000,36,111,"Ulster County, NY",New York,Ulster,15
+CN3611300000000,36,113,"Warren County, NY",New York,Warren,9
+CN3611500000000,36,115,"Washington County, NY",New York,Washington,
+CN3611700000000,36,117,"Wayne County, NY",New York,Wayne,7
+CN3611900000000,36,119,"Westchester County, NY",New York,Westchester,11
+CN3612100000000,36,121,"Wyoming County, NY",New York,Wyoming,10
+CN3612300000000,36,123,"Yates County, NY",New York,Yates,
+CN3700100000000,37,1,"Alamance County, NC",North Carolina,Alamance,12
+CN3700300000000,37,3,"Alexander County, NC",North Carolina,Alexander,26
+CN3700500000000,37,5,"Alleghany County, NC",North Carolina,Alleghany,
+CN3700700000000,37,7,"Anson County, NC",North Carolina,Anson,
+CN3700900000000,37,9,"Ashe County, NC",North Carolina,Ashe,21
+CN3701100000000,37,11,"Avery County, NC",North Carolina,Avery,
+CN3701300000000,37,13,"Beaufort County, NC",North Carolina,Beaufort,18
+CN3701500000000,37,15,"Bertie County, NC",North Carolina,Bertie,
+CN3701700000000,37,17,"Bladen County, NC",North Carolina,Bladen,22
+CN3701900000000,37,19,"Brunswick County, NC",North Carolina,Brunswick,24
+CN3702100000000,37,21,"Buncombe County, NC",North Carolina,Buncombe,14
+CN3702300000000,37,23,"Burke County, NC",North Carolina,Burke,36
+CN3702500000000,37,25,"Cabarrus County, NC",North Carolina,Cabarrus,16
+CN3702700000000,37,27,"Caldwell County, NC",North Carolina,Caldwell,23
+CN3702900000000,37,29,"Camden County, NC",North Carolina,Camden,
+CN3703100000000,37,31,"Carteret County, NC",North Carolina,Carteret,26
+CN3703300000000,37,33,"Caswell County, NC",North Carolina,Caswell,
+CN3703500000000,37,35,"Catawba County, NC",North Carolina,Catawba,17
+CN3703700000000,37,37,"Chatham County, NC",North Carolina,Chatham,8
+CN3703900000000,37,39,"Cherokee County, NC",North Carolina,Cherokee,17
+CN3704100000000,37,41,"Chowan County, NC",North Carolina,Chowan,23
+CN3704300000000,37,43,"Clay County, NC",North Carolina,Clay,
+CN3704500000000,37,45,"Cleveland County, NC",North Carolina,Cleveland,21
+CN3704700000000,37,47,"Columbus County, NC",North Carolina,Columbus,16
+CN3704900000000,37,49,"Craven County, NC",North Carolina,Craven,21
+CN3705100000000,37,51,"Cumberland County, NC",North Carolina,Cumberland,14
+CN3705300000000,37,53,"Currituck County, NC",North Carolina,Currituck,
+CN3705500000000,37,55,"Dare County, NC",North Carolina,Dare,20
+CN3705700000000,37,57,"Davidson County, NC",North Carolina,Davidson,18
+CN3705900000000,37,59,"Davie County, NC",North Carolina,Davie,14
+CN3706100000000,37,61,"Duplin County, NC",North Carolina,Duplin,9
+CN3706300000000,37,63,"Durham County, NC",North Carolina,Durham,8
+CN3706500000000,37,65,"Edgecombe County, NC",North Carolina,Edgecombe,16
+CN3706700000000,37,67,"Forsyth County, NC",North Carolina,Forsyth,16
+CN3706900000000,37,69,"Franklin County, NC",North Carolina,Franklin,12
+CN3707100000000,37,71,"Gaston County, NC",North Carolina,Gaston,22
+CN3707300000000,37,73,"Gates County, NC",North Carolina,Gates,
+CN3707500000000,37,75,"Graham County, NC",North Carolina,Graham,
+CN3707700000000,37,77,"Granville County, NC",North Carolina,Granville,13
+CN3707900000000,37,79,"Greene County, NC",North Carolina,Greene,
+CN3708100000000,37,81,"Guilford County, NC",North Carolina,Guilford,10
+CN3708300000000,37,83,"Halifax County, NC",North Carolina,Halifax,18
+CN3708500000000,37,85,"Harnett County, NC",North Carolina,Harnett,12
+CN3708700000000,37,87,"Haywood County, NC",North Carolina,Haywood,21
+CN3708900000000,37,89,"Henderson County, NC",North Carolina,Henderson,18
+CN3709100000000,37,91,"Hertford County, NC",North Carolina,Hertford,
+CN3709300000000,37,93,"Hoke County, NC",North Carolina,Hoke,10
+CN3709500000000,37,95,"Hyde County, NC",North Carolina,Hyde,
+CN3709700000000,37,97,"Iredell County, NC",North Carolina,Iredell,15
+CN3709900000000,37,99,"Jackson County, NC",North Carolina,Jackson,13
+CN3710100000000,37,101,"Johnston County, NC",North Carolina,Johnston,12
+CN3710300000000,37,103,"Jones County, NC",North Carolina,Jones,
+CN3710500000000,37,105,"Lee County, NC",North Carolina,Lee,13
+CN3710700000000,37,107,"Lenoir County, NC",North Carolina,Lenoir,12
+CN3710900000000,37,109,"Lincoln County, NC",North Carolina,Lincoln,15
+CN3711100000000,37,111,"McDowell County, NC",North Carolina,McDowell,13
+CN3711300000000,37,113,"Macon County, NC",North Carolina,Macon,16
+CN3711500000000,37,115,"Madison County, NC",North Carolina,Madison,19
+CN3711700000000,37,117,"Martin County, NC",North Carolina,Martin,
+CN3711900000000,37,119,"Mecklenburg County, NC",North Carolina,Mecklenburg,9
+CN3712100000000,37,121,"Mitchell County, NC",North Carolina,Mitchell,24
+CN3712300000000,37,123,"Montgomery County, NC",North Carolina,Montgomery,
+CN3712500000000,37,125,"Moore County, NC",North Carolina,Moore,13
+CN3712700000000,37,127,"Nash County, NC",North Carolina,Nash,14
+CN3712900000000,37,129,"New Hanover County, NC",North Carolina,New Hanover,21
+CN3713100000000,37,131,"Northampton County, NC",North Carolina,Northampton,
+CN3713300000000,37,133,"Onslow County, NC",North Carolina,Onslow,11
+CN3713500000000,37,135,"Orange County, NC",North Carolina,Orange,7
+CN3713700000000,37,137,"Pamlico County, NC",North Carolina,Pamlico,26
+CN3713900000000,37,139,"Pasquotank County, NC",North Carolina,Pasquotank,9
+CN3714100000000,37,141,"Pender County, NC",North Carolina,Pender,17
+CN3714300000000,37,143,"Perquimans County, NC",North Carolina,Perquimans,
+CN3714500000000,37,145,"Person County, NC",North Carolina,Person,12
+CN3714700000000,37,147,"Pitt County, NC",North Carolina,Pitt,13
+CN3714900000000,37,149,"Polk County, NC",North Carolina,Polk,
+CN3715100000000,37,151,"Randolph County, NC",North Carolina,Randolph,19
+CN3715300000000,37,153,"Richmond County, NC",North Carolina,Richmond,27
+CN3715500000000,37,155,"Robeson County, NC",North Carolina,Robeson,15
+CN3715700000000,37,157,"Rockingham County, NC",North Carolina,Rockingham,13
+CN3715900000000,37,159,"Rowan County, NC",North Carolina,Rowan,23
+CN3716100000000,37,161,"Rutherford County, NC",North Carolina,Rutherford,25
+CN3716300000000,37,163,"Sampson County, NC",North Carolina,Sampson,17
+CN3716500000000,37,165,"Scotland County, NC",North Carolina,Scotland,19
+CN3716700000000,37,167,"Stanly County, NC",North Carolina,Stanly,18
+CN3716900000000,37,169,"Stokes County, NC",North Carolina,Stokes,20
+CN3717100000000,37,171,"Surry County, NC",North Carolina,Surry,18
+CN3717300000000,37,173,"Swain County, NC",North Carolina,Swain,
+CN3717500000000,37,175,"Transylvania County, NC",North Carolina,Transylvania,20
+CN3717700000000,37,177,"Tyrrell County, NC",North Carolina,Tyrrell,
+CN3717900000000,37,179,"Union County, NC",North Carolina,Union,11
+CN3718100000000,37,181,"Vance County, NC",North Carolina,Vance,13
+CN3718300000000,37,183,"Wake County, NC",North Carolina,Wake,8
+CN3718500000000,37,185,"Warren County, NC",North Carolina,Warren,
+CN3718700000000,37,187,"Washington County, NC",North Carolina,Washington,
+CN3718900000000,37,189,"Watauga County, NC",North Carolina,Watauga,13
+CN3719100000000,37,191,"Wayne County, NC",North Carolina,Wayne,10
+CN3719300000000,37,193,"Wilkes County, NC",North Carolina,Wilkes,39
+CN3719500000000,37,195,"Wilson County, NC",North Carolina,Wilson,9
+CN3719700000000,37,197,"Yadkin County, NC",North Carolina,Yadkin,23
+CN3719900000000,37,199,"Yancey County, NC",North Carolina,Yancey,32
+CN3800100000000,38,1,"Adams County, ND",North Dakota,Adams,
+CN3800300000000,38,3,"Barnes County, ND",North Dakota,Barnes,
+CN3800500000000,38,5,"Benson County, ND",North Dakota,Benson,
+CN3800700000000,38,7,"Billings County, ND",North Dakota,Billings,
+CN3800900000000,38,9,"Bottineau County, ND",North Dakota,Bottineau,
+CN3801100000000,38,11,"Bowman County, ND",North Dakota,Bowman,
+CN3801300000000,38,13,"Burke County, ND",North Dakota,Burke,
+CN3801500000000,38,15,"Burleigh County, ND",North Dakota,Burleigh,4
+CN3801700000000,38,17,"Cass County, ND",North Dakota,Cass,5
+CN3801900000000,38,19,"Cavalier County, ND",North Dakota,Cavalier,
+CN3802100000000,38,21,"Dickey County, ND",North Dakota,Dickey,
+CN3802300000000,38,23,"Divide County, ND",North Dakota,Divide,
+CN3802500000000,38,25,"Dunn County, ND",North Dakota,Dunn,
+CN3802700000000,38,27,"Eddy County, ND",North Dakota,Eddy,
+CN3802900000000,38,29,"Emmons County, ND",North Dakota,Emmons,
+CN3803100000000,38,31,"Foster County, ND",North Dakota,Foster,
+CN3803300000000,38,33,"Golden Valley County, ND",North Dakota,Golden Valley,
+CN3803500000000,38,35,"Grand Forks County, ND",North Dakota,Grand Forks,8
+CN3803700000000,38,37,"Grant County, ND",North Dakota,Grant,
+CN3803900000000,38,39,"Griggs County, ND",North Dakota,Griggs,
+CN3804100000000,38,41,"Hettinger County, ND",North Dakota,Hettinger,
+CN3804300000000,38,43,"Kidder County, ND",North Dakota,Kidder,
+CN3804500000000,38,45,"LaMoure County, ND",North Dakota,LaMoure,
+CN3804700000000,38,47,"Logan County, ND",North Dakota,Logan,
+CN3804900000000,38,49,"McHenry County, ND",North Dakota,McHenry,
+CN3805100000000,38,51,"McIntosh County, ND",North Dakota,McIntosh,
+CN3805300000000,38,53,"McKenzie County, ND",North Dakota,McKenzie,
+CN3805500000000,38,55,"McLean County, ND",North Dakota,McLean,
+CN3805700000000,38,57,"Mercer County, ND",North Dakota,Mercer,
+CN3805900000000,38,59,"Morton County, ND",North Dakota,Morton,
+CN3806100000000,38,61,"Mountrail County, ND",North Dakota,Mountrail,
+CN3806300000000,38,63,"Nelson County, ND",North Dakota,Nelson,
+CN3806500000000,38,65,"Oliver County, ND",North Dakota,Oliver,
+CN3806700000000,38,67,"Pembina County, ND",North Dakota,Pembina,
+CN3806900000000,38,69,"Pierce County, ND",North Dakota,Pierce,
+CN3807100000000,38,71,"Ramsey County, ND",North Dakota,Ramsey,
+CN3807300000000,38,73,"Ransom County, ND",North Dakota,Ransom,
+CN3807500000000,38,75,"Renville County, ND",North Dakota,Renville,
+CN3807700000000,38,77,"Richland County, ND",North Dakota,Richland,
+CN3807900000000,38,79,"Rolette County, ND",North Dakota,Rolette,
+CN3808100000000,38,81,"Sargent County, ND",North Dakota,Sargent,
+CN3808300000000,38,83,"Sheridan County, ND",North Dakota,Sheridan,
+CN3808500000000,38,85,"Sioux County, ND",North Dakota,Sioux,
+CN3808700000000,38,87,"Slope County, ND",North Dakota,Slope,
+CN3808900000000,38,89,"Stark County, ND",North Dakota,Stark,
+CN3809100000000,38,91,"Steele County, ND",North Dakota,Steele,
+CN3809300000000,38,93,"Stutsman County, ND",North Dakota,Stutsman,
+CN3809500000000,38,95,"Towner County, ND",North Dakota,Towner,
+CN3809700000000,38,97,"Traill County, ND",North Dakota,Traill,
+CN3809900000000,38,99,"Walsh County, ND",North Dakota,Walsh,
+CN3810100000000,38,101,"Ward County, ND",North Dakota,Ward,
+CN3810300000000,38,103,"Wells County, ND",North Dakota,Wells,
+CN3810500000000,38,105,"Williams County, ND",North Dakota,Williams,
+CN3900100000000,39,1,"Adams County, OH",Ohio,Adams,37
+CN3900300000000,39,3,"Allen County, OH",Ohio,Allen,16
+CN3900500000000,39,5,"Ashland County, OH",Ohio,Ashland,13
+CN3900700000000,39,7,"Ashtabula County, OH",Ohio,Ashtabula,25
+CN3900900000000,39,9,"Athens County, OH",Ohio,Athens,12
+CN3901100000000,39,11,"Auglaize County, OH",Ohio,Auglaize,11
+CN3901300000000,39,13,"Belmont County, OH",Ohio,Belmont,21
+CN3901500000000,39,15,"Brown County, OH",Ohio,Brown,46
+CN3901700000000,39,17,"Butler County, OH",Ohio,Butler,43
+CN3901900000000,39,19,"Carroll County, OH",Ohio,Carroll,12
+CN3902100000000,39,21,"Champaign County, OH",Ohio,Champaign,21
+CN3902300000000,39,23,"Clark County, OH",Ohio,Clark,36
+CN3902500000000,39,25,"Clermont County, OH",Ohio,Clermont,43
+CN3902700000000,39,27,"Clinton County, OH",Ohio,Clinton,41
+CN3902900000000,39,29,"Columbiana County, OH",Ohio,Columbiana,26
+CN3903100000000,39,31,"Coshocton County, OH",Ohio,Coshocton,
+CN3903300000000,39,33,"Crawford County, OH",Ohio,Crawford,20
+CN3903500000000,39,35,"Cuyahoga County, OH",Ohio,Cuyahoga,23
+CN3903700000000,39,37,"Darke County, OH",Ohio,Darke,25
+CN3903900000000,39,39,"Defiance County, OH",Ohio,Defiance,18
+CN3904100000000,39,41,"Delaware County, OH",Ohio,Delaware,8
+CN3904300000000,39,43,"Erie County, OH",Ohio,Erie,26
+CN3904500000000,39,45,"Fairfield County, OH",Ohio,Fairfield,12
+CN3904700000000,39,47,"Fayette County, OH",Ohio,Fayette,38
+CN3904900000000,39,49,"Franklin County, OH",Ohio,Franklin,21
+CN3905100000000,39,51,"Fulton County, OH",Ohio,Fulton,12
+CN3905300000000,39,53,"Gallia County, OH",Ohio,Gallia,24
+CN3905500000000,39,55,"Geauga County, OH",Ohio,Geauga,13
+CN3905700000000,39,57,"Greene County, OH",Ohio,Greene,23
+CN3905900000000,39,59,"Guernsey County, OH",Ohio,Guernsey,24
+CN3906100000000,39,61,"Hamilton County, OH",Ohio,Hamilton,35
+CN3906300000000,39,63,"Hancock County, OH",Ohio,Hancock,14
+CN3906500000000,39,65,"Hardin County, OH",Ohio,Hardin,19
+CN3906700000000,39,67,"Harrison County, OH",Ohio,Harrison,21
+CN3906900000000,39,69,"Henry County, OH",Ohio,Henry,13
+CN3907100000000,39,71,"Highland County, OH",Ohio,Highland,28
+CN3907300000000,39,73,"Hocking County, OH",Ohio,Hocking,16
+CN3907500000000,39,75,"Holmes County, OH",Ohio,Holmes,
+CN3907700000000,39,77,"Huron County, OH",Ohio,Huron,24
+CN3907900000000,39,79,"Jackson County, OH",Ohio,Jackson,32
+CN3908100000000,39,81,"Jefferson County, OH",Ohio,Jefferson,28
+CN3908300000000,39,83,"Knox County, OH",Ohio,Knox,17
+CN3908500000000,39,85,"Lake County, OH",Ohio,Lake,23
+CN3908700000000,39,87,"Lawrence County, OH",Ohio,Lawrence,23
+CN3908900000000,39,89,"Licking County, OH",Ohio,Licking,19
+CN3909100000000,39,91,"Logan County, OH",Ohio,Logan,19
+CN3909300000000,39,93,"Lorain County, OH",Ohio,Lorain,25
+CN3909500000000,39,95,"Lucas County, OH",Ohio,Lucas,25
+CN3909700000000,39,97,"Madison County, OH",Ohio,Madison,18
+CN3909900000000,39,99,"Mahoning County, OH",Ohio,Mahoning,23
+CN3910100000000,39,101,"Marion County, OH",Ohio,Marion,35
+CN3910300000000,39,103,"Medina County, OH",Ohio,Medina,13
+CN3910500000000,39,105,"Meigs County, OH",Ohio,Meigs,19
+CN3910700000000,39,107,"Mercer County, OH",Ohio,Mercer,11
+CN3910900000000,39,109,"Miami County, OH",Ohio,Miami,16
+CN3911100000000,39,111,"Monroe County, OH",Ohio,Monroe,
+CN3911300000000,39,113,"Montgomery County, OH",Ohio,Montgomery,46
+CN3911500000000,39,115,"Morgan County, OH",Ohio,Morgan,
+CN3911700000000,39,117,"Morrow County, OH",Ohio,Morrow,20
+CN3911900000000,39,119,"Muskingum County, OH",Ohio,Muskingum,12
+CN3912100000000,39,121,"Noble County, OH",Ohio,Noble,
+CN3912300000000,39,123,"Ottawa County, OH",Ohio,Ottawa,11
+CN3912500000000,39,125,"Paulding County, OH",Ohio,Paulding,
+CN3912700000000,39,127,"Perry County, OH",Ohio,Perry,12
+CN3912900000000,39,129,"Pickaway County, OH",Ohio,Pickaway,17
+CN3913100000000,39,131,"Pike County, OH",Ohio,Pike,29
+CN3913300000000,39,133,"Portage County, OH",Ohio,Portage,19
+CN3913500000000,39,135,"Preble County, OH",Ohio,Preble,25
+CN3913700000000,39,137,"Putnam County, OH",Ohio,Putnam,10
+CN3913900000000,39,139,"Richland County, OH",Ohio,Richland,26
+CN3914100000000,39,141,"Ross County, OH",Ohio,Ross,37
+CN3914300000000,39,143,"Sandusky County, OH",Ohio,Sandusky,17
+CN3914500000000,39,145,"Scioto County, OH",Ohio,Scioto,31
+CN3914700000000,39,147,"Seneca County, OH",Ohio,Seneca,17
+CN3914900000000,39,149,"Shelby County, OH",Ohio,Shelby,16
+CN3915100000000,39,151,"Stark County, OH",Ohio,Stark,18
+CN3915300000000,39,153,"Summit County, OH",Ohio,Summit,24
+CN3915500000000,39,155,"Trumbull County, OH",Ohio,Trumbull,32
+CN3915700000000,39,157,"Tuscarawas County, OH",Ohio,Tuscarawas,11
+CN3915900000000,39,159,"Union County, OH",Ohio,Union,11
+CN3916100000000,39,161,"Van Wert County, OH",Ohio,Van Wert,12
+CN3916300000000,39,163,"Vinton County, OH",Ohio,Vinton,
+CN3916500000000,39,165,"Warren County, OH",Ohio,Warren,18
+CN3916700000000,39,167,"Washington County, OH",Ohio,Washington,15
+CN3916900000000,39,169,"Wayne County, OH",Ohio,Wayne,13
+CN3917100000000,39,171,"Williams County, OH",Ohio,Williams,
+CN3917300000000,39,173,"Wood County, OH",Ohio,Wood,12
+CN3917500000000,39,175,"Wyandot County, OH",Ohio,Wyandot,
+CN4000100000000,40,1,"Adair County, OK",Oklahoma,Adair,23
+CN4000300000000,40,3,"Alfalfa County, OK",Oklahoma,Alfalfa,
+CN4000500000000,40,5,"Atoka County, OK",Oklahoma,Atoka,
+CN4000700000000,40,7,"Beaver County, OK",Oklahoma,Beaver,
+CN4000900000000,40,9,"Beckham County, OK",Oklahoma,Beckham,
+CN4001100000000,40,11,"Blaine County, OK",Oklahoma,Blaine,
+CN4001300000000,40,13,"Bryan County, OK",Oklahoma,Bryan,18
+CN4001500000000,40,15,"Caddo County, OK",Oklahoma,Caddo,23
+CN4001700000000,40,17,"Canadian County, OK",Oklahoma,Canadian,13
+CN4001900000000,40,19,"Carter County, OK",Oklahoma,Carter,32
+CN4002100000000,40,21,"Cherokee County, OK",Oklahoma,Cherokee,27
+CN4002300000000,40,23,"Choctaw County, OK",Oklahoma,Choctaw,22
+CN4002500000000,40,25,"Cimarron County, OK",Oklahoma,Cimarron,
+CN4002700000000,40,27,"Cleveland County, OK",Oklahoma,Cleveland,17
+CN4002900000000,40,29,"Coal County, OK",Oklahoma,Coal,
+CN4003100000000,40,31,"Comanche County, OK",Oklahoma,Comanche,16
+CN4003300000000,40,33,"Cotton County, OK",Oklahoma,Cotton,
+CN4003500000000,40,35,"Craig County, OK",Oklahoma,Craig,
+CN4003700000000,40,37,"Creek County, OK",Oklahoma,Creek,23
+CN4003900000000,40,39,"Custer County, OK",Oklahoma,Custer,15
+CN4004100000000,40,41,"Delaware County, OK",Oklahoma,Delaware,19
+CN4004300000000,40,43,"Dewey County, OK",Oklahoma,Dewey,
+CN4004500000000,40,45,"Ellis County, OK",Oklahoma,Ellis,
+CN4004700000000,40,47,"Garfield County, OK",Oklahoma,Garfield,15
+CN4004900000000,40,49,"Garvin County, OK",Oklahoma,Garvin,29
+CN4005100000000,40,51,"Grady County, OK",Oklahoma,Grady,18
+CN4005300000000,40,53,"Grant County, OK",Oklahoma,Grant,
+CN4005500000000,40,55,"Greer County, OK",Oklahoma,Greer,
+CN4005700000000,40,57,"Harmon County, OK",Oklahoma,Harmon,
+CN4005900000000,40,59,"Harper County, OK",Oklahoma,Harper,
+CN4006100000000,40,61,"Haskell County, OK",Oklahoma,Haskell,
+CN4006300000000,40,63,"Hughes County, OK",Oklahoma,Hughes,
+CN4006500000000,40,65,"Jackson County, OK",Oklahoma,Jackson,22
+CN4006700000000,40,67,"Jefferson County, OK",Oklahoma,Jefferson,
+CN4006900000000,40,69,"Johnston County, OK",Oklahoma,Johnston,36
+CN4007100000000,40,71,"Kay County, OK",Oklahoma,Kay,12
+CN4007300000000,40,73,"Kingfisher County, OK",Oklahoma,Kingfisher,
+CN4007500000000,40,75,"Kiowa County, OK",Oklahoma,Kiowa,
+CN4007700000000,40,77,"Latimer County, OK",Oklahoma,Latimer,
+CN4007900000000,40,79,"Le Flore County, OK",Oklahoma,Le Flore,23
+CN4008100000000,40,81,"Lincoln County, OK",Oklahoma,Lincoln,22
+CN4008300000000,40,83,"Logan County, OK",Oklahoma,Logan,14
+CN4008500000000,40,85,"Love County, OK",Oklahoma,Love,
+CN4008700000000,40,87,"McClain County, OK",Oklahoma,McClain,24
+CN4008900000000,40,89,"McCurtain County, OK",Oklahoma,McCurtain,15
+CN4009100000000,40,91,"McIntosh County, OK",Oklahoma,McIntosh,30
+CN4009300000000,40,93,"Major County, OK",Oklahoma,Major,
+CN4009500000000,40,95,"Marshall County, OK",Oklahoma,Marshall,
+CN4009700000000,40,97,"Mayes County, OK",Oklahoma,Mayes,25
+CN4009900000000,40,99,"Murray County, OK",Oklahoma,Murray,36
+CN4010100000000,40,101,"Muskogee County, OK",Oklahoma,Muskogee,32
+CN4010300000000,40,103,"Noble County, OK",Oklahoma,Noble,
+CN4010500000000,40,105,"Nowata County, OK",Oklahoma,Nowata,
+CN4010700000000,40,107,"Okfuskee County, OK",Oklahoma,Okfuskee,33
+CN4010900000000,40,109,"Oklahoma County, OK",Oklahoma,Oklahoma,21
+CN4011100000000,40,111,"Okmulgee County, OK",Oklahoma,Okmulgee,19
+CN4011300000000,40,113,"Osage County, OK",Oklahoma,Osage,13
+CN4011500000000,40,115,"Ottawa County, OK",Oklahoma,Ottawa,19
+CN4011700000000,40,117,"Pawnee County, OK",Oklahoma,Pawnee,32
+CN4011900000000,40,119,"Payne County, OK",Oklahoma,Payne,10
+CN4012100000000,40,121,"Pittsburg County, OK",Oklahoma,Pittsburg,28
+CN4012300000000,40,123,"Pontotoc County, OK",Oklahoma,Pontotoc,18
+CN4012500000000,40,125,"Pottawatomie County, OK",Oklahoma,Pottawatomie,21
+CN4012700000000,40,127,"Pushmataha County, OK",Oklahoma,Pushmataha,30
+CN4012900000000,40,129,"Roger Mills County, OK",Oklahoma,Roger Mills,
+CN4013100000000,40,131,"Rogers County, OK",Oklahoma,Rogers,14
+CN4013300000000,40,133,"Seminole County, OK",Oklahoma,Seminole,17
+CN4013500000000,40,135,"Sequoyah County, OK",Oklahoma,Sequoyah,33
+CN4013700000000,40,137,"Stephens County, OK",Oklahoma,Stephens,27
+CN4013900000000,40,139,"Texas County, OK",Oklahoma,Texas,21
+CN4014100000000,40,141,"Tillman County, OK",Oklahoma,Tillman,
+CN4014300000000,40,143,"Tulsa County, OK",Oklahoma,Tulsa,19
+CN4014500000000,40,145,"Wagoner County, OK",Oklahoma,Wagoner,25
+CN4014700000000,40,147,"Washington County, OK",Oklahoma,Washington,15
+CN4014900000000,40,149,"Washita County, OK",Oklahoma,Washita,29
+CN4015100000000,40,151,"Woods County, OK",Oklahoma,Woods,
+CN4015300000000,40,153,"Woodward County, OK",Oklahoma,Woodward,20
+CN4100100000000,41,1,"Baker County, OR",Oregon,Baker,
+CN4100300000000,41,3,"Benton County, OR",Oregon,Benton,8
+CN4100500000000,41,5,"Clackamas County, OR",Oregon,Clackamas,11
+CN4100700000000,41,7,"Clatsop County, OR",Oregon,Clatsop,13
+CN4100900000000,41,9,"Columbia County, OR",Oregon,Columbia,11
+CN4101100000000,41,11,"Coos County, OR",Oregon,Coos,12
+CN4101300000000,41,13,"Crook County, OR",Oregon,Crook,19
+CN4101500000000,41,15,"Curry County, OR",Oregon,Curry,24
+CN4101700000000,41,17,"Deschutes County, OR",Oregon,Deschutes,10
+CN4101900000000,41,19,"Douglas County, OR",Oregon,Douglas,13
+CN4102100000000,41,21,"Gilliam County, OR",Oregon,Gilliam,
+CN4102300000000,41,23,"Grant County, OR",Oregon,Grant,
+CN4102500000000,41,25,"Harney County, OR",Oregon,Harney,
+CN4102700000000,41,27,"Hood River County, OR",Oregon,Hood River,
+CN4102900000000,41,29,"Jackson County, OR",Oregon,Jackson,15
+CN4103100000000,41,31,"Jefferson County, OR",Oregon,Jefferson,
+CN4103300000000,41,33,"Josephine County, OR",Oregon,Josephine,15
+CN4103500000000,41,35,"Klamath County, OR",Oregon,Klamath,12
+CN4103700000000,41,37,"Lake County, OR",Oregon,Lake,
+CN4103900000000,41,39,"Lane County, OR",Oregon,Lane,16
+CN4104100000000,41,41,"Lincoln County, OR",Oregon,Lincoln,23
+CN4104300000000,41,43,"Linn County, OR",Oregon,Linn,17
+CN4104500000000,41,45,"Malheur County, OR",Oregon,Malheur,12
+CN4104700000000,41,47,"Marion County, OR",Oregon,Marion,7
+CN4104900000000,41,49,"Morrow County, OR",Oregon,Morrow,
+CN4105100000000,41,51,"Multnomah County, OR",Oregon,Multnomah,16
+CN4105300000000,41,53,"Polk County, OR",Oregon,Polk,7
+CN4105500000000,41,55,"Sherman County, OR",Oregon,Sherman,
+CN4105700000000,41,57,"Tillamook County, OR",Oregon,Tillamook,22
+CN4105900000000,41,59,"Umatilla County, OR",Oregon,Umatilla,8
+CN4106100000000,41,61,"Union County, OR",Oregon,Union,14
+CN4106300000000,41,63,"Wallowa County, OR",Oregon,Wallowa,
+CN4106500000000,41,65,"Wasco County, OR",Oregon,Wasco,
+CN4106700000000,41,67,"Washington County, OR",Oregon,Washington,9
+CN4106900000000,41,69,"Wheeler County, OR",Oregon,Wheeler,
+CN4107100000000,41,71,"Yamhill County, OR",Oregon,Yamhill,10
+CN4200100000000,42,1,"Adams County, PA",Pennsylvania,Adams,8
+CN4200300000000,42,3,"Allegheny County, PA",Pennsylvania,Allegheny,27
+CN4200500000000,42,5,"Armstrong County, PA",Pennsylvania,Armstrong,29
+CN4200700000000,42,7,"Beaver County, PA",Pennsylvania,Beaver,24
+CN4200900000000,42,9,"Bedford County, PA",Pennsylvania,Bedford,15
+CN4201100000000,42,11,"Berks County, PA",Pennsylvania,Berks,14
+CN4201300000000,42,13,"Blair County, PA",Pennsylvania,Blair,19
+CN4201500000000,42,15,"Bradford County, PA",Pennsylvania,Bradford,13
+CN4201700000000,42,17,"Bucks County, PA",Pennsylvania,Bucks,23
+CN4201900000000,42,19,"Butler County, PA",Pennsylvania,Butler,23
+CN4202100000000,42,21,"Cambria County, PA",Pennsylvania,Cambria,35
+CN4202300000000,42,23,"Cameron County, PA",Pennsylvania,Cameron,
+CN4202500000000,42,25,"Carbon County, PA",Pennsylvania,Carbon,26
+CN4202700000000,42,27,"Centre County, PA",Pennsylvania,Centre,7
+CN4202900000000,42,29,"Chester County, PA",Pennsylvania,Chester,14
+CN4203100000000,42,31,"Clarion County, PA",Pennsylvania,Clarion,15
+CN4203300000000,42,33,"Clearfield County, PA",Pennsylvania,Clearfield,18
+CN4203500000000,42,35,"Clinton County, PA",Pennsylvania,Clinton,14
+CN4203700000000,42,37,"Columbia County, PA",Pennsylvania,Columbia,13
+CN4203900000000,42,39,"Crawford County, PA",Pennsylvania,Crawford,26
+CN4204100000000,42,41,"Cumberland County, PA",Pennsylvania,Cumberland,13
+CN4204300000000,42,43,"Dauphin County, PA",Pennsylvania,Dauphin,18
+CN4204500000000,42,45,"Delaware County, PA",Pennsylvania,Delaware,29
+CN4204700000000,42,47,"Elk County, PA",Pennsylvania,Elk,15
+CN4204900000000,42,49,"Erie County, PA",Pennsylvania,Erie,21
+CN4205100000000,42,51,"Fayette County, PA",Pennsylvania,Fayette,31
+CN4205300000000,42,53,"Forest County, PA",Pennsylvania,Forest,
+CN4205500000000,42,55,"Franklin County, PA",Pennsylvania,Franklin,12
+CN4205700000000,42,57,"Fulton County, PA",Pennsylvania,Fulton,25
+CN4205900000000,42,59,"Greene County, PA",Pennsylvania,Greene,29
+CN4206100000000,42,61,"Huntingdon County, PA",Pennsylvania,Huntingdon,15
+CN4206300000000,42,63,"Indiana County, PA",Pennsylvania,Indiana,24
+CN4206500000000,42,65,"Jefferson County, PA",Pennsylvania,Jefferson,22
+CN4206700000000,42,67,"Juniata County, PA",Pennsylvania,Juniata,
+CN4206900000000,42,69,"Lackawanna County, PA",Pennsylvania,Lackawanna,23
+CN4207100000000,42,71,"Lancaster County, PA",Pennsylvania,Lancaster,12
+CN4207300000000,42,73,"Lawrence County, PA",Pennsylvania,Lawrence,31
+CN4207500000000,42,75,"Lebanon County, PA",Pennsylvania,Lebanon,14
+CN4207700000000,42,77,"Lehigh County, PA",Pennsylvania,Lehigh,18
+CN4207900000000,42,79,"Luzerne County, PA",Pennsylvania,Luzerne,23
+CN4208100000000,42,81,"Lycoming County, PA",Pennsylvania,Lycoming,15
+CN4208300000000,42,83,"McKean County, PA",Pennsylvania,McKean,19
+CN4208500000000,42,85,"Mercer County, PA",Pennsylvania,Mercer,21
+CN4208700000000,42,87,"Mifflin County, PA",Pennsylvania,Mifflin,13
+CN4208900000000,42,89,"Monroe County, PA",Pennsylvania,Monroe,21
+CN4209100000000,42,91,"Montgomery County, PA",Pennsylvania,Montgomery,18
+CN4209300000000,42,93,"Montour County, PA",Pennsylvania,Montour,22
+CN4209500000000,42,95,"Northampton County, PA",Pennsylvania,Northampton,19
+CN4209700000000,42,97,"Northumberland County, PA",Pennsylvania,Northumberland,17
+CN4209900000000,42,99,"Perry County, PA",Pennsylvania,Perry,15
+CN4210100000000,42,101,"Philadelphia County/city, PA",Pennsylvania,Philadelphia,32
+CN4210300000000,42,103,"Pike County, PA",Pennsylvania,Pike,20
+CN4210500000000,42,105,"Potter County, PA",Pennsylvania,Potter,
+CN4210700000000,42,107,"Schuylkill County, PA",Pennsylvania,Schuylkill,18
+CN4210900000000,42,109,"Snyder County, PA",Pennsylvania,Snyder,
+CN4211100000000,42,111,"Somerset County, PA",Pennsylvania,Somerset,22
+CN4211300000000,42,113,"Sullivan County, PA",Pennsylvania,Sullivan,
+CN4211500000000,42,115,"Susquehanna County, PA",Pennsylvania,Susquehanna,32
+CN4211700000000,42,117,"Tioga County, PA",Pennsylvania,Tioga,10
+CN4211900000000,42,119,"Union County, PA",Pennsylvania,Union,
+CN4212100000000,42,121,"Venango County, PA",Pennsylvania,Venango,21
+CN4212300000000,42,123,"Warren County, PA",Pennsylvania,Warren,9
+CN4212500000000,42,125,"Washington County, PA",Pennsylvania,Washington,26
+CN4212700000000,42,127,"Wayne County, PA",Pennsylvania,Wayne,24
+CN4212900000000,42,129,"Westmoreland County, PA",Pennsylvania,Westmoreland,31
+CN4213100000000,42,131,"Wyoming County, PA",Pennsylvania,Wyoming,26
+CN4213300000000,42,133,"York County, PA",Pennsylvania,York,22
+CN4400100000000,44,1,"Bristol County, RI",Rhode Island,Bristol,20
+CN4400300000000,44,3,"Kent County, RI",Rhode Island,Kent,28
+CN4400500000000,44,5,"Newport County, RI",Rhode Island,Newport,13
+CN4400700000000,44,7,"Providence County, RI",Rhode Island,Providence,27
+CN4400900000000,44,9,"Washington County, RI",Rhode Island,Washington,22
+CN4500100000000,45,1,"Abbeville County, SC",South Carolina,Abbeville,
+CN4500300000000,45,3,"Aiken County, SC",South Carolina,Aiken,20
+CN4500500000000,45,5,"Allendale County, SC",South Carolina,Allendale,
+CN4500700000000,45,7,"Anderson County, SC",South Carolina,Anderson,20
+CN4500900000000,45,9,"Bamberg County, SC",South Carolina,Bamberg,
+CN4501100000000,45,11,"Barnwell County, SC",South Carolina,Barnwell,
+CN4501300000000,45,13,"Beaufort County, SC",South Carolina,Beaufort,8
+CN4501500000000,45,15,"Berkeley County, SC",South Carolina,Berkeley,13
+CN4501700000000,45,17,"Calhoun County, SC",South Carolina,Calhoun,
+CN4501900000000,45,19,"Charleston County, SC",South Carolina,Charleston,15
+CN4502100000000,45,21,"Cherokee County, SC",South Carolina,Cherokee,8
+CN4502300000000,45,23,"Chester County, SC",South Carolina,Chester,
+CN4502500000000,45,25,"Chesterfield County, SC",South Carolina,Chesterfield,14
+CN4502700000000,45,27,"Clarendon County, SC",South Carolina,Clarendon,
+CN4502900000000,45,29,"Colleton County, SC",South Carolina,Colleton,17
+CN4503100000000,45,31,"Darlington County, SC",South Carolina,Darlington,15
+CN4503300000000,45,33,"Dillon County, SC",South Carolina,Dillon,11
+CN4503500000000,45,35,"Dorchester County, SC",South Carolina,Dorchester,14
+CN4503700000000,45,37,"Edgefield County, SC",South Carolina,Edgefield,
+CN4503900000000,45,39,"Fairfield County, SC",South Carolina,Fairfield,
+CN4504100000000,45,41,"Florence County, SC",South Carolina,Florence,13
+CN4504300000000,45,43,"Georgetown County, SC",South Carolina,Georgetown,16
+CN4504500000000,45,45,"Greenville County, SC",South Carolina,Greenville,18
+CN4504700000000,45,47,"Greenwood County, SC",South Carolina,Greenwood,11
+CN4504900000000,45,49,"Hampton County, SC",South Carolina,Hampton,
+CN4505100000000,45,51,"Horry County, SC",South Carolina,Horry,17
+CN4505300000000,45,53,"Jasper County, SC",South Carolina,Jasper,16
+CN4505500000000,45,55,"Kershaw County, SC",South Carolina,Kershaw,10
+CN4505700000000,45,57,"Lancaster County, SC",South Carolina,Lancaster,11
+CN4505900000000,45,59,"Laurens County, SC",South Carolina,Laurens,19
+CN4506100000000,45,61,"Lee County, SC",South Carolina,Lee,
+CN4506300000000,45,63,"Lexington County, SC",South Carolina,Lexington,18
+CN4506500000000,45,65,"McCormick County, SC",South Carolina,McCormick,
+CN4506700000000,45,67,"Marion County, SC",South Carolina,Marion,11
+CN4506900000000,45,69,"Marlboro County, SC",South Carolina,Marlboro,
+CN4507100000000,45,71,"Newberry County, SC",South Carolina,Newberry,
+CN4507300000000,45,73,"Oconee County, SC",South Carolina,Oconee,23
+CN4507500000000,45,75,"Orangeburg County, SC",South Carolina,Orangeburg,8
+CN4507700000000,45,77,"Pickens County, SC",South Carolina,Pickens,29
+CN4507900000000,45,79,"Richland County, SC",South Carolina,Richland,10
+CN4508100000000,45,81,"Saluda County, SC",South Carolina,Saluda,
+CN4508300000000,45,83,"Spartanburg County, SC",South Carolina,Spartanburg,16
+CN4508500000000,45,85,"Sumter County, SC",South Carolina,Sumter,6
+CN4508700000000,45,87,"Union County, SC",South Carolina,Union,19
+CN4508900000000,45,89,"Williamsburg County, SC",South Carolina,Williamsburg,
+CN4509100000000,45,91,"York County, SC",South Carolina,York,15
+CN4600300000000,46,3,"Aurora County, SD",South Dakota,Aurora,
+CN4600500000000,46,5,"Beadle County, SD",South Dakota,Beadle,
+CN4600700000000,46,7,"Bennett County, SD",South Dakota,Bennett,
+CN4600900000000,46,9,"Bon Homme County, SD",South Dakota,Bon Homme,
+CN4601100000000,46,11,"Brookings County, SD",South Dakota,Brookings,
+CN4601300000000,46,13,"Brown County, SD",South Dakota,Brown,10
+CN4601500000000,46,15,"Brule County, SD",South Dakota,Brule,
+CN4601700000000,46,17,"Buffalo County, SD",South Dakota,Buffalo,
+CN4601900000000,46,19,"Butte County, SD",South Dakota,Butte,
+CN4602100000000,46,21,"Campbell County, SD",South Dakota,Campbell,
+CN4602300000000,46,23,"Charles Mix County, SD",South Dakota,Charles Mix,
+CN4602500000000,46,25,"Clark County, SD",South Dakota,Clark,
+CN4602700000000,46,27,"Clay County, SD",South Dakota,Clay,
+CN4602900000000,46,29,"Codington County, SD",South Dakota,Codington,
+CN4603100000000,46,31,"Corson County, SD",South Dakota,Corson,
+CN4603300000000,46,33,"Custer County, SD",South Dakota,Custer,
+CN4603500000000,46,35,"Davison County, SD",South Dakota,Davison,
+CN4603700000000,46,37,"Day County, SD",South Dakota,Day,
+CN4603900000000,46,39,"Deuel County, SD",South Dakota,Deuel,
+CN4604100000000,46,41,"Dewey County, SD",South Dakota,Dewey,
+CN4604300000000,46,43,"Douglas County, SD",South Dakota,Douglas,
+CN4604500000000,46,45,"Edmunds County, SD",South Dakota,Edmunds,
+CN4604700000000,46,47,"Fall River County, SD",South Dakota,Fall River,
+CN4604900000000,46,49,"Faulk County, SD",South Dakota,Faulk,
+CN4605100000000,46,51,"Grant County, SD",South Dakota,Grant,
+CN4605300000000,46,53,"Gregory County, SD",South Dakota,Gregory,
+CN4605500000000,46,55,"Haakon County, SD",South Dakota,Haakon,
+CN4605700000000,46,57,"Hamlin County, SD",South Dakota,Hamlin,
+CN4605900000000,46,59,"Hand County, SD",South Dakota,Hand,
+CN4606100000000,46,61,"Hanson County, SD",South Dakota,Hanson,
+CN4606300000000,46,63,"Harding County, SD",South Dakota,Harding,
+CN4606500000000,46,65,"Hughes County, SD",South Dakota,Hughes,
+CN4606700000000,46,67,"Hutchinson County, SD",South Dakota,Hutchinson,
+CN4606900000000,46,69,"Hyde County, SD",South Dakota,Hyde,
+CN4607100000000,46,71,"Jackson County, SD",South Dakota,Jackson,
+CN4607300000000,46,73,"Jerauld County, SD",South Dakota,Jerauld,
+CN4607500000000,46,75,"Jones County, SD",South Dakota,Jones,
+CN4607700000000,46,77,"Kingsbury County, SD",South Dakota,Kingsbury,
+CN4607900000000,46,79,"Lake County, SD",South Dakota,Lake,
+CN4608100000000,46,81,"Lawrence County, SD",South Dakota,Lawrence,
+CN4608300000000,46,83,"Lincoln County, SD",South Dakota,Lincoln,
+CN4608500000000,46,85,"Lyman County, SD",South Dakota,Lyman,
+CN4608700000000,46,87,"McCook County, SD",South Dakota,McCook,
+CN4608900000000,46,89,"McPherson County, SD",South Dakota,McPherson,
+CN4609100000000,46,91,"Marshall County, SD",South Dakota,Marshall,
+CN4609300000000,46,93,"Meade County, SD",South Dakota,Meade,
+CN4609500000000,46,95,"Mellette County, SD",South Dakota,Mellette,
+CN4609700000000,46,97,"Miner County, SD",South Dakota,Miner,
+CN4609900000000,46,99,"Minnehaha County, SD",South Dakota,Minnehaha,10
+CN4610100000000,46,101,"Moody County, SD",South Dakota,Moody,
+CN4610200000000,46,102,"Oglala Lakota County, SD",South Dakota,Pennington,6
+CN4610300000000,46,103,"Pennington County, SD",South Dakota,Perkins,
+CN4610500000000,46,105,"Perkins County, SD",South Dakota,Potter,
+CN4610700000000,46,107,"Potter County, SD",South Dakota,Roberts,
+CN4610900000000,46,109,"Roberts County, SD",South Dakota,Sanborn,
+CN4611100000000,46,111,"Sanborn County, SD",South Dakota,Oglala Lakota,
+CN4611500000000,46,115,"Spink County, SD",South Dakota,Spink,
+CN4611700000000,46,117,"Stanley County, SD",South Dakota,Stanley,
+CN4611900000000,46,119,"Sully County, SD",South Dakota,Sully,
+CN4612100000000,46,121,"Todd County, SD",South Dakota,Todd,
+CN4612300000000,46,123,"Tripp County, SD",South Dakota,Tripp,
+CN4612500000000,46,125,"Turner County, SD",South Dakota,Turner,
+CN4612700000000,46,127,"Union County, SD",South Dakota,Union,
+CN4612900000000,46,129,"Walworth County, SD",South Dakota,Walworth,
+CN4613500000000,46,135,"Yankton County, SD",South Dakota,Yankton,
+CN4613700000000,46,137,"Ziebach County, SD",South Dakota,Ziebach,
+CN4700100000000,47,1,"Anderson County, TN",Tennessee,Anderson,30
+CN4700300000000,47,3,"Bedford County, TN",Tennessee,Bedford,15
+CN4700500000000,47,5,"Benton County, TN",Tennessee,Benton,58
+CN4700700000000,47,7,"Bledsoe County, TN",Tennessee,Bledsoe,
+CN4700900000000,47,9,"Blount County, TN",Tennessee,Blount,20
+CN4701100000000,47,11,"Bradley County, TN",Tennessee,Bradley,21
+CN4701300000000,47,13,"Campbell County, TN",Tennessee,Campbell,46
+CN4701500000000,47,15,"Cannon County, TN",Tennessee,Cannon,39
+CN4701700000000,47,17,"Carroll County, TN",Tennessee,Carroll,15
+CN4701900000000,47,19,"Carter County, TN",Tennessee,Carter,17
+CN4702100000000,47,21,"Cheatham County, TN",Tennessee,Cheatham,38
+CN4702300000000,47,23,"Chester County, TN",Tennessee,Chester,
+CN4702500000000,47,25,"Claiborne County, TN",Tennessee,Claiborne,34
+CN4702700000000,47,27,"Clay County, TN",Tennessee,Clay,43
+CN4702900000000,47,29,"Cocke County, TN",Tennessee,Cocke,25
+CN4703100000000,47,31,"Coffee County, TN",Tennessee,Coffee,18
+CN4703300000000,47,33,"Crockett County, TN",Tennessee,Crockett,
+CN4703500000000,47,35,"Cumberland County, TN",Tennessee,Cumberland,17
+CN4703700000000,47,37,"Davidson County, TN",Tennessee,Davidson,21
+CN4703900000000,47,39,"Decatur County, TN",Tennessee,Decatur,
+CN4704100000000,47,41,"DeKalb County, TN",Tennessee,DeKalb,35
+CN4704300000000,47,43,"Dickson County, TN",Tennessee,Dickson,30
+CN4704500000000,47,45,"Dyer County, TN",Tennessee,Dyer,13
+CN4704700000000,47,47,"Fayette County, TN",Tennessee,Fayette,
+CN4704900000000,47,49,"Fentress County, TN",Tennessee,Fentress,
+CN4705100000000,47,51,"Franklin County, TN",Tennessee,Franklin,28
+CN4705300000000,47,53,"Gibson County, TN",Tennessee,Gibson,12
+CN4705500000000,47,55,"Giles County, TN",Tennessee,Giles,25
+CN4705700000000,47,57,"Grainger County, TN",Tennessee,Grainger,16
+CN4705900000000,47,59,"Greene County, TN",Tennessee,Greene,19
+CN4706100000000,47,61,"Grundy County, TN",Tennessee,Grundy,35
+CN4706300000000,47,63,"Hamblen County, TN",Tennessee,Hamblen,27
+CN4706500000000,47,65,"Hamilton County, TN",Tennessee,Hamilton,17
+CN4706700000000,47,67,"Hancock County, TN",Tennessee,Hancock,
+CN4706900000000,47,69,"Hardeman County, TN",Tennessee,Hardeman,
+CN4707100000000,47,71,"Hardin County, TN",Tennessee,Hardin,53
+CN4707300000000,47,73,"Hawkins County, TN",Tennessee,Hawkins,27
+CN4707500000000,47,75,"Haywood County, TN",Tennessee,Haywood,
+CN4707700000000,47,77,"Henderson County, TN",Tennessee,Henderson,17
+CN4707900000000,47,79,"Henry County, TN",Tennessee,Henry,19
+CN4708100000000,47,81,"Hickman County, TN",Tennessee,Hickman,21
+CN4708300000000,47,83,"Houston County, TN",Tennessee,Houston,
+CN4708500000000,47,85,"Humphreys County, TN",Tennessee,Humphreys,22
+CN4708700000000,47,87,"Jackson County, TN",Tennessee,Jackson,35
+CN4708900000000,47,89,"Jefferson County, TN",Tennessee,Jefferson,15
+CN4709100000000,47,91,"Johnson County, TN",Tennessee,Johnson,20
+CN4709300000000,47,93,"Knox County, TN",Tennessee,Knox,28
+CN4709500000000,47,95,"Lake County, TN",Tennessee,Lake,
+CN4709700000000,47,97,"Lauderdale County, TN",Tennessee,Lauderdale,12
+CN4709900000000,47,99,"Lawrence County, TN",Tennessee,Lawrence,15
+CN4710100000000,47,101,"Lewis County, TN",Tennessee,Lewis,
+CN4710300000000,47,103,"Lincoln County, TN",Tennessee,Lincoln,16
+CN4710500000000,47,105,"Loudon County, TN",Tennessee,Loudon,22
+CN4710700000000,47,107,"McMinn County, TN",Tennessee,McMinn,24
+CN4710900000000,47,109,"McNairy County, TN",Tennessee,McNairy,27
+CN4711100000000,47,111,"Macon County, TN",Tennessee,Macon,16
+CN4711300000000,47,113,"Madison County, TN",Tennessee,Madison,9
+CN4711500000000,47,115,"Marion County, TN",Tennessee,Marion,27
+CN4711700000000,47,117,"Marshall County, TN",Tennessee,Marshall,24
+CN4711900000000,47,119,"Maury County, TN",Tennessee,Maury,18
+CN4712100000000,47,121,"Meigs County, TN",Tennessee,Meigs,
+CN4712300000000,47,123,"Monroe County, TN",Tennessee,Monroe,18
+CN4712500000000,47,125,"Montgomery County, TN",Tennessee,Montgomery,16
+CN4712700000000,47,127,"Moore County, TN",Tennessee,Moore,
+CN4712900000000,47,129,"Morgan County, TN",Tennessee,Morgan,25
+CN4713100000000,47,131,"Obion County, TN",Tennessee,Obion,14
+CN4713300000000,47,133,"Overton County, TN",Tennessee,Overton,20
+CN4713500000000,47,135,"Perry County, TN",Tennessee,Perry,
+CN4713700000000,47,137,"Pickett County, TN",Tennessee,Pickett,
+CN4713900000000,47,139,"Polk County, TN",Tennessee,Polk,
+CN4714100000000,47,141,"Putnam County, TN",Tennessee,Putnam,24
+CN4714300000000,47,143,"Rhea County, TN",Tennessee,Rhea,17
+CN4714500000000,47,145,"Roane County, TN",Tennessee,Roane,40
+CN4714700000000,47,147,"Robertson County, TN",Tennessee,Robertson,18
+CN4714900000000,47,149,"Rutherford County, TN",Tennessee,Rutherford,15
+CN4715100000000,47,151,"Scott County, TN",Tennessee,Scott,26
+CN4715300000000,47,153,"Sequatchie County, TN",Tennessee,Sequatchie,
+CN4715500000000,47,155,"Sevier County, TN",Tennessee,Sevier,22
+CN4715700000000,47,157,"Shelby County, TN",Tennessee,Shelby,17
+CN4715900000000,47,159,"Smith County, TN",Tennessee,Smith,33
+CN4716100000000,47,161,"Stewart County, TN",Tennessee,Stewart,
+CN4716300000000,47,163,"Sullivan County, TN",Tennessee,Sullivan,24
+CN4716500000000,47,165,"Sumner County, TN",Tennessee,Sumner,15
+CN4716700000000,47,167,"Tipton County, TN",Tennessee,Tipton,18
+CN4716900000000,47,169,"Trousdale County, TN",Tennessee,Trousdale,
+CN4717100000000,47,171,"Unicoi County, TN",Tennessee,Unicoi,22
+CN4717300000000,47,173,"Union County, TN",Tennessee,Union,33
+CN4717500000000,47,175,"Van Buren County, TN",Tennessee,Van Buren,
+CN4717700000000,47,177,"Warren County, TN",Tennessee,Warren,14
+CN4717900000000,47,179,"Washington County, TN",Tennessee,Washington,19
+CN4718100000000,47,181,"Wayne County, TN",Tennessee,Wayne,
+CN4718300000000,47,183,"Weakley County, TN",Tennessee,Weakley,12
+CN4718500000000,47,185,"White County, TN",Tennessee,White,20
+CN4718700000000,47,187,"Williamson County, TN",Tennessee,Williamson,9
+CN4718900000000,47,189,"Wilson County, TN",Tennessee,Wilson,22
+CN4800100000000,48,1,"Anderson County, TX",Texas,Anderson,12
+CN4800300000000,48,3,"Andrews County, TX",Texas,Andrews,
+CN4800500000000,48,5,"Angelina County, TX",Texas,Angelina,8
+CN4800700000000,48,7,"Aransas County, TX",Texas,Aransas,20
+CN4800900000000,48,9,"Archer County, TX",Texas,Archer,
+CN4801100000000,48,11,"Armstrong County, TX",Texas,Armstrong,
+CN4801300000000,48,13,"Atascosa County, TX",Texas,Atascosa,
+CN4801500000000,48,15,"Austin County, TX",Texas,Austin,
+CN4801700000000,48,17,"Bailey County, TX",Texas,Bailey,
+CN4801900000000,48,19,"Bandera County, TX",Texas,Bandera,
+CN4802100000000,48,21,"Bastrop County, TX",Texas,Bastrop,11
+CN4802300000000,48,23,"Baylor County, TX",Texas,Baylor,
+CN4802500000000,48,25,"Bee County, TX",Texas,Bee,
+CN4802700000000,48,27,"Bell County, TX",Texas,Bell,7
+CN4802900000000,48,29,"Bexar County, TX",Texas,Bexar,10
+CN4803100000000,48,31,"Blanco County, TX",Texas,Blanco,
+CN4803300000000,48,33,"Borden County, TX",Texas,Borden,
+CN4803500000000,48,35,"Bosque County, TX",Texas,Bosque,
+CN4803700000000,48,37,"Bowie County, TX",Texas,Bowie,7
+CN4803900000000,48,39,"Brazoria County, TX",Texas,Brazoria,8
+CN4804100000000,48,41,"Brazos County, TX",Texas,Brazos,9
+CN4804300000000,48,43,"Brewster County, TX",Texas,Brewster,
+CN4804500000000,48,45,"Briscoe County, TX",Texas,Briscoe,
+CN4804700000000,48,47,"Brooks County, TX",Texas,Brooks,
+CN4804900000000,48,49,"Brown County, TX",Texas,Brown,16
+CN4805100000000,48,51,"Burleson County, TX",Texas,Burleson,
+CN4805300000000,48,53,"Burnet County, TX",Texas,Burnet,
+CN4805500000000,48,55,"Caldwell County, TX",Texas,Caldwell,
+CN4805700000000,48,57,"Calhoun County, TX",Texas,Calhoun,17
+CN4805900000000,48,59,"Callahan County, TX",Texas,Callahan,
+CN4806100000000,48,61,"Cameron County, TX",Texas,Cameron,3
+CN4806300000000,48,63,"Camp County, TX",Texas,Camp,
+CN4806500000000,48,65,"Carson County, TX",Texas,Carson,
+CN4806700000000,48,67,"Cass County, TX",Texas,Cass,
+CN4806900000000,48,69,"Castro County, TX",Texas,Castro,
+CN4807100000000,48,71,"Chambers County, TX",Texas,Chambers,11
+CN4807300000000,48,73,"Cherokee County, TX",Texas,Cherokee,9
+CN4807500000000,48,75,"Childress County, TX",Texas,Childress,
+CN4807700000000,48,77,"Clay County, TX",Texas,Clay,
+CN4807900000000,48,79,"Cochran County, TX",Texas,Cochran,
+CN4808100000000,48,81,"Coke County, TX",Texas,Coke,
+CN4808300000000,48,83,"Coleman County, TX",Texas,Coleman,
+CN4808500000000,48,85,"Collin County, TX",Texas,Collin,8
+CN4808700000000,48,87,"Collingsworth County, TX",Texas,Collingsworth,
+CN4808900000000,48,89,"Colorado County, TX",Texas,Colorado,
+CN4809100000000,48,91,"Comal County, TX",Texas,Comal,8
+CN4809300000000,48,93,"Comanche County, TX",Texas,Comanche,
+CN4809500000000,48,95,"Concho County, TX",Texas,Concho,
+CN4809700000000,48,97,"Cooke County, TX",Texas,Cooke,19
+CN4809900000000,48,99,"Coryell County, TX",Texas,Coryell,7
+CN4810100000000,48,101,"Cottle County, TX",Texas,Cottle,
+CN4810300000000,48,103,"Crane County, TX",Texas,Crane,
+CN4810500000000,48,105,"Crockett County, TX",Texas,Crockett,
+CN4810700000000,48,107,"Crosby County, TX",Texas,Crosby,
+CN4810900000000,48,109,"Culberson County, TX",Texas,Culberson,
+CN4811100000000,48,111,"Dallam County, TX",Texas,Dallam,
+CN4811300000000,48,113,"Dallas County, TX",Texas,Dallas,12
+CN4811500000000,48,115,"Dawson County, TX",Texas,Dawson,
+CN4811700000000,48,117,"Deaf Smith County, TX",Texas,Deaf Smith,
+CN4811900000000,48,119,"Delta County, TX",Texas,Delta,
+CN4812100000000,48,121,"Denton County, TX",Texas,Denton,7
+CN4812300000000,48,123,"DeWitt County, TX",Texas,DeWitt,
+CN4812500000000,48,125,"Dickens County, TX",Texas,Dickens,
+CN4812700000000,48,127,"Dimmit County, TX",Texas,Dimmit,
+CN4812900000000,48,129,"Donley County, TX",Texas,Donley,
+CN4813100000000,48,131,"Duval County, TX",Texas,Duval,
+CN4813300000000,48,133,"Eastland County, TX",Texas,Eastland,
+CN4813500000000,48,135,"Ector County, TX",Texas,Ector,14
+CN4813700000000,48,137,"Edwards County, TX",Texas,Edwards,
+CN4813900000000,48,139,"Ellis County, TX",Texas,Ellis,7
+CN4814100000000,48,141,"El Paso County, TX",Texas,El Paso,8
+CN4814300000000,48,143,"Erath County, TX",Texas,Erath,
+CN4814500000000,48,145,"Falls County, TX",Texas,Falls,
+CN4814700000000,48,147,"Fannin County, TX",Texas,Fannin,12
+CN4814900000000,48,149,"Fayette County, TX",Texas,Fayette,
+CN4815100000000,48,151,"Fisher County, TX",Texas,Fisher,
+CN4815300000000,48,153,"Floyd County, TX",Texas,Floyd,
+CN4815500000000,48,155,"Foard County, TX",Texas,Foard,
+CN4815700000000,48,157,"Fort Bend County, TX",Texas,Fort Bend,4
+CN4815900000000,48,159,"Franklin County, TX",Texas,Franklin,
+CN4816100000000,48,161,"Freestone County, TX",Texas,Freestone,
+CN4816300000000,48,163,"Frio County, TX",Texas,Frio,
+CN4816500000000,48,165,"Gaines County, TX",Texas,Gaines,
+CN4816700000000,48,167,"Galveston County, TX",Texas,Galveston,15
+CN4816900000000,48,169,"Garza County, TX",Texas,Garza,
+CN4817100000000,48,171,"Gillespie County, TX",Texas,Gillespie,
+CN4817300000000,48,173,"Glasscock County, TX",Texas,Glasscock,
+CN4817500000000,48,175,"Goliad County, TX",Texas,Goliad,
+CN4817700000000,48,177,"Gonzales County, TX",Texas,Gonzales,
+CN4817900000000,48,179,"Gray County, TX",Texas,Gray,
+CN4818100000000,48,181,"Grayson County, TX",Texas,Grayson,13
+CN4818300000000,48,183,"Gregg County, TX",Texas,Gregg,6
+CN4818500000000,48,185,"Grimes County, TX",Texas,Grimes,
+CN4818700000000,48,187,"Guadalupe County, TX",Texas,Guadalupe,7
+CN4818900000000,48,189,"Hale County, TX",Texas,Hale,10
+CN4819100000000,48,191,"Hall County, TX",Texas,Hall,
+CN4819300000000,48,193,"Hamilton County, TX",Texas,Hamilton,
+CN4819500000000,48,195,"Hansford County, TX",Texas,Hansford,
+CN4819700000000,48,197,"Hardeman County, TX",Texas,Hardeman,
+CN4819900000000,48,199,"Hardin County, TX",Texas,Hardin,11
+CN4820100000000,48,201,"Harris County, TX",Texas,Harris,10
+CN4820300000000,48,203,"Harrison County, TX",Texas,Harrison,11
+CN4820500000000,48,205,"Hartley County, TX",Texas,Hartley,
+CN4820700000000,48,207,"Haskell County, TX",Texas,Haskell,
+CN4820900000000,48,209,"Hays County, TX",Texas,Hays,6
+CN4821100000000,48,211,"Hemphill County, TX",Texas,Hemphill,
+CN4821300000000,48,213,"Henderson County, TX",Texas,Henderson,17
+CN4821500000000,48,215,"Hidalgo County, TX",Texas,Hidalgo,3
+CN4821700000000,48,217,"Hill County, TX",Texas,Hill,11
+CN4821900000000,48,219,"Hockley County, TX",Texas,Hockley,
+CN4822100000000,48,221,"Hood County, TX",Texas,Hood,19
+CN4822300000000,48,223,"Hopkins County, TX",Texas,Hopkins,
+CN4822500000000,48,225,"Houston County, TX",Texas,Houston,
+CN4822700000000,48,227,"Howard County, TX",Texas,Howard,13
+CN4822900000000,48,229,"Hudspeth County, TX",Texas,Hudspeth,
+CN4823100000000,48,231,"Hunt County, TX",Texas,Hunt,12
+CN4823300000000,48,233,"Hutchinson County, TX",Texas,Hutchinson,
+CN4823500000000,48,235,"Irion County, TX",Texas,Irion,
+CN4823700000000,48,237,"Jack County, TX",Texas,Jack,
+CN4823900000000,48,239,"Jackson County, TX",Texas,Jackson,
+CN4824100000000,48,241,"Jasper County, TX",Texas,Jasper,
+CN4824300000000,48,243,"Jeff Davis County, TX",Texas,Jeff Davis,
+CN4824500000000,48,245,"Jefferson County, TX",Texas,Jefferson,11
+CN4824700000000,48,247,"Jim Hogg County, TX",Texas,Jim Hogg,
+CN4824900000000,48,249,"Jim Wells County, TX",Texas,Jim Wells,
+CN4825100000000,48,251,"Johnson County, TX",Texas,Johnson,9
+CN4825300000000,48,253,"Jones County, TX",Texas,Jones,
+CN4825500000000,48,255,"Karnes County, TX",Texas,Karnes,
+CN4825700000000,48,257,"Kaufman County, TX",Texas,Kaufman,14
+CN4825900000000,48,259,"Kendall County, TX",Texas,Kendall,
+CN4826100000000,48,261,"Kenedy County, TX",Texas,Kenedy,
+CN4826300000000,48,263,"Kent County, TX",Texas,Kent,
+CN4826500000000,48,265,"Kerr County, TX",Texas,Kerr,11
+CN4826700000000,48,267,"Kimble County, TX",Texas,Kimble,
+CN4826900000000,48,269,"King County, TX",Texas,King,
+CN4827100000000,48,271,"Kinney County, TX",Texas,Kinney,
+CN4827300000000,48,273,"Kleberg County, TX",Texas,Kleberg,
+CN4827500000000,48,275,"Knox County, TX",Texas,Knox,
+CN4827700000000,48,277,"Lamar County, TX",Texas,Lamar,14
+CN4827900000000,48,279,"Lamb County, TX",Texas,Lamb,
+CN4828100000000,48,281,"Lampasas County, TX",Texas,Lampasas,
+CN4828300000000,48,283,"La Salle County, TX",Texas,La Salle,
+CN4828500000000,48,285,"Lavaca County, TX",Texas,Lavaca,
+CN4828700000000,48,287,"Lee County, TX",Texas,Lee,
+CN4828900000000,48,289,"Leon County, TX",Texas,Leon,
+CN4829100000000,48,291,"Liberty County, TX",Texas,Liberty,14
+CN4829300000000,48,293,"Limestone County, TX",Texas,Limestone,
+CN4829500000000,48,295,"Lipscomb County, TX",Texas,Lipscomb,
+CN4829700000000,48,297,"Live Oak County, TX",Texas,Live Oak,
+CN4829900000000,48,299,"Llano County, TX",Texas,Llano,20
+CN4830100000000,48,301,"Loving County, TX",Texas,Loving,
+CN4830300000000,48,303,"Lubbock County, TX",Texas,Lubbock,11
+CN4830500000000,48,305,"Lynn County, TX",Texas,Lynn,
+CN4830700000000,48,307,"McCulloch County, TX",Texas,McCulloch,
+CN4830900000000,48,309,"McLennan County, TX",Texas,McLennan,8
+CN4831100000000,48,311,"McMullen County, TX",Texas,McMullen,
+CN4831300000000,48,313,"Madison County, TX",Texas,Madison,
+CN4831500000000,48,315,"Marion County, TX",Texas,Marion,
+CN4831700000000,48,317,"Martin County, TX",Texas,Martin,
+CN4831900000000,48,319,"Mason County, TX",Texas,Mason,
+CN4832100000000,48,321,"Matagorda County, TX",Texas,Matagorda,11
+CN4832300000000,48,323,"Maverick County, TX",Texas,Maverick,
+CN4832500000000,48,325,"Medina County, TX",Texas,Medina,
+CN4832700000000,48,327,"Menard County, TX",Texas,Menard,
+CN4832900000000,48,329,"Midland County, TX",Texas,Midland,11
+CN4833100000000,48,331,"Milam County, TX",Texas,Milam,
+CN4833300000000,48,333,"Mills County, TX",Texas,Mills,
+CN4833500000000,48,335,"Mitchell County, TX",Texas,Mitchell,
+CN4833700000000,48,337,"Montague County, TX",Texas,Montague,
+CN4833900000000,48,339,"Montgomery County, TX",Texas,Montgomery,10
+CN4834100000000,48,341,"Moore County, TX",Texas,Moore,
+CN4834300000000,48,343,"Morris County, TX",Texas,Morris,
+CN4834500000000,48,345,"Motley County, TX",Texas,Motley,
+CN4834700000000,48,347,"Nacogdoches County, TX",Texas,Nacogdoches,15
+CN4834900000000,48,349,"Navarro County, TX",Texas,Navarro,8
+CN4835100000000,48,351,"Newton County, TX",Texas,Newton,
+CN4835300000000,48,353,"Nolan County, TX",Texas,Nolan,
+CN4835500000000,48,355,"Nueces County, TX",Texas,Nueces,18
+CN4835700000000,48,357,"Ochiltree County, TX",Texas,Ochiltree,
+CN4835900000000,48,359,"Oldham County, TX",Texas,Oldham,
+CN4836100000000,48,361,"Orange County, TX",Texas,Orange,16
+CN4836300000000,48,363,"Palo Pinto County, TX",Texas,Palo Pinto,19
+CN4836500000000,48,365,"Panola County, TX",Texas,Panola,
+CN4836700000000,48,367,"Parker County, TX",Texas,Parker,11
+CN4836900000000,48,369,"Parmer County, TX",Texas,Parmer,
+CN4837100000000,48,371,"Pecos County, TX",Texas,Pecos,
+CN4837300000000,48,373,"Polk County, TX",Texas,Polk,18
+CN4837500000000,48,375,"Potter County, TX",Texas,Potter,16
+CN4837700000000,48,377,"Presidio County, TX",Texas,Presidio,
+CN4837900000000,48,379,"Rains County, TX",Texas,Rains,
+CN4838100000000,48,381,"Randall County, TX",Texas,Randall,9
+CN4838300000000,48,383,"Reagan County, TX",Texas,Reagan,
+CN4838500000000,48,385,"Real County, TX",Texas,Real,
+CN4838700000000,48,387,"Red River County, TX",Texas,Red River,
+CN4838900000000,48,389,"Reeves County, TX",Texas,Reeves,26
+CN4839100000000,48,391,"Refugio County, TX",Texas,Refugio,
+CN4839300000000,48,393,"Roberts County, TX",Texas,Roberts,
+CN4839500000000,48,395,"Robertson County, TX",Texas,Robertson,
+CN4839700000000,48,397,"Rockwall County, TX",Texas,Rockwall,8
+CN4839900000000,48,399,"Runnels County, TX",Texas,Runnels,
+CN4840100000000,48,401,"Rusk County, TX",Texas,Rusk,6
+CN4840300000000,48,403,"Sabine County, TX",Texas,Sabine,
+CN4840500000000,48,405,"San Augustine County, TX",Texas,San Augustine,
+CN4840700000000,48,407,"San Jacinto County, TX",Texas,San Jacinto,
+CN4840900000000,48,409,"San Patricio County, TX",Texas,San Patricio,15
+CN4841100000000,48,411,"San Saba County, TX",Texas,San Saba,
+CN4841300000000,48,413,"Schleicher County, TX",Texas,Schleicher,
+CN4841500000000,48,415,"Scurry County, TX",Texas,Scurry,
+CN4841700000000,48,417,"Shackelford County, TX",Texas,Shackelford,
+CN4841900000000,48,419,"Shelby County, TX",Texas,Shelby,
+CN4842100000000,48,421,"Sherman County, TX",Texas,Sherman,
+CN4842300000000,48,423,"Smith County, TX",Texas,Smith,10
+CN4842500000000,48,425,"Somervell County, TX",Texas,Somervell,
+CN4842700000000,48,427,"Starr County, TX",Texas,Starr,
+CN4842900000000,48,429,"Stephens County, TX",Texas,Stephens,
+CN4843100000000,48,431,"Sterling County, TX",Texas,Sterling,
+CN4843300000000,48,433,"Stonewall County, TX",Texas,Stonewall,
+CN4843500000000,48,435,"Sutton County, TX",Texas,Sutton,
+CN4843700000000,48,437,"Swisher County, TX",Texas,Swisher,
+CN4843900000000,48,439,"Tarrant County, TX",Texas,Tarrant,9
+CN4844100000000,48,441,"Taylor County, TX",Texas,Taylor,12
+CN4844300000000,48,443,"Terrell County, TX",Texas,Terrell,
+CN4844500000000,48,445,"Terry County, TX",Texas,Terry,
+CN4844700000000,48,447,"Throckmorton County, TX",Texas,Throckmorton,
+CN4844900000000,48,449,"Titus County, TX",Texas,Titus,
+CN4845100000000,48,451,"Tom Green County, TX",Texas,Tom Green,9
+CN4845300000000,48,453,"Travis County, TX",Texas,Travis,12
+CN4845500000000,48,455,"Trinity County, TX",Texas,Trinity,
+CN4845700000000,48,457,"Tyler County, TX",Texas,Tyler,16
+CN4845900000000,48,459,"Upshur County, TX",Texas,Upshur,
+CN4846100000000,48,461,"Upton County, TX",Texas,Upton,
+CN4846300000000,48,463,"Uvalde County, TX",Texas,Uvalde,
+CN4846500000000,48,465,"Val Verde County, TX",Texas,Val Verde,
+CN4846700000000,48,467,"Van Zandt County, TX",Texas,Van Zandt,14
+CN4846900000000,48,469,"Victoria County, TX",Texas,Victoria,10
+CN4847100000000,48,471,"Walker County, TX",Texas,Walker,
+CN4847300000000,48,473,"Waller County, TX",Texas,Waller,9
+CN4847500000000,48,475,"Ward County, TX",Texas,Ward,
+CN4847700000000,48,477,"Washington County, TX",Texas,Washington,
+CN4847900000000,48,479,"Webb County, TX",Texas,Webb,10
+CN4848100000000,48,481,"Wharton County, TX",Texas,Wharton,
+CN4848300000000,48,483,"Wheeler County, TX",Texas,Wheeler,
+CN4848500000000,48,485,"Wichita County, TX",Texas,Wichita,16
+CN4848700000000,48,487,"Wilbarger County, TX",Texas,Wilbarger,
+CN4848900000000,48,489,"Willacy County, TX",Texas,Willacy,
+CN4849100000000,48,491,"Williamson County, TX",Texas,Williamson,7
+CN4849300000000,48,493,"Wilson County, TX",Texas,Wilson,8
+CN4849500000000,48,495,"Winkler County, TX",Texas,Winkler,
+CN4849700000000,48,497,"Wise County, TX",Texas,Wise,10
+CN4849900000000,48,499,"Wood County, TX",Texas,Wood,11
+CN4850100000000,48,501,"Yoakum County, TX",Texas,Yoakum,
+CN4850300000000,48,503,"Young County, TX",Texas,Young,20
+CN4850500000000,48,505,"Zapata County, TX",Texas,Zapata,
+CN4850700000000,48,507,"Zavala County, TX",Texas,Zavala,
+CN4900100000000,49,1,"Beaver County, UT",Utah,Beaver,
+CN4900300000000,49,3,"Box Elder County, UT",Utah,Box Elder,19
+CN4900500000000,49,5,"Cache County, UT",Utah,Cache,12
+CN4900700000000,49,7,"Carbon County, UT",Utah,Carbon,53
+CN4900900000000,49,9,"Daggett County, UT",Utah,Daggett,
+CN4901100000000,49,11,"Davis County, UT",Utah,Davis,15
+CN4901300000000,49,13,"Duchesne County, UT",Utah,Duchesne,31
+CN4901500000000,49,15,"Emery County, UT",Utah,Emery,35
+CN4901700000000,49,17,"Garfield County, UT",Utah,Garfield,
+CN4901900000000,49,19,"Grand County, UT",Utah,Grand,
+CN4902100000000,49,21,"Iron County, UT",Utah,Iron,17
+CN4902300000000,49,23,"Juab County, UT",Utah,Juab,
+CN4902500000000,49,25,"Kane County, UT",Utah,Kane,
+CN4902700000000,49,27,"Millard County, UT",Utah,Millard,
+CN4902900000000,49,29,"Morgan County, UT",Utah,Morgan,
+CN4903100000000,49,31,"Piute County, UT",Utah,Piute,
+CN4903300000000,49,33,"Rich County, UT",Utah,Rich,
+CN4903500000000,49,35,"Salt Lake County, UT",Utah,Salt Lake,25
+CN4903700000000,49,37,"San Juan County, UT",Utah,San Juan,
+CN4903900000000,49,39,"Sanpete County, UT",Utah,Sanpete,21
+CN4904100000000,49,41,"Sevier County, UT",Utah,Sevier,
+CN4904300000000,49,43,"Summit County, UT",Utah,Summit,15
+CN4904500000000,49,45,"Tooele County, UT",Utah,Tooele,31
+CN4904700000000,49,47,"Uintah County, UT",Utah,Uintah,17
+CN4904900000000,49,49,"Utah County, UT",Utah,Utah,16
+CN4905100000000,49,51,"Wasatch County, UT",Utah,Wasatch,12
+CN4905300000000,49,53,"Washington County, UT",Utah,Washington,21
+CN4905500000000,49,55,"Wayne County, UT",Utah,Wayne,
+CN4905700000000,49,57,"Weber County, UT",Utah,Weber,25
+CN5000100000000,50,1,"Addison County, VT",Vermont,Addison,11
+CN5000300000000,50,3,"Bennington County, VT",Vermont,Bennington,14
+CN5000500000000,50,5,"Caledonia County, VT",Vermont,Caledonia,11
+CN5000700000000,50,7,"Chittenden County, VT",Vermont,Chittenden,13
+CN5000900000000,50,9,"Essex County, VT",Vermont,Essex,
+CN5001100000000,50,11,"Franklin County, VT",Vermont,Franklin,20
+CN5001300000000,50,13,"Grand Isle County, VT",Vermont,Grand Isle,
+CN5001500000000,50,15,"Lamoille County, VT",Vermont,Lamoille,16
+CN5001700000000,50,17,"Orange County, VT",Vermont,Orange,13
+CN5001900000000,50,19,"Orleans County, VT",Vermont,Orleans,17
+CN5002100000000,50,21,"Rutland County, VT",Vermont,Rutland,19
+CN5002300000000,50,23,"Washington County, VT",Vermont,Washington,11
+CN5002500000000,50,25,"Windham County, VT",Vermont,Windham,13
+CN5002700000000,50,27,"Windsor County, VT",Vermont,Windsor,17
+CN5100100000000,51,1,"Accomack County, VA",Virginia,Accomack,14
+CN5100300000000,51,3,"Albemarle County, VA",Virginia,Albemarle,6
+CN5100500000000,51,5,"Alleghany County, VA",Virginia,Alleghany,
+CN5100700000000,51,7,"Amelia County, VA",Virginia,Amelia,
+CN5100900000000,51,9,"Amherst County, VA",Virginia,Amherst,
+CN5101100000000,51,11,"Appomattox County, VA",Virginia,Appomattox,
+CN5101300000000,51,13,"Arlington County, VA",Virginia,Arlington,6
+CN5101500000000,51,15,"Augusta County, VA",Virginia,Augusta,10
+CN5101700000000,51,17,"Bath County, VA",Virginia,Bath,
+CN5101900000000,51,19,"Bedford County, VA",Virginia,Bedford,11
+CN5102100000000,51,21,"Bland County, VA",Virginia,Bland,
+CN5102300000000,51,23,"Botetourt County, VA",Virginia,Botetourt,11
+CN5102500000000,51,25,"Brunswick County, VA",Virginia,Brunswick,
+CN5102700000000,51,27,"Buchanan County, VA",Virginia,Buchanan,42
+CN5102900000000,51,29,"Buckingham County, VA",Virginia,Buckingham,
+CN5103100000000,51,31,"Campbell County, VA",Virginia,Campbell,10
+CN5103300000000,51,33,"Caroline County, VA",Virginia,Caroline,12
+CN5103500000000,51,35,"Carroll County, VA",Virginia,Carroll,16
+CN5103600000000,51,36,"Charles City County, VA",Virginia,Charles City,
+CN5103700000000,51,37,"Charlotte County, VA",Virginia,Charlotte,
+CN5104100000000,51,41,"Chesterfield County, VA",Virginia,Chesterfield,10
+CN5104300000000,51,43,"Clarke County, VA",Virginia,Clarke,
+CN5104500000000,51,45,"Craig County, VA",Virginia,Craig,
+CN5104700000000,51,47,"Culpeper County, VA",Virginia,Culpeper,28
+CN5104900000000,51,49,"Cumberland County, VA",Virginia,Cumberland,
+CN5105100000000,51,51,"Dickenson County, VA",Virginia,Dickenson,41
+CN5105300000000,51,53,"Dinwiddie County, VA",Virginia,Dinwiddie,
+CN5105700000000,51,57,"Essex County, VA",Virginia,Essex,
+CN5105900000000,51,59,"Fairfax County, VA",Virginia,Fairfax,6
+CN5106100000000,51,61,"Fauquier County, VA",Virginia,Fauquier,13
+CN5106300000000,51,63,"Floyd County, VA",Virginia,Floyd,
+CN5106500000000,51,65,"Fluvanna County, VA",Virginia,Fluvanna,
+CN5106700000000,51,67,"Franklin County, VA",Virginia,Franklin,13
+CN5106900000000,51,69,"Frederick County, VA",Virginia,Frederick,23
+CN5107100000000,51,71,"Giles County, VA",Virginia,Giles,24
+CN5107300000000,51,73,"Gloucester County, VA",Virginia,Gloucester,16
+CN5107500000000,51,75,"Goochland County, VA",Virginia,Goochland,
+CN5107700000000,51,77,"Grayson County, VA",Virginia,Grayson,
+CN5107900000000,51,79,"Greene County, VA",Virginia,Greene,
+CN5108100000000,51,81,"Greensville County, VA",Virginia,Greensville,
+CN5108300000000,51,83,"Halifax County, VA",Virginia,Halifax,
+CN5108500000000,51,85,"Hanover County, VA",Virginia,Hanover,13
+CN5108700000000,51,87,"Henrico County, VA",Virginia,Henrico,11
+CN5108900000000,51,89,"Henry County, VA",Virginia,Henry,19
+CN5109100000000,51,91,"Highland County, VA",Virginia,Highland,
+CN5109300000000,51,93,"Isle of Wight County, VA",Virginia,Isle of Wight,
+CN5109500000000,51,95,"James City County, VA",Virginia,James City,7
+CN5109700000000,51,97,"King and Queen County, VA",Virginia,King and Queen,
+CN5109900000000,51,99,"King George County, VA",Virginia,King George,
+CN5110100000000,51,101,"King William County, VA",Virginia,King William,
+CN5110300000000,51,103,"Lancaster County, VA",Virginia,Lancaster,
+CN5110500000000,51,105,"Lee County, VA",Virginia,Lee,23
+CN5110700000000,51,107,"Loudoun County, VA",Virginia,Loudoun,7
+CN5110900000000,51,109,"Louisa County, VA",Virginia,Louisa,
+CN5111100000000,51,111,"Lunenburg County, VA",Virginia,Lunenburg,
+CN5111300000000,51,113,"Madison County, VA",Virginia,Madison,
+CN5111500000000,51,115,"Mathews County, VA",Virginia,Mathews,
+CN5111700000000,51,117,"Mecklenburg County, VA",Virginia,Mecklenburg,11
+CN5111900000000,51,119,"Middlesex County, VA",Virginia,Middlesex,
+CN5112100000000,51,121,"Montgomery County, VA",Virginia,Montgomery,9
+CN5112500000000,51,125,"Nelson County, VA",Virginia,Nelson,
+CN5112700000000,51,127,"New Kent County, VA",Virginia,New Kent,
+CN5113100000000,51,131,"Northampton County, VA",Virginia,Northampton,
+CN5113300000000,51,133,"Northumberland County, VA",Virginia,Northumberland,
+CN5113500000000,51,135,"Nottoway County, VA",Virginia,Nottoway,
+CN5113700000000,51,137,"Orange County, VA",Virginia,Orange,27
+CN5113900000000,51,139,"Page County, VA",Virginia,Page,20
+CN5114100000000,51,141,"Patrick County, VA",Virginia,Patrick,33
+CN5114300000000,51,143,"Pittsylvania County, VA",Virginia,Pittsylvania,11
+CN5114500000000,51,145,"Powhatan County, VA",Virginia,Powhatan,
+CN5114700000000,51,147,"Prince Edward County, VA",Virginia,Prince Edward,
+CN5114900000000,51,149,"Prince George County, VA",Virginia,Prince George,
+CN5115300000000,51,153,"Prince William County, VA",Virginia,Prince William,7
+CN5115500000000,51,155,"Pulaski County, VA",Virginia,Pulaski,24
+CN5115700000000,51,157,"Rappahannock County, VA",Virginia,Rappahannock,
+CN5115900000000,51,159,"Richmond County, VA",Virginia,Richmond,
+CN5116100000000,51,161,"Roanoke County, VA",Virginia,Roanoke,13
+CN5116300000000,51,163,"Rockbridge County, VA",Virginia,Rockbridge,
+CN5116500000000,51,165,"Rockingham County, VA",Virginia,Rockingham,6
+CN5116700000000,51,167,"Russell County, VA",Virginia,Russell,24
+CN5116900000000,51,169,"Scott County, VA",Virginia,Scott,18
+CN5117100000000,51,171,"Shenandoah County, VA",Virginia,Shenandoah,16
+CN5117300000000,51,173,"Smyth County, VA",Virginia,Smyth,13
+CN5117500000000,51,175,"Southampton County, VA",Virginia,Southampton,
+CN5117700000000,51,177,"Spotsylvania County, VA",Virginia,Spotsylvania,13
+CN5117900000000,51,179,"Stafford County, VA",Virginia,Stafford,10
+CN5118100000000,51,181,"Surry County, VA",Virginia,Surry,
+CN5118300000000,51,183,"Sussex County, VA",Virginia,Sussex,
+CN5118500000000,51,185,"Tazewell County, VA",Virginia,Tazewell,29
+CN5118700000000,51,187,"Warren County, VA",Virginia,Warren,26
+CN5119100000000,51,191,"Washington County, VA",Virginia,Washington,17
+CN5119300000000,51,193,"Westmoreland County, VA",Virginia,Westmoreland,
+CN5119500000000,51,195,"Wise County, VA",Virginia,Wise,29
+CN5119700000000,51,197,"Wythe County, VA",Virginia,Wythe,27
+CN5119900000000,51,199,"York County, VA",Virginia,York,8
+CN5151000000000,51,510,"Alexandria city, VA",Virginia,Alexandria City,9
+CN5152000000000,51,520,"Bristol city, VA",Virginia,Bristol City,21
+CN5153000000000,51,530,"Buena Vista city, VA",Virginia,Buena Vista City,
+CN5154000000000,51,540,"Charlottesville city, VA",Virginia,Charlottesville City,10
+CN5155000000000,51,550,"Chesapeake city, VA",Virginia,Chesapeake City,14
+CN5157000000000,51,570,"Colonial Heights city, VA",Virginia,Colonial Heights City,
+CN5158000000000,51,580,"Covington city, VA",Virginia,Covington City,
+CN5159000000000,51,590,"Danville city, VA",Virginia,Danville City,16
+CN5159500000000,51,595,"Emporia city, VA",Virginia,Emporia City,
+CN5160000000000,51,600,"Fairfax city, VA",Virginia,Fairfax City,14
+CN5161000000000,51,610,"Falls Church city, VA",Virginia,Falls Church City,
+CN5162000000000,51,620,"Franklin city, VA",Virginia,Franklin City,
+CN5163000000000,51,630,"Fredericksburg city, VA",Virginia,Fredericksburg City,20
+CN5164000000000,51,640,"Galax city, VA",Virginia,Galax City,
+CN5165000000000,51,650,"Hampton city, VA",Virginia,Hampton City,13
+CN5166000000000,51,660,"Harrisonburg city, VA",Virginia,Harrisonburg City,8
+CN5167000000000,51,670,"Hopewell city, VA",Virginia,Hopewell City,
+CN5167800000000,51,678,"Lexington city, VA",Virginia,Lexington City,
+CN5168000000000,51,680,"Lynchburg city, VA",Virginia,Lynchburg City,7
+CN5168300000000,51,683,"Manassas city, VA",Virginia,Manassas City,10
+CN5168500000000,51,685,"Manassas Park city, VA",Virginia,Manassas Park City,
+CN5169000000000,51,690,"Martinsville city, VA",Virginia,Martinsville City,34
+CN5170000000000,51,700,"Newport News city, VA",Virginia,Newport News City,13
+CN5171000000000,51,710,"Norfolk city, VA",Virginia,Norfolk City,15
+CN5172000000000,51,720,"Norton city, VA",Virginia,Norton City,
+CN5173000000000,51,730,"Petersburg city, VA",Virginia,Petersburg City,11
+CN5173500000000,51,735,"Poquoson city, VA",Virginia,Poquoson City,
+CN5174000000000,51,740,"Portsmouth city, VA",Virginia,Portsmouth City,18
+CN5175000000000,51,750,"Radford city, VA",Virginia,Radford City,
+CN5176000000000,51,760,"Richmond city, VA",Virginia,Richmond City,20
+CN5177000000000,51,770,"Roanoke city, VA",Virginia,Roanoke City,20
+CN5177500000000,51,775,"Salem city, VA",Virginia,Salem City,20
+CN5179000000000,51,790,"Staunton city, VA",Virginia,Staunton City,19
+CN5180000000000,51,800,"Suffolk city, VA",Virginia,Suffolk City,9
+CN5181000000000,51,810,"Virginia Beach city, VA",Virginia,Virginia Beach City,13
+CN5182000000000,51,820,"Waynesboro city, VA",Virginia,Waynesboro City,17
+CN5183000000000,51,830,"Williamsburg city, VA",Virginia,Williamsburg City,
+CN5184000000000,51,840,"Winchester city, VA",Virginia,Winchester City,17
+CN5300100000000,53,1,"Adams County, WA",Washington,Adams,
+CN5300300000000,53,3,"Asotin County, WA",Washington,Asotin,
+CN5300500000000,53,5,"Benton County, WA",Washington,Benton,14
+CN5300700000000,53,7,"Chelan County, WA",Washington,Chelan,11
+CN5300900000000,53,9,"Clallam County, WA",Washington,Clallam,19
+CN5301100000000,53,11,"Clark County, WA",Washington,Clark,14
+CN5301300000000,53,13,"Columbia County, WA",Washington,Columbia,
+CN5301500000000,53,15,"Cowlitz County, WA",Washington,Cowlitz,20
+CN5301700000000,53,17,"Douglas County, WA",Washington,Douglas,16
+CN5301900000000,53,19,"Ferry County, WA",Washington,Ferry,
+CN5302100000000,53,21,"Franklin County, WA",Washington,Franklin,7
+CN5302300000000,53,23,"Garfield County, WA",Washington,Garfield,
+CN5302500000000,53,25,"Grant County, WA",Washington,Grant,10
+CN5302700000000,53,27,"Grays Harbor County, WA",Washington,Grays Harbor,23
+CN5302900000000,53,29,"Island County, WA",Washington,Island,15
+CN5303100000000,53,31,"Jefferson County, WA",Washington,Jefferson,
+CN5303300000000,53,33,"King County, WA",Washington,King,14
+CN5303500000000,53,35,"Kitsap County, WA",Washington,Kitsap,13
+CN5303700000000,53,37,"Kittitas County, WA",Washington,Kittitas,11
+CN5303900000000,53,39,"Klickitat County, WA",Washington,Klickitat,
+CN5304100000000,53,41,"Lewis County, WA",Washington,Lewis,15
+CN5304300000000,53,43,"Lincoln County, WA",Washington,Lincoln,
+CN5304500000000,53,45,"Mason County, WA",Washington,Mason,20
+CN5304700000000,53,47,"Okanogan County, WA",Washington,Okanogan,15
+CN5304900000000,53,49,"Pacific County, WA",Washington,Pacific,23
+CN5305100000000,53,51,"Pend Oreille County, WA",Washington,Pend Oreille,
+CN5305300000000,53,53,"Pierce County, WA",Washington,Pierce,16
+CN5305500000000,53,55,"San Juan County, WA",Washington,San Juan,
+CN5305700000000,53,57,"Skagit County, WA",Washington,Skagit,18
+CN5305900000000,53,59,"Skamania County, WA",Washington,Skamania,
+CN5306100000000,53,61,"Snohomish County, WA",Washington,Snohomish,17
+CN5306300000000,53,63,"Spokane County, WA",Washington,Spokane,15
+CN5306500000000,53,65,"Stevens County, WA",Washington,Stevens,12
+CN5306700000000,53,67,"Thurston County, WA",Washington,Thurston,12
+CN5306900000000,53,69,"Wahkiakum County, WA",Washington,Wahkiakum,
+CN5307100000000,53,71,"Walla Walla County, WA",Washington,Walla Walla,19
+CN5307300000000,53,73,"Whatcom County, WA",Washington,Whatcom,11
+CN5307500000000,53,75,"Whitman County, WA",Washington,Whitman,8
+CN5307700000000,53,77,"Yakima County, WA",Washington,Yakima,9
+CN5400100000000,54,1,"Barbour County, WV",West Virginia,Barbour,
+CN5400300000000,54,3,"Berkeley County, WV",West Virginia,Berkeley,41
+CN5400500000000,54,5,"Boone County, WV",West Virginia,Boone,83
+CN5400700000000,54,7,"Braxton County, WV",West Virginia,Braxton,
+CN5400900000000,54,9,"Brooke County, WV",West Virginia,Brooke,38
+CN5401100000000,54,11,"Cabell County, WV",West Virginia,Cabell,61
+CN5401300000000,54,13,"Calhoun County, WV",West Virginia,Calhoun,
+CN5401500000000,54,15,"Clay County, WV",West Virginia,Clay,
+CN5401700000000,54,17,"Doddridge County, WV",West Virginia,Doddridge,
+CN5401900000000,54,19,"Fayette County, WV",West Virginia,Fayette,39
+CN5402100000000,54,21,"Gilmer County, WV",West Virginia,Gilmer,
+CN5402300000000,54,23,"Grant County, WV",West Virginia,Grant,
+CN5402500000000,54,25,"Greenbrier County, WV",West Virginia,Greenbrier,28
+CN5402700000000,54,27,"Hampshire County, WV",West Virginia,Hampshire,33
+CN5402900000000,54,29,"Hancock County, WV",West Virginia,Hancock,53
+CN5403100000000,54,31,"Hardy County, WV",West Virginia,Hardy,
+CN5403300000000,54,33,"Harrison County, WV",West Virginia,Harrison,28
+CN5403500000000,54,35,"Jackson County, WV",West Virginia,Jackson,21
+CN5403700000000,54,37,"Jefferson County, WV",West Virginia,Jefferson,27
+CN5403900000000,54,39,"Kanawha County, WV",West Virginia,Kanawha,44
+CN5404100000000,54,41,"Lewis County, WV",West Virginia,Lewis,
+CN5404300000000,54,43,"Lincoln County, WV",West Virginia,Lincoln,37
+CN5404500000000,54,45,"Logan County, WV",West Virginia,Logan,61
+CN5404700000000,54,47,"McDowell County, WV",West Virginia,McDowell,93
+CN5404900000000,54,49,"Marion County, WV",West Virginia,Marion,11
+CN5405100000000,54,51,"Marshall County, WV",West Virginia,Marshall,17
+CN5405300000000,54,53,"Mason County, WV",West Virginia,Mason,32
+CN5405500000000,54,55,"Mercer County, WV",West Virginia,Mercer,56
+CN5405700000000,54,57,"Mineral County, WV",West Virginia,Mineral,18
+CN5405900000000,54,59,"Mingo County, WV",West Virginia,Mingo,65
+CN5406100000000,54,61,"Monongalia County, WV",West Virginia,Monongalia,12
+CN5406300000000,54,63,"Monroe County, WV",West Virginia,Monroe,30
+CN5406500000000,54,65,"Morgan County, WV",West Virginia,Morgan,32
+CN5406700000000,54,67,"Nicholas County, WV",West Virginia,Nicholas,41
+CN5406900000000,54,69,"Ohio County, WV",West Virginia,Ohio,25
+CN5407100000000,54,71,"Pendleton County, WV",West Virginia,Pendleton,
+CN5407300000000,54,73,"Pleasants County, WV",West Virginia,Pleasants,
+CN5407500000000,54,75,"Pocahontas County, WV",West Virginia,Pocahontas,
+CN5407700000000,54,77,"Preston County, WV",West Virginia,Preston,15
+CN5407900000000,54,79,"Putnam County, WV",West Virginia,Putnam,25
+CN5408100000000,54,81,"Raleigh County, WV",West Virginia,Raleigh,58
+CN5408300000000,54,83,"Randolph County, WV",West Virginia,Randolph,16
+CN5408500000000,54,85,"Ritchie County, WV",West Virginia,Ritchie,
+CN5408700000000,54,87,"Roane County, WV",West Virginia,Roane,
+CN5408900000000,54,89,"Summers County, WV",West Virginia,Summers,30
+CN5409100000000,54,91,"Taylor County, WV",West Virginia,Taylor,
+CN5409300000000,54,93,"Tucker County, WV",West Virginia,Tucker,
+CN5409500000000,54,95,"Tyler County, WV",West Virginia,Tyler,
+CN5409700000000,54,97,"Upshur County, WV",West Virginia,Upshur,
+CN5409900000000,54,99,"Wayne County, WV",West Virginia,Wayne,42
+CN5410100000000,54,101,"Webster County, WV",West Virginia,Webster,
+CN5410300000000,54,103,"Wetzel County, WV",West Virginia,Wetzel,21
+CN5410500000000,54,105,"Wirt County, WV",West Virginia,Wirt,
+CN5410700000000,54,107,"Wood County, WV",West Virginia,Wood,25
+CN5410900000000,54,109,"Wyoming County, WV",West Virginia,Wyoming,84
+CN5500100000000,55,1,"Adams County, WI",Wisconsin,Adams,18
+CN5500300000000,55,3,"Ashland County, WI",Wisconsin,Ashland,
+CN5500500000000,55,5,"Barron County, WI",Wisconsin,Barron,11
+CN5500700000000,55,7,"Bayfield County, WI",Wisconsin,Bayfield,
+CN5500900000000,55,9,"Brown County, WI",Wisconsin,Brown,11
+CN5501100000000,55,11,"Buffalo County, WI",Wisconsin,Buffalo,
+CN5501300000000,55,13,"Burnett County, WI",Wisconsin,Burnett,
+CN5501500000000,55,15,"Calumet County, WI",Wisconsin,Calumet,11
+CN5501700000000,55,17,"Chippewa County, WI",Wisconsin,Chippewa,7
+CN5501900000000,55,19,"Clark County, WI",Wisconsin,Clark,
+CN5502100000000,55,21,"Columbia County, WI",Wisconsin,Columbia,20
+CN5502300000000,55,23,"Crawford County, WI",Wisconsin,Crawford,
+CN5502500000000,55,25,"Dane County, WI",Wisconsin,Dane,16
+CN5502700000000,55,27,"Dodge County, WI",Wisconsin,Dodge,17
+CN5502900000000,55,29,"Door County, WI",Wisconsin,Door,12
+CN5503100000000,55,31,"Douglas County, WI",Wisconsin,Douglas,11
+CN5503300000000,55,33,"Dunn County, WI",Wisconsin,Dunn,
+CN5503500000000,55,35,"Eau Claire County, WI",Wisconsin,Eau Claire,8
+CN5503700000000,55,37,"Florence County, WI",Wisconsin,Florence,
+CN5503900000000,55,39,"Fond du Lac County, WI",Wisconsin,Fond du Lac,12
+CN5504100000000,55,41,"Forest County, WI",Wisconsin,Forest,
+CN5504300000000,55,43,"Grant County, WI",Wisconsin,Grant,8
+CN5504500000000,55,45,"Green County, WI",Wisconsin,Green,9
+CN5504700000000,55,47,"Green Lake County, WI",Wisconsin,Green Lake,
+CN5504900000000,55,49,"Iowa County, WI",Wisconsin,Iowa,
+CN5505100000000,55,51,"Iron County, WI",Wisconsin,Iron,
+CN5505300000000,55,53,"Jackson County, WI",Wisconsin,Jackson,
+CN5505500000000,55,55,"Jefferson County, WI",Wisconsin,Jefferson,14
+CN5505700000000,55,57,"Juneau County, WI",Wisconsin,Juneau,
+CN5505900000000,55,59,"Kenosha County, WI",Wisconsin,Kenosha,25
+CN5506100000000,55,61,"Kewaunee County, WI",Wisconsin,Kewaunee,
+CN5506300000000,55,63,"La Crosse County, WI",Wisconsin,La Crosse,9
+CN5506500000000,55,65,"Lafayette County, WI",Wisconsin,Lafayette,
+CN5506700000000,55,67,"Langlade County, WI",Wisconsin,Langlade,
+CN5506900000000,55,69,"Lincoln County, WI",Wisconsin,Lincoln,14
+CN5507100000000,55,71,"Manitowoc County, WI",Wisconsin,Manitowoc,18
+CN5507300000000,55,73,"Marathon County, WI",Wisconsin,Marathon,8
+CN5507500000000,55,75,"Marinette County, WI",Wisconsin,Marinette,8
+CN5507700000000,55,77,"Marquette County, WI",Wisconsin,Marquette,
+CN5507800000000,55,78,"Menominee County, WI",Wisconsin,Menominee,
+CN5507900000000,55,79,"Milwaukee County, WI",Wisconsin,Milwaukee,26
+CN5508100000000,55,81,"Monroe County, WI",Wisconsin,Monroe,14
+CN5508300000000,55,83,"Oconto County, WI",Wisconsin,Oconto,
+CN5508500000000,55,85,"Oneida County, WI",Wisconsin,Oneida,11
+CN5508700000000,55,87,"Outagamie County, WI",Wisconsin,Outagamie,9
+CN5508900000000,55,89,"Ozaukee County, WI",Wisconsin,Ozaukee,11
+CN5509100000000,55,91,"Pepin County, WI",Wisconsin,Pepin,
+CN5509300000000,55,93,"Pierce County, WI",Wisconsin,Pierce,8
+CN5509500000000,55,95,"Polk County, WI",Wisconsin,Polk,9
+CN5509700000000,55,97,"Portage County, WI",Wisconsin,Portage,8
+CN5509900000000,55,99,"Price County, WI",Wisconsin,Price,
+CN5510100000000,55,101,"Racine County, WI",Wisconsin,Racine,21
+CN5510300000000,55,103,"Richland County, WI",Wisconsin,Richland,
+CN5510500000000,55,105,"Rock County, WI",Wisconsin,Rock,19
+CN5510700000000,55,107,"Rusk County, WI",Wisconsin,Rusk,
+CN5510900000000,55,109,"St. Croix County, WI",Wisconsin,St. Croix,8
+CN5511100000000,55,111,"Sauk County, WI",Wisconsin,Sauk,15
+CN5511300000000,55,113,"Sawyer County, WI",Wisconsin,Sawyer,20
+CN5511500000000,55,115,"Shawano County, WI",Wisconsin,Shawano,
+CN5511700000000,55,117,"Sheboygan County, WI",Wisconsin,Sheboygan,13
+CN5511900000000,55,119,"Taylor County, WI",Wisconsin,Taylor,
+CN5512100000000,55,121,"Trempealeau County, WI",Wisconsin,Trempealeau,
+CN5512300000000,55,123,"Vernon County, WI",Wisconsin,Vernon,
+CN5512500000000,55,125,"Vilas County, WI",Wisconsin,Vilas,20
+CN5512700000000,55,127,"Walworth County, WI",Wisconsin,Walworth,15
+CN5512900000000,55,129,"Washburn County, WI",Wisconsin,Washburn,
+CN5513100000000,55,131,"Washington County, WI",Wisconsin,Washington,15
+CN5513300000000,55,133,"Waukesha County, WI",Wisconsin,Waukesha,12
+CN5513500000000,55,135,"Waupaca County, WI",Wisconsin,Waupaca,7
+CN5513700000000,55,137,"Waushara County, WI",Wisconsin,Waushara,
+CN5513900000000,55,139,"Winnebago County, WI",Wisconsin,Winnebago,13
+CN5514100000000,55,141,"Wood County, WI",Wisconsin,Wood,11
+CN5600100000000,56,1,"Albany County, WY",Wyoming,Albany,14
+CN5600300000000,56,3,"Big Horn County, WY",Wyoming,Big Horn,
+CN5600500000000,56,5,"Campbell County, WY",Wyoming,Campbell,16
+CN5600700000000,56,7,"Carbon County, WY",Wyoming,Carbon,28
+CN5600900000000,56,9,"Converse County, WY",Wyoming,Converse,
+CN5601100000000,56,11,"Crook County, WY",Wyoming,Crook,
+CN5601300000000,56,13,"Fremont County, WY",Wyoming,Fremont,25
+CN5601500000000,56,15,"Goshen County, WY",Wyoming,Goshen,
+CN5601700000000,56,17,"Hot Springs County, WY",Wyoming,Hot Springs,
+CN5601900000000,56,19,"Johnson County, WY",Wyoming,Johnson,
+CN5602100000000,56,21,"Laramie County, WY",Wyoming,Laramie,18
+CN5602300000000,56,23,"Lincoln County, WY",Wyoming,Lincoln,18
+CN5602500000000,56,25,"Natrona County, WY",Wyoming,Natrona,22
+CN5602700000000,56,27,"Niobrara County, WY",Wyoming,Niobrara,
+CN5602900000000,56,29,"Park County, WY",Wyoming,Park,14
+CN5603100000000,56,31,"Platte County, WY",Wyoming,Platte,
+CN5603300000000,56,33,"Sheridan County, WY",Wyoming,Sheridan,12
+CN5603500000000,56,35,"Sublette County, WY",Wyoming,Sublette,
+CN5603700000000,56,37,"Sweetwater County, WY",Wyoming,Sweetwater,21
+CN5603900000000,56,39,"Teton County, WY",Wyoming,Teton,
+CN5604100000000,56,41,"Uinta County, WY",Wyoming,Uinta,35
+CN5604300000000,56,43,"Washakie County, WY",Wyoming,Washakie,
+CN5604500000000,56,45,"Weston County, WY",Wyoming,Weston,
