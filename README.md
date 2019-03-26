@@ -1,8 +1,6 @@
 # Predicting_Drug_Mortality
 Regression Analysis of U.S. drug mortality rates by county.
 
-## Proposal: Valery Lynn
-
 #### Title: Predicting drug overdose mortality rates by county level in the U.S.
 
 **Problem:** According to data collected by the Centers for Disease Control and Prevention (CDC) there were more than 63,000 drug overdose deaths in 2016. More than 66% of those involved an opioid. On October 26, 2017 the opioid crisis was officially declared a national Public Health Emergency under federal law. The economic burden of prescription opioid misuse is estimated by the CDC to be more than $78 billion a year.
