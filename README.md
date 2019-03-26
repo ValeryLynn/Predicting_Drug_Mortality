@@ -1,12 +1,11 @@
 # Predicting_Drug_Mortality
 Regression Analysis of U.S. drug mortality rates by county.
 
-## Capstone 1  Proposal: Valery Lynn    *******DRAFT*******
+## Proposal: Valery Lynn
 
 #### Title: Predicting drug overdose mortality rates by county level in the U.S.
 
-**Title:** Predicting drug overdose mortality rates by county level in the U.S.
-Problem: According to data collected by the Centers for Disease Control and Prevention (CDC) there were more than 63,000 drug overdose deaths in 2016. More than 66% of those involved an opioid. On October 26, 2017 the opioid crisis was officially declared a national Public Health Emergency under federal law. The economic burden of prescription opioid misuse is estimated by the CDC to be more than $78 billion a year.
+**Problem:** According to data collected by the Centers for Disease Control and Prevention (CDC) there were more than 63,000 drug overdose deaths in 2016. More than 66% of those involved an opioid. On October 26, 2017 the opioid crisis was officially declared a national Public Health Emergency under federal law. The economic burden of prescription opioid misuse is estimated by the CDC to be more than $78 billion a year.
 
 County level services such as hospitals, crisis centers, and local planning boards are in need of predictive models to inform planning, preparation, and resource allocation. This model can be used to better estimate the needs of the county to address this crisis. Examples include how many overdose kits hospitals need to have on stock, how many full-time crisis prevention professionals to employ, how many drug rehabilitation centers need to be established or funded, etc. Local employers are also stakeholders in this crisis. Reports suggest that companies in regions of high opioid usage are unable to maintain employees that can pass prerequisite drug tests for employment. This model can be used as a trends indicator for able local workers.
 
